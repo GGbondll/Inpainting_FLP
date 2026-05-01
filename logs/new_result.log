@@ -1,0 +1,135 @@
+2025-04-27 21:04:01 >>  
+Image: myset01, mask: mark, alpha = 1.5, p = 2.0, PSNR=40.832310
+psnr_destroyed=0.000000, psnr_inpainting=40.832310
+ssim_destroyed=0.000000, ssim_inpainting=0.989404
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-04-27 21:04:21 >>  
+Image: myset01, mask: random, alpha = 1.5, p = 2.0, PSNR=42.654842
+psnr_destroyed=0.000000, psnr_inpainting=42.654842
+ssim_destroyed=0.000000, ssim_inpainting=0.988265
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-04-27 21:04:36 >>  
+Image: myset01, mask: scratch, alpha = 1.6, p = 2.0, PSNR=53.674603
+psnr_destroyed=0.000000, psnr_inpainting=53.674603
+ssim_destroyed=0.000000, ssim_inpainting=0.998814
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-04-27 21:04:56 >>  
+Image: myset01, mask: waterprint, alpha = 1.5, p = 1.9, PSNR=44.573559
+psnr_destroyed=0.000000, psnr_inpainting=44.573559
+ssim_destroyed=0.000000, ssim_inpainting=0.991590
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-04-27 21:05:51 >>  
+Image: myset03, mask: mark, alpha = 1.6, p = 2.0, PSNR=35.945202
+psnr_destroyed=0.000000, psnr_inpainting=35.945202
+ssim_destroyed=0.000000, ssim_inpainting=0.964808
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-04-27 21:06:16 >>  
+Image: myset03, mask: random, alpha = 1.4, p = 2.0, PSNR=32.352512
+psnr_destroyed=0.000000, psnr_inpainting=32.352512
+ssim_destroyed=0.000000, ssim_inpainting=0.914422
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-04-27 21:06:23 >>  
+Image: myset03, mask: scratch, alpha = 1.3, p = 2.0, PSNR=43.996372
+psnr_destroyed=0.000000, psnr_inpainting=43.996372
+ssim_destroyed=0.000000, ssim_inpainting=0.994204
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-04-27 21:06:32 >>  
+Image: myset03, mask: waterprint, alpha = 1.3, p = 2.0, PSNR=37.418686
+psnr_destroyed=0.000000, psnr_inpainting=37.418686
+ssim_destroyed=0.000000, ssim_inpainting=0.974623
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-04-27 21:06:52 >>  
+Image: myset06, mask: mark, alpha = 1.3, p = 2.0, PSNR=33.762314
+psnr_destroyed=0.000000, psnr_inpainting=33.762314
+ssim_destroyed=0.000000, ssim_inpainting=0.979462
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-04-27 21:07:10 >>  
+Image: myset06, mask: random, alpha = 1.4, p = 2.0, PSNR=30.768728
+psnr_destroyed=0.000000, psnr_inpainting=30.768728
+ssim_destroyed=0.000000, ssim_inpainting=0.959439
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-04-27 21:07:25 >>  
+Image: myset06, mask: scratch, alpha = 1.6, p = 2.0, PSNR=40.871487
+psnr_destroyed=0.000000, psnr_inpainting=40.871487
+ssim_destroyed=0.000000, ssim_inpainting=0.996430
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-04-27 21:08:00 >>  
+Image: myset06, mask: waterprint, alpha = 1.2, p = 2.0, PSNR=35.516701
+psnr_destroyed=0.000000, psnr_inpainting=35.516701
+ssim_destroyed=0.000000, ssim_inpainting=0.986069
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-04-27 21:09:05 >>  
+Image: myset09, mask: mark, alpha = 1.5, p = 2.0, PSNR=40.956474
+psnr_destroyed=0.000000, psnr_inpainting=40.956474
+ssim_destroyed=0.000000, ssim_inpainting=0.987187
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-04-27 21:09:26 >>  
+Image: myset09, mask: random, alpha = 1.5, p = 2.0, PSNR=36.317924
+psnr_destroyed=0.000000, psnr_inpainting=36.317924
+ssim_destroyed=0.000000, ssim_inpainting=0.967705
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-04-27 21:09:42 >>  
+Image: myset09, mask: scratch, alpha = 1.6, p = 2.0, PSNR=47.432915
+psnr_destroyed=0.000000, psnr_inpainting=47.432915
+ssim_destroyed=0.000000, ssim_inpainting=0.997950
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-04-27 21:10:03 >>  
+Image: myset09, mask: waterprint, alpha = 1.5, p = 1.9, PSNR=40.373978
+psnr_destroyed=0.000000, psnr_inpainting=40.373978
+ssim_destroyed=0.000000, ssim_inpainting=0.987852
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-04-27 21:11:02 >>  
+Image: myset22, mask: mark, alpha = 1.6, p = 1.9, PSNR=36.141186
+psnr_destroyed=0.000000, psnr_inpainting=36.141186
+ssim_destroyed=0.000000, ssim_inpainting=0.975377
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-04-27 21:11:26 >>  
+Image: myset22, mask: random, alpha = 1.5, p = 2.0, PSNR=32.330002
+psnr_destroyed=0.000000, psnr_inpainting=32.330002
+ssim_destroyed=0.000000, ssim_inpainting=0.936483
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-04-27 21:11:42 >>  
+Image: myset22, mask: scratch, alpha = 1.6, p = 2.0, PSNR=44.572910
+psnr_destroyed=0.000000, psnr_inpainting=44.572910
+ssim_destroyed=0.000000, ssim_inpainting=0.995669
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-04-27 21:11:51 >>  
+Image: myset22, mask: waterprint, alpha = 1.3, p = 2.0, PSNR=37.821842
+psnr_destroyed=0.000000, psnr_inpainting=37.821842
+ssim_destroyed=0.000000, ssim_inpainting=0.981064
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-05-11 00:56:59 >>  
+Image: cat, mask: mask_1, alpha = 1.3, p = 1.95, PSNR=19.391273
+psnr_destroyed=0.000000, psnr_inpainting=19.391273
+ssim_destroyed=0.000000, ssim_inpainting=0.960852
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-05-11 01:08:33 >>  
+Image: cat, mask: mask_1, alpha = 1.3, p = 1.95, PSNR=20.246532
+psnr_destroyed=0.000000, psnr_inpainting=20.246532
+ssim_destroyed=0.000000, ssim_inpainting=0.962287
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-05-11 01:14:59 >>  
+Image: cat, mask: mask_2, alpha = 1.3, p = 1.95, PSNR=24.023142
+psnr_destroyed=0.000000, psnr_inpainting=24.023142
+ssim_destroyed=0.000000, ssim_inpainting=0.975603
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-05-11 01:20:58 >>  
+Image: cat, mask: mask_3, alpha = 1.3, p = 1.95, PSNR=36.368896
+psnr_destroyed=0.000000, psnr_inpainting=36.368896
+ssim_destroyed=0.000000, ssim_inpainting=0.979363
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-05-11 01:27:03 >>  
+Image: cat, mask: mask_size_128, alpha = 1.3, p = 1.95, PSNR=18.031019
+psnr_destroyed=0.000000, psnr_inpainting=18.031019
+ssim_destroyed=0.000000, ssim_inpainting=0.935038
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-05-11 01:30:24 >>  
+Image: cat, mask: mask_size_32, alpha = 1.3, p = 1.95, PSNR=49.307056
+psnr_destroyed=0.000000, psnr_inpainting=49.307056
+ssim_destroyed=0.000000, ssim_inpainting=0.998306
+loss_destroyed=0.000000, loss_inpainting=0.000000
+2025-05-11 01:36:51 >>  
+Image: cat, mask: mask_size_64, alpha = 1.3, p = 1.95, PSNR=29.414637
+psnr_destroyed=0.000000, psnr_inpainting=29.414637
+ssim_destroyed=0.000000, ssim_inpainting=0.991085
+loss_destroyed=0.000000, loss_inpainting=0.000000

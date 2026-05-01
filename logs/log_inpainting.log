@@ -1,0 +1,264 @@
+2024-04-10 18:34:36 >>  Image: cat, mask: mark PSNR=43.207085
+psnr_destroyed=14.848002, psnr_inpainting=43.21
+ssim_destroyed=0.8391, ssim_inpainting=0.9930
+loss_destroyed=0.0327, loss_inpainting=0.0327
+2024-04-10 19:03:39 >>  Image: cat, mask: random PSNR=42.763897
+psnr_destroyed=7.843840, psnr_inpainting=42.76
+ssim_destroyed=0.0293, ssim_inpainting=0.9881
+loss_destroyed=0.1643, loss_inpainting=0.1643
+2024-04-10 19:30:37 >>  Image: cat, mask: scratch PSNR=54.568092
+psnr_destroyed=21.667326, psnr_inpainting=54.57
+ssim_destroyed=0.9476, ssim_inpainting=0.9990
+loss_destroyed=0.0068, loss_inpainting=0.0068
+2024-04-10 19:56:39 >>  Image: cat, mask: waterprint PSNR=48.018566
+psnr_destroyed=15.370921, psnr_inpainting=48.02
+ssim_destroyed=0.8013, ssim_inpainting=0.9957
+loss_destroyed=0.0290, loss_inpainting=0.0290
+2024-04-11 12:13:34 >>  Image: lake, mask: mark PSNR=31.943535
+psnr_destroyed=23.570421, psnr_inpainting=31.94
+ssim_destroyed=0.8794, ssim_inpainting=0.9420
+loss_destroyed=0.0044, loss_inpainting=0.0044
+2024-04-11 12:33:39 >>  Image: lake, mask: random PSNR=28.791523
+psnr_destroyed=16.666788, psnr_inpainting=28.79
+ssim_destroyed=0.3069, ssim_inpainting=0.8863
+loss_destroyed=0.0215, loss_inpainting=0.0215
+2024-04-11 12:53:16 >>  Image: lake, mask: scratch PSNR=41.879009
+psnr_destroyed=31.168091, psnr_inpainting=41.88
+ssim_destroyed=0.9718, ssim_inpainting=0.9939
+loss_destroyed=0.0008, loss_inpainting=0.0008
+2024-04-11 13:12:37 >>  Image: lake, mask: waterprint PSNR=34.411644
+psnr_destroyed=24.256697, psnr_inpainting=34.41
+ssim_destroyed=0.8833, ssim_inpainting=0.9668
+loss_destroyed=0.0038, loss_inpainting=0.0038
+2024-04-11 14:03:57 >>  Image: lion, mask: mark PSNR=32.801815
+psnr_destroyed=14.561142, psnr_inpainting=32.80
+ssim_destroyed=0.8524, ssim_inpainting=0.9537
+loss_destroyed=0.0350, loss_inpainting=0.0350
+2024-04-11 14:23:43 >>  Image: lion, mask: random PSNR=32.915092
+psnr_destroyed=8.078207, psnr_inpainting=32.92
+ssim_destroyed=0.0763, ssim_inpainting=0.9356
+loss_destroyed=0.1557, loss_inpainting=0.1557
+2024-04-11 14:43:01 >>  Image: lion, mask: scratch PSNR=41.379539
+psnr_destroyed=22.060003, psnr_inpainting=41.38
+ssim_destroyed=0.9563, ssim_inpainting=0.9940
+loss_destroyed=0.0062, loss_inpainting=0.0062
+2024-04-11 15:02:32 >>  Image: lion, mask: waterprint PSNR=35.708591
+psnr_destroyed=15.587091, psnr_inpainting=35.71
+ssim_destroyed=0.8251, ssim_inpainting=0.9722
+loss_destroyed=0.0276, loss_inpainting=0.0276
+2024-04-11 15:40:55 >>  Image: sand, mask: mark PSNR=26.381687
+psnr_destroyed=12.366075, psnr_inpainting=26.38
+ssim_destroyed=0.8530, ssim_inpainting=0.9363
+loss_destroyed=0.0580, loss_inpainting=0.0580
+2024-04-16 17:40:09 >>  Image: sea1, mask: mark PSNR=44.124714
+psnr_destroyed=16.507423, psnr_inpainting=44.12
+ssim_destroyed=0.8435, ssim_inpainting=0.9959
+loss_destroyed=0.0223, loss_inpainting=0.0223
+2024-04-16 17:59:39 >>  Image: sea1, mask: random PSNR=48.734840
+psnr_destroyed=9.358951, psnr_inpainting=48.73
+ssim_destroyed=0.0391, ssim_inpainting=0.9952
+loss_destroyed=0.1159, loss_inpainting=0.1159
+2024-04-16 18:19:15 >>  Image: sea1, mask: scratch PSNR=52.386520
+psnr_destroyed=23.922663, psnr_inpainting=52.39
+ssim_destroyed=0.9501, ssim_inpainting=0.9996
+loss_destroyed=0.0041, loss_inpainting=0.0041
+2024-04-16 18:39:02 >>  Image: sea1, mask: waterprint PSNR=50.487434
+psnr_destroyed=17.036325, psnr_inpainting=50.49
+ssim_destroyed=0.8073, ssim_inpainting=0.9982
+loss_destroyed=0.0198, loss_inpainting=0.0198
+2024-04-16 19:18:20 >>  Image: sea2, mask: mark PSNR=41.222527
+psnr_destroyed=13.288226, psnr_inpainting=41.22
+ssim_destroyed=0.8337, ssim_inpainting=0.9931
+loss_destroyed=0.0469, loss_inpainting=0.0469
+2024-04-16 19:38:56 >>  Image: sea2, mask: random PSNR=46.870464
+psnr_destroyed=6.439009, psnr_inpainting=46.87
+ssim_destroyed=0.0138, ssim_inpainting=0.9950
+loss_destroyed=0.2270, loss_inpainting=0.2270
+2024-04-16 19:59:28 >>  Image: sea2, mask: scratch PSNR=56.553543
+psnr_destroyed=20.572195, psnr_inpainting=56.55
+ssim_destroyed=0.9456, ssim_inpainting=0.9997
+loss_destroyed=0.0088, loss_inpainting=0.0088
+2024-04-16 20:20:15 >>  Image: sea2, mask: waterprint PSNR=49.605339
+psnr_destroyed=13.996583, psnr_inpainting=49.61
+ssim_destroyed=0.7917, ssim_inpainting=0.9979
+loss_destroyed=0.0398, loss_inpainting=0.0398
+2024-04-17 14:55:26 >>  Image: tiger, mask: mark PSNR=32.260204
+psnr_destroyed=12.679850, psnr_inpainting=32.26
+ssim_destroyed=0.8397, ssim_inpainting=0.9707
+loss_destroyed=0.0540, loss_inpainting=0.0540
+2024-04-17 15:15:25 >>  Image: tiger, mask: random PSNR=33.170162
+psnr_destroyed=6.065391, psnr_inpainting=33.17
+ssim_destroyed=0.0628, ssim_inpainting=0.9671
+loss_destroyed=0.2474, loss_inpainting=0.2474
+2024-04-17 15:35:04 >>  Image: tiger, mask: scratch PSNR=41.941765
+psnr_destroyed=20.700363, psnr_inpainting=41.94
+ssim_destroyed=0.9521, ssim_inpainting=0.9954
+loss_destroyed=0.0085, loss_inpainting=0.0085
+2024-04-17 15:54:31 >>  Image: tiger, mask: waterprint PSNR=32.754868
+psnr_destroyed=13.723009, psnr_inpainting=32.75
+ssim_destroyed=0.8107, ssim_inpainting=0.9760
+loss_destroyed=0.0424, loss_inpainting=0.0424
+2024-04-17 16:32:32 >>  Image: tree, mask: mark PSNR=33.012222
+psnr_destroyed=14.781922, psnr_inpainting=33.01
+ssim_destroyed=0.8474, ssim_inpainting=0.9718
+loss_destroyed=0.0333, loss_inpainting=0.0333
+2024-04-17 16:52:06 >>  Image: tree, mask: random PSNR=32.257599
+psnr_destroyed=7.864466, psnr_inpainting=32.26
+ssim_destroyed=0.0647, ssim_inpainting=0.9586
+loss_destroyed=0.1635, loss_inpainting=0.1635
+2024-04-17 17:11:27 >>  Image: tree, mask: scratch PSNR=40.499550
+psnr_destroyed=22.359922, psnr_inpainting=40.50
+ssim_destroyed=0.9544, ssim_inpainting=0.9959
+loss_destroyed=0.0058, loss_inpainting=0.0058
+2024-04-17 17:30:47 >>  Image: tree, mask: waterprint PSNR=34.856640
+psnr_destroyed=15.459925, psnr_inpainting=34.86
+ssim_destroyed=0.8139, ssim_inpainting=0.9836
+loss_destroyed=0.0284, loss_inpainting=0.0284
+2024-04-18 14:52:02 >>  Image: snow, mask: mark PSNR=29.871052
+psnr_destroyed=0.000000, psnr_inpainting=29.87
+ssim_destroyed=0.0000, ssim_inpainting=0.9688
+loss_destroyed=0.0562, loss_inpainting=0.0562
+2024-04-18 15:06:01 >>  Image: snow, mask: random PSNR=29.086409
+psnr_destroyed=0.000000, psnr_inpainting=29.09
+ssim_destroyed=0.0000, ssim_inpainting=0.9432
+loss_destroyed=0.2594, loss_inpainting=0.2594
+2024-04-18 15:19:59 >>  Image: snow, mask: scratch PSNR=39.740173
+psnr_destroyed=0.000000, psnr_inpainting=39.74
+ssim_destroyed=0.0000, ssim_inpainting=0.9959
+loss_destroyed=0.0097, loss_inpainting=0.0097
+2024-04-18 15:33:55 >>  Image: snow, mask: waterprint PSNR=32.063602
+psnr_destroyed=0.000000, psnr_inpainting=32.06
+ssim_destroyed=0.0000, ssim_inpainting=0.9782
+loss_destroyed=0.0454, loss_inpainting=0.0454
+2024-04-28 14:57:09 >>  Image: 1resize, mask: mark PSNR=28.119020
+psnr_destroyed=0.000000, psnr_inpainting=28.12
+ssim_destroyed=0.0000, ssim_inpainting=0.9512
+loss_destroyed=0.0437, loss_inpainting=0.0437
+2024-04-28 15:11:10 >>  Image: 1resize, mask: random PSNR=31.369963
+psnr_destroyed=0.000000, psnr_inpainting=31.37
+ssim_destroyed=0.0000, ssim_inpainting=0.9470
+loss_destroyed=0.1982, loss_inpainting=0.1982
+2024-04-28 15:24:57 >>  Image: 1resize, mask: scratch PSNR=41.424576
+psnr_destroyed=0.000000, psnr_inpainting=41.42
+ssim_destroyed=0.0000, ssim_inpainting=0.9956
+loss_destroyed=0.0078, loss_inpainting=0.0078
+2024-04-28 15:39:03 >>  Image: 1resize, mask: waterprint PSNR=33.395645
+psnr_destroyed=0.000000, psnr_inpainting=33.40
+ssim_destroyed=0.0000, ssim_inpainting=0.9745
+loss_destroyed=0.0339, loss_inpainting=0.0339
+2024-04-28 16:06:36 >>  Image: 2resize, mask: mark PSNR=31.119694
+psnr_destroyed=0.000000, psnr_inpainting=31.12
+ssim_destroyed=0.0000, ssim_inpainting=0.9519
+loss_destroyed=0.0385, loss_inpainting=0.0385
+2024-04-28 16:20:49 >>  Image: 2resize, mask: random PSNR=32.418339
+psnr_destroyed=0.000000, psnr_inpainting=32.42
+ssim_destroyed=0.0000, ssim_inpainting=0.9460
+loss_destroyed=0.1546, loss_inpainting=0.1546
+2024-04-28 16:34:40 >>  Image: 2resize, mask: scratch PSNR=42.122578
+psnr_destroyed=0.000000, psnr_inpainting=42.12
+ssim_destroyed=0.0000, ssim_inpainting=0.9917
+loss_destroyed=0.0066, loss_inpainting=0.0066
+2024-04-28 16:48:52 >>  Image: 2resize, mask: waterprint PSNR=34.585918
+psnr_destroyed=0.000000, psnr_inpainting=34.59
+ssim_destroyed=0.0000, ssim_inpainting=0.9699
+loss_destroyed=0.0267, loss_inpainting=0.0267
+2024-04-28 17:16:25 >>  Image: 3resize, mask: mark PSNR=36.884022
+psnr_destroyed=0.000000, psnr_inpainting=36.88
+ssim_destroyed=0.0000, ssim_inpainting=0.9736
+loss_destroyed=0.0379, loss_inpainting=0.0379
+2024-04-28 17:30:39 >>  Image: 3resize, mask: random PSNR=35.055588
+psnr_destroyed=0.000000, psnr_inpainting=35.06
+ssim_destroyed=0.0000, ssim_inpainting=0.9544
+loss_destroyed=0.2025, loss_inpainting=0.2025
+2024-04-28 17:44:40 >>  Image: 3resize, mask: scratch PSNR=43.713135
+psnr_destroyed=0.000000, psnr_inpainting=43.71
+ssim_destroyed=0.0000, ssim_inpainting=0.9954
+loss_destroyed=0.0075, loss_inpainting=0.0075
+2024-04-28 17:58:28 >>  Image: 3resize, mask: waterprint PSNR=37.952950
+psnr_destroyed=0.000000, psnr_inpainting=37.95
+ssim_destroyed=0.0000, ssim_inpainting=0.9818
+loss_destroyed=0.0354, loss_inpainting=0.0354
+2024-04-28 19:16:47 >>  Image: 4resize, mask: mark PSNR=42.288036
+psnr_destroyed=0.000000, psnr_inpainting=42.29
+ssim_destroyed=0.0000, ssim_inpainting=0.9913
+loss_destroyed=0.0363, loss_inpainting=0.0363
+2024-04-28 19:30:54 >>  Image: 4resize, mask: random PSNR=45.862423
+psnr_destroyed=0.000000, psnr_inpainting=45.86
+ssim_destroyed=0.0000, ssim_inpainting=0.9838
+loss_destroyed=0.1747, loss_inpainting=0.1747
+2024-04-28 19:45:44 >>  Image: 4resize, mask: scratch PSNR=52.378708
+psnr_destroyed=0.000000, psnr_inpainting=52.38
+ssim_destroyed=0.0000, ssim_inpainting=0.9990
+loss_destroyed=0.0067, loss_inpainting=0.0067
+2024-04-28 20:01:28 >>  Image: 4resize, mask: waterprint PSNR=44.724701
+psnr_destroyed=0.000000, psnr_inpainting=44.72
+ssim_destroyed=0.0000, ssim_inpainting=0.9944
+loss_destroyed=0.0304, loss_inpainting=0.0304
+2024-04-28 20:29:14 >>  Image: 5resize, mask: mark PSNR=29.551228
+psnr_destroyed=0.000000, psnr_inpainting=29.55
+ssim_destroyed=0.0000, ssim_inpainting=0.8063
+loss_destroyed=0.0158, loss_inpainting=0.0158
+2024-04-28 20:43:23 >>  Image: 5resize, mask: random PSNR=30.793760
+psnr_destroyed=0.000000, psnr_inpainting=30.79
+ssim_destroyed=0.0000, ssim_inpainting=0.8907
+loss_destroyed=0.0733, loss_inpainting=0.0733
+2024-04-28 20:57:27 >>  Image: 5resize, mask: scratch PSNR=41.015644
+psnr_destroyed=0.000000, psnr_inpainting=41.02
+ssim_destroyed=0.0000, ssim_inpainting=0.9876
+loss_destroyed=0.0032, loss_inpainting=0.0032
+2024-04-28 21:11:31 >>  Image: 5resize, mask: waterprint PSNR=34.364544
+psnr_destroyed=0.000000, psnr_inpainting=34.36
+ssim_destroyed=0.0000, ssim_inpainting=0.9287
+loss_destroyed=0.0128, loss_inpainting=0.0128
+2024-04-28 21:38:58 >>  Image: 6resize, mask: mark PSNR=28.022362
+psnr_destroyed=0.000000, psnr_inpainting=28.02
+ssim_destroyed=0.0000, ssim_inpainting=0.9266
+loss_destroyed=0.0330, loss_inpainting=0.0330
+2024-04-28 21:53:06 >>  Image: 6resize, mask: random PSNR=30.271801
+psnr_destroyed=0.000000, psnr_inpainting=30.27
+ssim_destroyed=0.0000, ssim_inpainting=0.9468
+loss_destroyed=0.1796, loss_inpainting=0.1796
+2024-04-28 22:08:05 >>  Image: 6resize, mask: scratch PSNR=41.500019
+psnr_destroyed=0.000000, psnr_inpainting=41.50
+ssim_destroyed=0.0000, ssim_inpainting=0.9967
+loss_destroyed=0.0064, loss_inpainting=0.0064
+2024-04-28 22:22:57 >>  Image: 6resize, mask: waterprint PSNR=33.730347
+psnr_destroyed=0.000000, psnr_inpainting=33.73
+ssim_destroyed=0.0000, ssim_inpainting=0.9731
+loss_destroyed=0.0313, loss_inpainting=0.0313
+2024-05-14 14:42:36 >>  Image: cat, mask: cat_inpainting_mask PSNR=-43.448059
+psnr_destroyed=-43.467670, psnr_inpainting=-43.45
+ssim_destroyed=0.0000, ssim_inpainting=0.0001
+loss_destroyed=22221.1758, loss_inpainting=22221.1758
+2024-05-14 14:57:11 >>  Image: cat, mask: cat_inpainting_mask PSNR=-43.448059
+psnr_destroyed=-43.473091, psnr_inpainting=-43.45
+ssim_destroyed=-0.0000, ssim_inpainting=0.0003
+loss_destroyed=22248.9258, loss_inpainting=22248.9258
+2024-05-14 15:46:17 >>  Image: cat, mask: cat_inpainting_mask PSNR=-43.454365
+psnr_destroyed=-43.473351, psnr_inpainting=-43.45
+ssim_destroyed=-0.0000, ssim_inpainting=0.0001
+loss_destroyed=22250.2383, loss_inpainting=22250.2383
+2024-05-14 15:49:20 >>  Image: cat, mask: cat_inpainting_mask PSNR=18.000717
+psnr_destroyed=6.015711, psnr_inpainting=18.00
+ssim_destroyed=0.0196, ssim_inpainting=0.2978
+loss_destroyed=0.2503, loss_inpainting=0.2503
+2024-05-14 16:04:31 >>  Image: cat, mask: cat_inpainting_mask PSNR=40.362892
+psnr_destroyed=6.015711, psnr_inpainting=40.36
+ssim_destroyed=0.0196, ssim_inpainting=0.9702
+loss_destroyed=0.2503, loss_inpainting=0.2503
+2024-05-14 16:19:06 >>  Image: cat, mask: cat_inpainting_mask PSNR=31.782169
+psnr_destroyed=4.723717, psnr_inpainting=31.78
+ssim_destroyed=0.0066, ssim_inpainting=0.9142
+loss_destroyed=0.3370, loss_inpainting=0.3370
+2024-05-29 19:35:25 >>  Image: 4resize, mask: mark PSNR=21.064106
+psnr_destroyed=0.000000, psnr_inpainting=21.06
+ssim_destroyed=0.0000, ssim_inpainting=0.8937
+loss_destroyed=0.0363, loss_inpainting=0.0363
+2024-05-29 20:21:07 >>  Image: 4resize, mask: mark PSNR=21.064106
+psnr_destroyed=14.398328, psnr_inpainting=21.06
+ssim_destroyed=0.8346, ssim_inpainting=0.8937
+loss_destroyed=0.0363, loss_inpainting=0.0363
+2024-05-31 15:08:00 >>  Image: 1resize_resize, mask: mark_resize PSNR=26.782740
+psnr_destroyed=14.683292, psnr_inpainting=26.78
+ssim_destroyed=0.7909, ssim_inpainting=0.9199
+loss_destroyed=0.0340, loss_inpainting=0.0340

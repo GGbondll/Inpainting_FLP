@@ -1,0 +1,1525 @@
+2024-06-06 23:51:30 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1e-06
+psnr_destroyed=0.000000, psnr_inpainting=18.353460
+ssim_destroyed=0.000000, ssim_inpainting=0.867259
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-06 23:55:39 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.020203000000000002
+psnr_destroyed=0.000000, psnr_inpainting=16.010107
+ssim_destroyed=0.000000, ssim_inpainting=0.825679
+loss_destroyed=0.014165, loss_inpainting=0.027551
+2024-06-07 00:06:27 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.040405
+psnr_destroyed=0.000000, psnr_inpainting=16.266876
+ssim_destroyed=0.000000, ssim_inpainting=0.824729
+loss_destroyed=0.013970, loss_inpainting=0.026616
+2024-06-07 00:09:41 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.06060700000000001
+psnr_destroyed=0.000000, psnr_inpainting=16.527569
+ssim_destroyed=0.000000, ssim_inpainting=0.824014
+loss_destroyed=0.013961, loss_inpainting=0.026954
+2024-06-07 00:12:52 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.080809
+psnr_destroyed=0.000000, psnr_inpainting=16.395443
+ssim_destroyed=0.000000, ssim_inpainting=0.827864
+loss_destroyed=0.014036, loss_inpainting=0.026930
+2024-06-07 00:16:05 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.101011
+psnr_destroyed=0.000000, psnr_inpainting=15.997395
+ssim_destroyed=0.000000, ssim_inpainting=0.831315
+loss_destroyed=0.014145, loss_inpainting=0.028629
+2024-06-07 00:19:11 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.12121300000000002
+psnr_destroyed=0.000000, psnr_inpainting=15.996267
+ssim_destroyed=0.000000, ssim_inpainting=0.830911
+loss_destroyed=0.014261, loss_inpainting=0.028119
+2024-06-07 00:22:28 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.141415
+psnr_destroyed=0.000000, psnr_inpainting=15.839888
+ssim_destroyed=0.000000, ssim_inpainting=0.832649
+loss_destroyed=0.014370, loss_inpainting=0.027886
+2024-06-07 00:25:44 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.161617
+psnr_destroyed=0.000000, psnr_inpainting=15.377352
+ssim_destroyed=0.000000, ssim_inpainting=0.833076
+loss_destroyed=0.014465, loss_inpainting=0.030431
+2024-06-07 00:29:00 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.181819
+psnr_destroyed=0.000000, psnr_inpainting=15.678769
+ssim_destroyed=0.000000, ssim_inpainting=0.839418
+loss_destroyed=0.014545, loss_inpainting=0.028395
+2024-06-07 00:32:16 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.202021
+psnr_destroyed=0.000000, psnr_inpainting=15.271999
+ssim_destroyed=0.000000, ssim_inpainting=0.841056
+loss_destroyed=0.014610, loss_inpainting=0.030173
+2024-06-07 00:35:29 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.222223
+psnr_destroyed=0.000000, psnr_inpainting=15.233023
+ssim_destroyed=0.000000, ssim_inpainting=0.852090
+loss_destroyed=0.014660, loss_inpainting=0.030419
+2024-06-07 00:38:44 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.24242500000000003
+psnr_destroyed=0.000000, psnr_inpainting=15.752439
+ssim_destroyed=0.000000, ssim_inpainting=0.857486
+loss_destroyed=0.014699, loss_inpainting=0.026740
+2024-06-07 00:41:55 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.262627
+psnr_destroyed=0.000000, psnr_inpainting=16.318188
+ssim_destroyed=0.000000, ssim_inpainting=0.876908
+loss_destroyed=0.014729, loss_inpainting=0.023729
+2024-06-07 00:45:11 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.282829
+psnr_destroyed=0.000000, psnr_inpainting=16.734194
+ssim_destroyed=0.000000, ssim_inpainting=0.887411
+loss_destroyed=0.014751, loss_inpainting=0.021348
+2024-06-07 00:48:26 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.303031
+psnr_destroyed=0.000000, psnr_inpainting=16.796524
+ssim_destroyed=0.000000, ssim_inpainting=0.891345
+loss_destroyed=0.014768, loss_inpainting=0.020910
+2024-06-07 00:51:40 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.323233
+psnr_destroyed=0.000000, psnr_inpainting=17.451040
+ssim_destroyed=0.000000, ssim_inpainting=0.893840
+loss_destroyed=0.014780, loss_inpainting=0.017998
+2024-06-07 01:14:12 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1e-06
+psnr_destroyed=0.000000, psnr_inpainting=18.353460
+ssim_destroyed=0.000000, ssim_inpainting=0.867259
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 01:15:44 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.020203000000000002
+psnr_destroyed=0.000000, psnr_inpainting=16.010107
+ssim_destroyed=0.000000, ssim_inpainting=0.825679
+loss_destroyed=0.014165, loss_inpainting=0.027551
+2024-06-07 01:17:19 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.040405
+psnr_destroyed=0.000000, psnr_inpainting=16.266876
+ssim_destroyed=0.000000, ssim_inpainting=0.824729
+loss_destroyed=0.013970, loss_inpainting=0.026616
+2024-06-07 01:18:55 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.06060700000000001
+psnr_destroyed=0.000000, psnr_inpainting=16.527569
+ssim_destroyed=0.000000, ssim_inpainting=0.824014
+loss_destroyed=0.013961, loss_inpainting=0.026954
+2024-06-07 01:20:31 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.080809
+psnr_destroyed=0.000000, psnr_inpainting=16.395443
+ssim_destroyed=0.000000, ssim_inpainting=0.827864
+loss_destroyed=0.014036, loss_inpainting=0.026930
+2024-06-07 01:22:08 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.101011
+psnr_destroyed=0.000000, psnr_inpainting=15.997395
+ssim_destroyed=0.000000, ssim_inpainting=0.831315
+loss_destroyed=0.014145, loss_inpainting=0.028629
+2024-06-07 01:23:44 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.12121300000000002
+psnr_destroyed=0.000000, psnr_inpainting=15.996267
+ssim_destroyed=0.000000, ssim_inpainting=0.830911
+loss_destroyed=0.014261, loss_inpainting=0.028119
+2024-06-07 01:25:22 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.141415
+psnr_destroyed=0.000000, psnr_inpainting=15.839888
+ssim_destroyed=0.000000, ssim_inpainting=0.832649
+loss_destroyed=0.014370, loss_inpainting=0.027886
+2024-06-07 01:26:55 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.161617
+psnr_destroyed=0.000000, psnr_inpainting=15.377352
+ssim_destroyed=0.000000, ssim_inpainting=0.833076
+loss_destroyed=0.014465, loss_inpainting=0.030431
+2024-06-07 01:28:28 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.181819
+psnr_destroyed=0.000000, psnr_inpainting=15.678769
+ssim_destroyed=0.000000, ssim_inpainting=0.839418
+loss_destroyed=0.014545, loss_inpainting=0.028395
+2024-06-07 01:30:02 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.202021
+psnr_destroyed=0.000000, psnr_inpainting=15.271999
+ssim_destroyed=0.000000, ssim_inpainting=0.841056
+loss_destroyed=0.014610, loss_inpainting=0.030173
+2024-06-07 01:31:37 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.222223
+psnr_destroyed=0.000000, psnr_inpainting=15.233023
+ssim_destroyed=0.000000, ssim_inpainting=0.852090
+loss_destroyed=0.014660, loss_inpainting=0.030419
+2024-06-07 01:33:10 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.24242500000000003
+psnr_destroyed=0.000000, psnr_inpainting=15.752439
+ssim_destroyed=0.000000, ssim_inpainting=0.857486
+loss_destroyed=0.014699, loss_inpainting=0.026740
+2024-06-07 01:34:47 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.262627
+psnr_destroyed=0.000000, psnr_inpainting=16.318188
+ssim_destroyed=0.000000, ssim_inpainting=0.876908
+loss_destroyed=0.014729, loss_inpainting=0.023729
+2024-06-07 01:36:27 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.282829
+psnr_destroyed=0.000000, psnr_inpainting=16.734194
+ssim_destroyed=0.000000, ssim_inpainting=0.887411
+loss_destroyed=0.014751, loss_inpainting=0.021348
+2024-06-07 01:38:03 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.303031
+psnr_destroyed=0.000000, psnr_inpainting=16.796524
+ssim_destroyed=0.000000, ssim_inpainting=0.891345
+loss_destroyed=0.014768, loss_inpainting=0.020910
+2024-06-07 01:39:39 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.323233
+psnr_destroyed=0.000000, psnr_inpainting=17.451040
+ssim_destroyed=0.000000, ssim_inpainting=0.893840
+loss_destroyed=0.014780, loss_inpainting=0.017998
+2024-06-07 01:41:15 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.343435
+psnr_destroyed=0.000000, psnr_inpainting=17.681749
+ssim_destroyed=0.000000, ssim_inpainting=0.882067
+loss_destroyed=0.014789, loss_inpainting=0.017439
+2024-06-07 01:42:48 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.363637
+psnr_destroyed=0.000000, psnr_inpainting=17.626162
+ssim_destroyed=0.000000, ssim_inpainting=0.864936
+loss_destroyed=0.014795, loss_inpainting=0.017275
+2024-06-07 01:44:22 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.383839
+psnr_destroyed=0.000000, psnr_inpainting=18.308107
+ssim_destroyed=0.000000, ssim_inpainting=0.861285
+loss_destroyed=0.014800, loss_inpainting=0.014800
+2024-06-07 01:45:56 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.404041
+psnr_destroyed=0.000000, psnr_inpainting=18.858379
+ssim_destroyed=0.000000, ssim_inpainting=0.859159
+loss_destroyed=0.014803, loss_inpainting=0.014803
+2024-06-07 01:47:28 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.424243
+psnr_destroyed=0.000000, psnr_inpainting=18.923885
+ssim_destroyed=0.000000, ssim_inpainting=0.853975
+loss_destroyed=0.014806, loss_inpainting=0.014806
+2024-06-07 01:49:05 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.444445
+psnr_destroyed=0.000000, psnr_inpainting=19.528690
+ssim_destroyed=0.000000, ssim_inpainting=0.857837
+loss_destroyed=0.014808, loss_inpainting=0.014808
+2024-06-07 01:50:42 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.464647
+psnr_destroyed=0.000000, psnr_inpainting=19.993217
+ssim_destroyed=0.000000, ssim_inpainting=0.863631
+loss_destroyed=0.014809, loss_inpainting=0.014809
+2024-06-07 01:52:18 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.48484900000000003
+psnr_destroyed=0.000000, psnr_inpainting=19.981441
+ssim_destroyed=0.000000, ssim_inpainting=0.866493
+loss_destroyed=0.014810, loss_inpainting=0.014810
+2024-06-07 01:53:52 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.505051
+psnr_destroyed=0.000000, psnr_inpainting=19.774393
+ssim_destroyed=0.000000, ssim_inpainting=0.867400
+loss_destroyed=0.014810, loss_inpainting=0.014810
+2024-06-07 01:55:29 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.5252530000000001
+psnr_destroyed=0.000000, psnr_inpainting=19.565712
+ssim_destroyed=0.000000, ssim_inpainting=0.866411
+loss_destroyed=0.014811, loss_inpainting=0.014811
+2024-06-07 01:57:03 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.545455
+psnr_destroyed=0.000000, psnr_inpainting=19.352243
+ssim_destroyed=0.000000, ssim_inpainting=0.867254
+loss_destroyed=0.014811, loss_inpainting=0.014811
+2024-06-07 01:58:42 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.5656570000000001
+psnr_destroyed=0.000000, psnr_inpainting=19.057205
+ssim_destroyed=0.000000, ssim_inpainting=0.868860
+loss_destroyed=0.014811, loss_inpainting=0.014811
+2024-06-07 02:00:19 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.585859
+psnr_destroyed=0.000000, psnr_inpainting=18.861969
+ssim_destroyed=0.000000, ssim_inpainting=0.868900
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:01:54 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.6060610000000001
+psnr_destroyed=0.000000, psnr_inpainting=18.711718
+ssim_destroyed=0.000000, ssim_inpainting=0.868721
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:03:28 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.626263
+psnr_destroyed=0.000000, psnr_inpainting=18.599842
+ssim_destroyed=0.000000, ssim_inpainting=0.868483
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:05:03 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.6464650000000001
+psnr_destroyed=0.000000, psnr_inpainting=18.523144
+ssim_destroyed=0.000000, ssim_inpainting=0.868222
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:06:41 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.6666670000000001
+psnr_destroyed=0.000000, psnr_inpainting=18.456036
+ssim_destroyed=0.000000, ssim_inpainting=0.867979
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:08:14 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.6868690000000001
+psnr_destroyed=0.000000, psnr_inpainting=18.409634
+ssim_destroyed=0.000000, ssim_inpainting=0.867758
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:09:50 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.7070710000000001
+psnr_destroyed=0.000000, psnr_inpainting=18.376810
+ssim_destroyed=0.000000, ssim_inpainting=0.867580
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:11:25 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.7272730000000001
+psnr_destroyed=0.000000, psnr_inpainting=18.353384
+ssim_destroyed=0.000000, ssim_inpainting=0.867465
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:13:00 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.7474750000000001
+psnr_destroyed=0.000000, psnr_inpainting=18.336605
+ssim_destroyed=0.000000, ssim_inpainting=0.867359
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:14:35 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.767677
+psnr_destroyed=0.000000, psnr_inpainting=18.325336
+ssim_destroyed=0.000000, ssim_inpainting=0.867286
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:16:15 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.7878790000000001
+psnr_destroyed=0.000000, psnr_inpainting=18.320501
+ssim_destroyed=0.000000, ssim_inpainting=0.867232
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:17:49 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.808081
+psnr_destroyed=0.000000, psnr_inpainting=18.316080
+ssim_destroyed=0.000000, ssim_inpainting=0.867206
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:19:23 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.8282830000000001
+psnr_destroyed=0.000000, psnr_inpainting=18.312078
+ssim_destroyed=0.000000, ssim_inpainting=0.867154
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:20:57 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.848485
+psnr_destroyed=0.000000, psnr_inpainting=18.308558
+ssim_destroyed=0.000000, ssim_inpainting=0.867163
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:22:32 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.8686870000000001
+psnr_destroyed=0.000000, psnr_inpainting=18.305531
+ssim_destroyed=0.000000, ssim_inpainting=0.867142
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:24:07 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.888889
+psnr_destroyed=0.000000, psnr_inpainting=18.302986
+ssim_destroyed=0.000000, ssim_inpainting=0.867138
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:25:43 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.9090910000000001
+psnr_destroyed=0.000000, psnr_inpainting=18.300901
+ssim_destroyed=0.000000, ssim_inpainting=0.867116
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:27:18 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.929293
+psnr_destroyed=0.000000, psnr_inpainting=18.299227
+ssim_destroyed=0.000000, ssim_inpainting=0.867105
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:28:53 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.9494950000000001
+psnr_destroyed=0.000000, psnr_inpainting=18.297907
+ssim_destroyed=0.000000, ssim_inpainting=0.867112
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:30:30 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.9696970000000001
+psnr_destroyed=0.000000, psnr_inpainting=18.296894
+ssim_destroyed=0.000000, ssim_inpainting=0.867111
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:32:06 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.9898990000000001
+psnr_destroyed=0.000000, psnr_inpainting=18.296124
+ssim_destroyed=0.000000, ssim_inpainting=0.867104
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:33:41 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.010101
+psnr_destroyed=0.000000, psnr_inpainting=18.295572
+ssim_destroyed=0.000000, ssim_inpainting=0.867081
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:35:14 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.030303
+psnr_destroyed=0.000000, psnr_inpainting=18.295151
+ssim_destroyed=0.000000, ssim_inpainting=0.867080
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:36:49 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.050505
+psnr_destroyed=0.000000, psnr_inpainting=18.294830
+ssim_destroyed=0.000000, ssim_inpainting=0.867073
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:38:23 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.070707
+psnr_destroyed=0.000000, psnr_inpainting=18.294586
+ssim_destroyed=0.000000, ssim_inpainting=0.867080
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:40:00 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.090909
+psnr_destroyed=0.000000, psnr_inpainting=18.294403
+ssim_destroyed=0.000000, ssim_inpainting=0.867074
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:41:34 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.111111
+psnr_destroyed=0.000000, psnr_inpainting=18.294266
+ssim_destroyed=0.000000, ssim_inpainting=0.867084
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:43:09 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.131313
+psnr_destroyed=0.000000, psnr_inpainting=18.294163
+ssim_destroyed=0.000000, ssim_inpainting=0.867092
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:44:45 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.151515
+psnr_destroyed=0.000000, psnr_inpainting=18.294086
+ssim_destroyed=0.000000, ssim_inpainting=0.867073
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:46:18 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.171717
+psnr_destroyed=0.000000, psnr_inpainting=18.294027
+ssim_destroyed=0.000000, ssim_inpainting=0.867054
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:47:52 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.191919
+psnr_destroyed=0.000000, psnr_inpainting=18.293983
+ssim_destroyed=0.000000, ssim_inpainting=0.867060
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:49:26 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.212121
+psnr_destroyed=0.000000, psnr_inpainting=18.293951
+ssim_destroyed=0.000000, ssim_inpainting=0.867067
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:50:58 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.232323
+psnr_destroyed=0.000000, psnr_inpainting=18.293926
+ssim_destroyed=0.000000, ssim_inpainting=0.867065
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:52:33 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.2525249999999999
+psnr_destroyed=0.000000, psnr_inpainting=18.293911
+ssim_destroyed=0.000000, ssim_inpainting=0.867066
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:54:14 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.272727
+psnr_destroyed=0.000000, psnr_inpainting=18.293896
+ssim_destroyed=0.000000, ssim_inpainting=0.867074
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:55:49 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.292929
+psnr_destroyed=0.000000, psnr_inpainting=18.293884
+ssim_destroyed=0.000000, ssim_inpainting=0.867076
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:57:25 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.313131
+psnr_destroyed=0.000000, psnr_inpainting=18.293877
+ssim_destroyed=0.000000, ssim_inpainting=0.867076
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 02:58:59 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.333333
+psnr_destroyed=0.000000, psnr_inpainting=18.293871
+ssim_destroyed=0.000000, ssim_inpainting=0.867076
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:00:38 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.353535
+psnr_destroyed=0.000000, psnr_inpainting=18.293869
+ssim_destroyed=0.000000, ssim_inpainting=0.867070
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:02:13 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.373737
+psnr_destroyed=0.000000, psnr_inpainting=18.293865
+ssim_destroyed=0.000000, ssim_inpainting=0.867072
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:03:47 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.393939
+psnr_destroyed=0.000000, psnr_inpainting=18.293861
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:05:24 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.414141
+psnr_destroyed=0.000000, psnr_inpainting=18.293861
+ssim_destroyed=0.000000, ssim_inpainting=0.867072
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:06:57 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.434343
+psnr_destroyed=0.000000, psnr_inpainting=18.293861
+ssim_destroyed=0.000000, ssim_inpainting=0.867073
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:08:31 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.454545
+psnr_destroyed=0.000000, psnr_inpainting=18.293859
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:10:05 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.474747
+psnr_destroyed=0.000000, psnr_inpainting=18.293859
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:11:40 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.494949
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867068
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:13:14 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.515151
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867073
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:14:46 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.535353
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867073
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:16:21 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.555555
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:17:57 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.575757
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:19:36 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.595959
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:21:15 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.616161
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:22:55 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.636363
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:24:28 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.656565
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:26:02 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.6767670000000001
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:27:38 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.696969
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:29:12 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.717171
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:30:52 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.737373
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:32:31 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.757575
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:34:06 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.777777
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:35:40 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.797979
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:37:15 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.818181
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:38:50 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.838383
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:40:24 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.858585
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:41:59 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.878787
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:43:34 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.898989
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:45:07 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.919191
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:46:41 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.9393930000000001
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:48:16 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.959595
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:49:53 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.979797
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:51:27 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.999999
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 03:54:33 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1e-06
+psnr_destroyed=0.000000, psnr_inpainting=18.427246
+ssim_destroyed=0.000000, ssim_inpainting=0.867171
+loss_destroyed=0.014809, loss_inpainting=0.014809
+2024-06-07 03:58:00 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.020203000000000002
+psnr_destroyed=0.000000, psnr_inpainting=9.759851
+ssim_destroyed=0.000000, ssim_inpainting=0.398458
+loss_destroyed=0.046265, loss_inpainting=0.261548
+2024-06-07 04:01:08 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.040405
+psnr_destroyed=0.000000, psnr_inpainting=10.190707
+ssim_destroyed=0.000000, ssim_inpainting=0.406952
+loss_destroyed=0.060112, loss_inpainting=0.209969
+2024-06-07 04:04:14 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.06060700000000001
+psnr_destroyed=0.000000, psnr_inpainting=10.408323
+ssim_destroyed=0.000000, ssim_inpainting=0.411121
+loss_destroyed=0.061554, loss_inpainting=0.335908
+2024-06-07 04:07:22 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.080809
+psnr_destroyed=0.000000, psnr_inpainting=10.983509
+ssim_destroyed=0.000000, ssim_inpainting=0.421055
+loss_destroyed=0.057574, loss_inpainting=0.256282
+2024-06-07 04:10:32 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.101011
+psnr_destroyed=0.000000, psnr_inpainting=10.379480
+ssim_destroyed=0.000000, ssim_inpainting=0.410441
+loss_destroyed=0.050909, loss_inpainting=0.353327
+2024-06-07 04:13:38 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.12121300000000002
+psnr_destroyed=0.000000, psnr_inpainting=10.289185
+ssim_destroyed=0.000000, ssim_inpainting=0.408715
+loss_destroyed=0.043094, loss_inpainting=0.182633
+2024-06-07 04:16:45 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.141415
+psnr_destroyed=0.000000, psnr_inpainting=10.831828
+ssim_destroyed=0.000000, ssim_inpainting=0.418245
+loss_destroyed=0.035225, loss_inpainting=0.443037
+2024-06-07 04:19:50 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.161617
+psnr_destroyed=0.000000, psnr_inpainting=10.258900
+ssim_destroyed=0.000000, ssim_inpainting=0.407549
+loss_destroyed=0.028116, loss_inpainting=0.380882
+2024-06-07 04:23:05 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.181819
+psnr_destroyed=0.000000, psnr_inpainting=10.459742
+ssim_destroyed=0.000000, ssim_inpainting=0.411213
+loss_destroyed=0.022297, loss_inpainting=0.195906
+2024-06-07 04:26:11 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.202021
+psnr_destroyed=0.000000, psnr_inpainting=10.301061
+ssim_destroyed=0.000000, ssim_inpainting=0.408184
+loss_destroyed=0.017986, loss_inpainting=0.263521
+2024-06-07 04:29:18 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.222223
+psnr_destroyed=0.000000, psnr_inpainting=10.468712
+ssim_destroyed=0.000000, ssim_inpainting=0.411120
+loss_destroyed=0.015228, loss_inpainting=0.259755
+2024-06-07 04:32:25 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.24242500000000003
+psnr_destroyed=0.000000, psnr_inpainting=10.291080
+ssim_destroyed=0.000000, ssim_inpainting=0.407683
+loss_destroyed=0.013681, loss_inpainting=0.247582
+2024-06-07 04:35:34 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.262627
+psnr_destroyed=0.000000, psnr_inpainting=10.424065
+ssim_destroyed=0.000000, ssim_inpainting=0.410511
+loss_destroyed=0.012860, loss_inpainting=0.236648
+2024-06-07 04:38:41 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.282829
+psnr_destroyed=0.000000, psnr_inpainting=10.650983
+ssim_destroyed=0.000000, ssim_inpainting=0.415572
+loss_destroyed=0.012555, loss_inpainting=0.175236
+2024-06-07 04:41:50 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.303031
+psnr_destroyed=0.000000, psnr_inpainting=10.451974
+ssim_destroyed=0.000000, ssim_inpainting=0.413441
+loss_destroyed=0.012577, loss_inpainting=0.371766
+2024-06-07 04:44:57 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.323233
+psnr_destroyed=0.000000, psnr_inpainting=10.586832
+ssim_destroyed=0.000000, ssim_inpainting=0.418379
+loss_destroyed=0.012782, loss_inpainting=0.261384
+2024-06-07 04:48:02 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.343435
+psnr_destroyed=0.000000, psnr_inpainting=10.695261
+ssim_destroyed=0.000000, ssim_inpainting=0.425322
+loss_destroyed=0.013066, loss_inpainting=0.392186
+2024-06-07 04:51:08 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.363637
+psnr_destroyed=0.000000, psnr_inpainting=10.565527
+ssim_destroyed=0.000000, ssim_inpainting=0.429981
+loss_destroyed=0.013368, loss_inpainting=0.170202
+2024-06-07 04:54:13 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.383839
+psnr_destroyed=0.000000, psnr_inpainting=10.788817
+ssim_destroyed=0.000000, ssim_inpainting=0.445441
+loss_destroyed=0.013649, loss_inpainting=0.243932
+2024-06-07 04:57:19 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.404041
+psnr_destroyed=0.000000, psnr_inpainting=10.950836
+ssim_destroyed=0.000000, ssim_inpainting=0.460918
+loss_destroyed=0.013895, loss_inpainting=0.117248
+2024-06-07 05:00:25 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.424243
+psnr_destroyed=0.000000, psnr_inpainting=10.508909
+ssim_destroyed=0.000000, ssim_inpainting=0.460571
+loss_destroyed=0.014100, loss_inpainting=0.150247
+2024-06-07 05:03:31 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.444445
+psnr_destroyed=0.000000, psnr_inpainting=10.368658
+ssim_destroyed=0.000000, ssim_inpainting=0.474206
+loss_destroyed=0.014266, loss_inpainting=0.122755
+2024-06-07 05:06:36 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.464647
+psnr_destroyed=0.000000, psnr_inpainting=11.614074
+ssim_destroyed=0.000000, ssim_inpainting=0.509522
+loss_destroyed=0.014397, loss_inpainting=0.119513
+2024-06-07 05:09:41 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.48484900000000003
+psnr_destroyed=0.000000, psnr_inpainting=10.760283
+ssim_destroyed=0.000000, ssim_inpainting=0.507903
+loss_destroyed=0.014499, loss_inpainting=0.103329
+2024-06-07 05:12:47 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.505051
+psnr_destroyed=0.000000, psnr_inpainting=9.632628
+ssim_destroyed=0.000000, ssim_inpainting=0.491589
+loss_destroyed=0.014571, loss_inpainting=0.124617
+2024-06-07 05:15:53 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.5252530000000001
+psnr_destroyed=0.000000, psnr_inpainting=10.011006
+ssim_destroyed=0.000000, ssim_inpainting=0.506253
+loss_destroyed=0.014614, loss_inpainting=0.103846
+2024-06-07 05:18:57 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.545455
+psnr_destroyed=0.000000, psnr_inpainting=9.010678
+ssim_destroyed=0.000000, ssim_inpainting=0.486617
+loss_destroyed=0.014649, loss_inpainting=0.127386
+2024-06-07 05:22:01 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.5656570000000001
+psnr_destroyed=0.000000, psnr_inpainting=9.084107
+ssim_destroyed=0.000000, ssim_inpainting=0.485751
+loss_destroyed=0.014678, loss_inpainting=0.136274
+2024-06-07 05:25:09 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.585859
+psnr_destroyed=0.000000, psnr_inpainting=9.413363
+ssim_destroyed=0.000000, ssim_inpainting=0.507575
+loss_destroyed=0.014702, loss_inpainting=0.115753
+2024-06-07 05:28:20 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.6060610000000001
+psnr_destroyed=0.000000, psnr_inpainting=9.036981
+ssim_destroyed=0.000000, ssim_inpainting=0.509477
+loss_destroyed=0.014721, loss_inpainting=0.142343
+2024-06-07 05:31:26 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.626263
+psnr_destroyed=0.000000, psnr_inpainting=8.877008
+ssim_destroyed=0.000000, ssim_inpainting=0.515025
+loss_destroyed=0.014736, loss_inpainting=0.130229
+2024-06-07 05:34:32 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.6464650000000001
+psnr_destroyed=0.000000, psnr_inpainting=9.715126
+ssim_destroyed=0.000000, ssim_inpainting=0.552114
+loss_destroyed=0.014749, loss_inpainting=0.107346
+2024-06-07 05:38:09 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.6666670000000001
+psnr_destroyed=0.000000, psnr_inpainting=10.859103
+ssim_destroyed=0.000000, ssim_inpainting=0.612246
+loss_destroyed=0.014759, loss_inpainting=0.091047
+2024-06-07 05:41:15 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.6868690000000001
+psnr_destroyed=0.000000, psnr_inpainting=10.832245
+ssim_destroyed=0.000000, ssim_inpainting=0.622166
+loss_destroyed=0.014763, loss_inpainting=0.127263
+2024-06-07 05:44:20 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.7070710000000001
+psnr_destroyed=0.000000, psnr_inpainting=10.735369
+ssim_destroyed=0.000000, ssim_inpainting=0.663103
+loss_destroyed=0.014766, loss_inpainting=0.098425
+2024-06-07 05:47:29 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.7272730000000001
+psnr_destroyed=0.000000, psnr_inpainting=10.420610
+ssim_destroyed=0.000000, ssim_inpainting=0.662921
+loss_destroyed=0.014770, loss_inpainting=0.091042
+2024-06-07 05:50:34 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.7474750000000001
+psnr_destroyed=0.000000, psnr_inpainting=12.603035
+ssim_destroyed=0.000000, ssim_inpainting=0.741893
+loss_destroyed=0.014773, loss_inpainting=0.055476
+2024-06-07 05:53:41 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.767677
+psnr_destroyed=0.000000, psnr_inpainting=17.743639
+ssim_destroyed=0.000000, ssim_inpainting=0.835481
+loss_destroyed=0.014776, loss_inpainting=0.024608
+2024-06-07 05:56:46 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.7878790000000001
+psnr_destroyed=0.000000, psnr_inpainting=18.196465
+ssim_destroyed=0.000000, ssim_inpainting=0.863735
+loss_destroyed=0.014779, loss_inpainting=0.015196
+2024-06-07 05:59:53 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.808081
+psnr_destroyed=0.000000, psnr_inpainting=20.493664
+ssim_destroyed=0.000000, ssim_inpainting=0.909945
+loss_destroyed=0.014781, loss_inpainting=0.014781
+2024-06-07 06:03:00 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.8282830000000001
+psnr_destroyed=0.000000, psnr_inpainting=19.170973
+ssim_destroyed=0.000000, ssim_inpainting=0.901249
+loss_destroyed=0.014784, loss_inpainting=0.014784
+2024-06-07 06:06:06 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.848485
+psnr_destroyed=0.000000, psnr_inpainting=24.878729
+ssim_destroyed=0.000000, ssim_inpainting=0.972057
+loss_destroyed=0.014786, loss_inpainting=0.014786
+2024-06-07 06:09:12 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.8686870000000001
+psnr_destroyed=0.000000, psnr_inpainting=35.452652
+ssim_destroyed=0.000000, ssim_inpainting=0.987527
+loss_destroyed=0.014788, loss_inpainting=0.014788
+2024-06-07 06:12:18 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.888889
+psnr_destroyed=0.000000, psnr_inpainting=35.204605
+ssim_destroyed=0.000000, ssim_inpainting=0.987558
+loss_destroyed=0.014790, loss_inpainting=0.014790
+2024-06-07 06:15:22 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.9090910000000001
+psnr_destroyed=0.000000, psnr_inpainting=33.160572
+ssim_destroyed=0.000000, ssim_inpainting=0.984230
+loss_destroyed=0.014791, loss_inpainting=0.014791
+2024-06-07 06:18:27 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.929293
+psnr_destroyed=0.000000, psnr_inpainting=36.508400
+ssim_destroyed=0.000000, ssim_inpainting=0.987851
+loss_destroyed=0.014793, loss_inpainting=0.014793
+2024-06-07 06:21:32 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.9494950000000001
+psnr_destroyed=0.000000, psnr_inpainting=36.509277
+ssim_destroyed=0.000000, ssim_inpainting=0.987812
+loss_destroyed=0.014794, loss_inpainting=0.014794
+2024-06-07 06:24:37 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.9696970000000001
+psnr_destroyed=0.000000, psnr_inpainting=36.509605
+ssim_destroyed=0.000000, ssim_inpainting=0.987833
+loss_destroyed=0.014796, loss_inpainting=0.014796
+2024-06-07 06:27:42 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 0.9898990000000001
+psnr_destroyed=0.000000, psnr_inpainting=36.509087
+ssim_destroyed=0.000000, ssim_inpainting=0.987828
+loss_destroyed=0.014797, loss_inpainting=0.014797
+2024-06-07 06:30:49 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.010101
+psnr_destroyed=0.000000, psnr_inpainting=36.508106
+ssim_destroyed=0.000000, ssim_inpainting=0.987820
+loss_destroyed=0.014798, loss_inpainting=0.014798
+2024-06-07 06:33:54 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.030303
+psnr_destroyed=0.000000, psnr_inpainting=36.505337
+ssim_destroyed=0.000000, ssim_inpainting=0.987827
+loss_destroyed=0.014799, loss_inpainting=0.014799
+2024-06-07 06:37:00 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.050505
+psnr_destroyed=0.000000, psnr_inpainting=36.498657
+ssim_destroyed=0.000000, ssim_inpainting=0.987850
+loss_destroyed=0.014800, loss_inpainting=0.014800
+2024-06-07 06:40:04 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.070707
+psnr_destroyed=0.000000, psnr_inpainting=36.491547
+ssim_destroyed=0.000000, ssim_inpainting=0.987852
+loss_destroyed=0.014801, loss_inpainting=0.014801
+2024-06-07 06:43:09 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.090909
+psnr_destroyed=0.000000, psnr_inpainting=36.486778
+ssim_destroyed=0.000000, ssim_inpainting=0.987861
+loss_destroyed=0.014802, loss_inpainting=0.014802
+2024-06-07 06:46:15 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.111111
+psnr_destroyed=0.000000, psnr_inpainting=36.487385
+ssim_destroyed=0.000000, ssim_inpainting=0.987960
+loss_destroyed=0.014803, loss_inpainting=0.014803
+2024-06-07 06:49:21 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.131313
+psnr_destroyed=0.000000, psnr_inpainting=36.492821
+ssim_destroyed=0.000000, ssim_inpainting=0.988017
+loss_destroyed=0.014803, loss_inpainting=0.014803
+2024-06-07 06:52:26 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.151515
+psnr_destroyed=0.000000, psnr_inpainting=36.502880
+ssim_destroyed=0.000000, ssim_inpainting=0.988150
+loss_destroyed=0.014804, loss_inpainting=0.014804
+2024-06-07 06:55:32 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.171717
+psnr_destroyed=0.000000, psnr_inpainting=36.517899
+ssim_destroyed=0.000000, ssim_inpainting=0.988253
+loss_destroyed=0.014805, loss_inpainting=0.014805
+2024-06-07 06:58:37 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.191919
+psnr_destroyed=0.000000, psnr_inpainting=36.541225
+ssim_destroyed=0.000000, ssim_inpainting=0.988360
+loss_destroyed=0.014805, loss_inpainting=0.014805
+2024-06-07 07:01:43 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.212121
+psnr_destroyed=0.000000, psnr_inpainting=36.583691
+ssim_destroyed=0.000000, ssim_inpainting=0.988524
+loss_destroyed=0.014806, loss_inpainting=0.014806
+2024-06-07 07:04:50 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.232323
+psnr_destroyed=0.000000, psnr_inpainting=36.663128
+ssim_destroyed=0.000000, ssim_inpainting=0.988735
+loss_destroyed=0.014806, loss_inpainting=0.014806
+2024-06-07 07:07:57 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.2525249999999999
+psnr_destroyed=0.000000, psnr_inpainting=36.812767
+ssim_destroyed=0.000000, ssim_inpainting=0.989087
+loss_destroyed=0.014807, loss_inpainting=0.014807
+2024-06-07 07:11:03 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.272727
+psnr_destroyed=0.000000, psnr_inpainting=37.019844
+ssim_destroyed=0.000000, ssim_inpainting=0.989241
+loss_destroyed=0.014807, loss_inpainting=0.014807
+2024-06-07 07:14:18 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.292929
+psnr_destroyed=0.000000, psnr_inpainting=37.056396
+ssim_destroyed=0.000000, ssim_inpainting=0.987235
+loss_destroyed=0.014808, loss_inpainting=0.014808
+2024-06-07 07:17:23 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.313131
+psnr_destroyed=0.000000, psnr_inpainting=36.520653
+ssim_destroyed=0.000000, ssim_inpainting=0.981172
+loss_destroyed=0.014808, loss_inpainting=0.014808
+2024-06-07 07:20:30 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.333333
+psnr_destroyed=0.000000, psnr_inpainting=35.240372
+ssim_destroyed=0.000000, ssim_inpainting=0.972241
+loss_destroyed=0.014808, loss_inpainting=0.014808
+2024-06-07 07:23:39 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.353535
+psnr_destroyed=0.000000, psnr_inpainting=33.565002
+ssim_destroyed=0.000000, ssim_inpainting=0.961991
+loss_destroyed=0.014808, loss_inpainting=0.014808
+2024-06-07 07:26:49 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.373737
+psnr_destroyed=0.000000, psnr_inpainting=31.885208
+ssim_destroyed=0.000000, ssim_inpainting=0.951963
+loss_destroyed=0.014809, loss_inpainting=0.014809
+2024-06-07 07:29:55 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.393939
+psnr_destroyed=0.000000, psnr_inpainting=30.365131
+ssim_destroyed=0.000000, ssim_inpainting=0.942785
+loss_destroyed=0.014809, loss_inpainting=0.014809
+2024-06-07 07:33:04 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.414141
+psnr_destroyed=0.000000, psnr_inpainting=29.038038
+ssim_destroyed=0.000000, ssim_inpainting=0.934580
+loss_destroyed=0.014809, loss_inpainting=0.014809
+2024-06-07 07:36:13 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.434343
+psnr_destroyed=0.000000, psnr_inpainting=27.890251
+ssim_destroyed=0.000000, ssim_inpainting=0.927312
+loss_destroyed=0.014809, loss_inpainting=0.014809
+2024-06-07 07:39:20 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.454545
+psnr_destroyed=0.000000, psnr_inpainting=26.896725
+ssim_destroyed=0.000000, ssim_inpainting=0.920911
+loss_destroyed=0.014810, loss_inpainting=0.014810
+2024-06-07 07:42:32 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.474747
+psnr_destroyed=0.000000, psnr_inpainting=26.032806
+ssim_destroyed=0.000000, ssim_inpainting=0.915291
+loss_destroyed=0.014810, loss_inpainting=0.014810
+2024-06-07 07:45:42 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.494949
+psnr_destroyed=0.000000, psnr_inpainting=25.277330
+ssim_destroyed=0.000000, ssim_inpainting=0.910357
+loss_destroyed=0.014810, loss_inpainting=0.014810
+2024-06-07 07:48:48 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.515151
+psnr_destroyed=0.000000, psnr_inpainting=24.612978
+ssim_destroyed=0.000000, ssim_inpainting=0.906018
+loss_destroyed=0.014810, loss_inpainting=0.014810
+2024-06-07 07:51:55 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.535353
+psnr_destroyed=0.000000, psnr_inpainting=24.025688
+ssim_destroyed=0.000000, ssim_inpainting=0.902192
+loss_destroyed=0.014810, loss_inpainting=0.014810
+2024-06-07 07:55:01 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.555555
+psnr_destroyed=0.000000, psnr_inpainting=23.504049
+ssim_destroyed=0.000000, ssim_inpainting=0.898808
+loss_destroyed=0.014810, loss_inpainting=0.014810
+2024-06-07 07:58:08 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.575757
+psnr_destroyed=0.000000, psnr_inpainting=23.038742
+ssim_destroyed=0.000000, ssim_inpainting=0.895804
+loss_destroyed=0.014811, loss_inpainting=0.014811
+2024-06-07 08:01:16 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.595959
+psnr_destroyed=0.000000, psnr_inpainting=22.622101
+ssim_destroyed=0.000000, ssim_inpainting=0.893129
+loss_destroyed=0.014811, loss_inpainting=0.014811
+2024-06-07 08:04:26 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.616161
+psnr_destroyed=0.000000, psnr_inpainting=22.247774
+ssim_destroyed=0.000000, ssim_inpainting=0.890740
+loss_destroyed=0.014811, loss_inpainting=0.014811
+2024-06-07 08:07:35 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.636363
+psnr_destroyed=0.000000, psnr_inpainting=21.910450
+ssim_destroyed=0.000000, ssim_inpainting=0.888600
+loss_destroyed=0.014811, loss_inpainting=0.014811
+2024-06-07 08:10:40 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.656565
+psnr_destroyed=0.000000, psnr_inpainting=21.605661
+ssim_destroyed=0.000000, ssim_inpainting=0.886678
+loss_destroyed=0.014811, loss_inpainting=0.014811
+2024-06-07 08:13:46 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.6767670000000001
+psnr_destroyed=0.000000, psnr_inpainting=21.329609
+ssim_destroyed=0.000000, ssim_inpainting=0.884948
+loss_destroyed=0.014811, loss_inpainting=0.014811
+2024-06-07 08:16:58 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.696969
+psnr_destroyed=0.000000, psnr_inpainting=21.079056
+ssim_destroyed=0.000000, ssim_inpainting=0.883387
+loss_destroyed=0.014811, loss_inpainting=0.014811
+2024-06-07 08:20:06 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.717171
+psnr_destroyed=0.000000, psnr_inpainting=20.851219
+ssim_destroyed=0.000000, ssim_inpainting=0.881975
+loss_destroyed=0.014811, loss_inpainting=0.014811
+2024-06-07 08:23:13 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.737373
+psnr_destroyed=0.000000, psnr_inpainting=20.643688
+ssim_destroyed=0.000000, ssim_inpainting=0.880697
+loss_destroyed=0.014811, loss_inpainting=0.014811
+2024-06-07 08:26:20 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.757575
+psnr_destroyed=0.000000, psnr_inpainting=20.454365
+ssim_destroyed=0.000000, ssim_inpainting=0.879538
+loss_destroyed=0.014811, loss_inpainting=0.014811
+2024-06-07 08:29:33 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.777777
+psnr_destroyed=0.000000, psnr_inpainting=20.281420
+ssim_destroyed=0.000000, ssim_inpainting=0.878485
+loss_destroyed=0.014811, loss_inpainting=0.014811
+2024-06-07 08:32:43 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.797979
+psnr_destroyed=0.000000, psnr_inpainting=20.123249
+ssim_destroyed=0.000000, ssim_inpainting=0.877527
+loss_destroyed=0.014811, loss_inpainting=0.014811
+2024-06-07 08:35:51 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.818181
+psnr_destroyed=0.000000, psnr_inpainting=19.978426
+ssim_destroyed=0.000000, ssim_inpainting=0.876654
+loss_destroyed=0.014811, loss_inpainting=0.014811
+2024-06-07 08:39:01 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.838383
+psnr_destroyed=0.000000, psnr_inpainting=19.845701
+ssim_destroyed=0.000000, ssim_inpainting=0.875859
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 08:42:11 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.858585
+psnr_destroyed=0.000000, psnr_inpainting=19.723955
+ssim_destroyed=0.000000, ssim_inpainting=0.875133
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 08:45:17 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.878787
+psnr_destroyed=0.000000, psnr_inpainting=19.612190
+ssim_destroyed=0.000000, ssim_inpainting=0.874470
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 08:47:18 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.898989
+psnr_destroyed=0.000000, psnr_inpainting=19.509516
+ssim_destroyed=0.000000, ssim_inpainting=0.873863
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 08:49:12 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.919191
+psnr_destroyed=0.000000, psnr_inpainting=19.415133
+ssim_destroyed=0.000000, ssim_inpainting=0.873309
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 08:51:08 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.9393930000000001
+psnr_destroyed=0.000000, psnr_inpainting=19.328323
+ssim_destroyed=0.000000, ssim_inpainting=0.872801
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 08:53:02 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.959595
+psnr_destroyed=0.000000, psnr_inpainting=19.248438
+ssim_destroyed=0.000000, ssim_inpainting=0.872336
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 08:54:53 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.979797
+psnr_destroyed=0.000000, psnr_inpainting=19.174887
+ssim_destroyed=0.000000, ssim_inpainting=0.871910
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 08:56:47 >>  Image: tiger_resize, mask: scratchwith  alpha=0.01005124120603015, p= 1.999999
+psnr_destroyed=0.000000, psnr_inpainting=19.107143
+ssim_destroyed=0.000000, ssim_inpainting=0.871520
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 09:00:27 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 1e-06
+psnr_destroyed=0.000000, psnr_inpainting=18.502209
+ssim_destroyed=0.000000, ssim_inpainting=0.866893
+loss_destroyed=0.014810, loss_inpainting=0.014810
+2024-06-07 09:04:04 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.020203000000000002
+psnr_destroyed=0.000000, psnr_inpainting=9.722871
+ssim_destroyed=0.000000, ssim_inpainting=0.397668
+loss_destroyed=0.025486, loss_inpainting=0.156135
+2024-06-07 09:07:42 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.040405
+psnr_destroyed=0.000000, psnr_inpainting=10.434259
+ssim_destroyed=0.000000, ssim_inpainting=0.411853
+loss_destroyed=0.046565, loss_inpainting=0.391663
+2024-06-07 09:11:25 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.06060700000000001
+psnr_destroyed=0.000000, psnr_inpainting=12.097516
+ssim_destroyed=0.000000, ssim_inpainting=0.441055
+loss_destroyed=0.046922, loss_inpainting=0.386259
+2024-06-07 09:15:00 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.080809
+psnr_destroyed=0.000000, psnr_inpainting=10.319177
+ssim_destroyed=0.000000, ssim_inpainting=0.409608
+loss_destroyed=0.039605, loss_inpainting=0.270716
+2024-06-07 09:18:34 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.101011
+psnr_destroyed=0.000000, psnr_inpainting=10.208921
+ssim_destroyed=0.000000, ssim_inpainting=0.407490
+loss_destroyed=0.030429, loss_inpainting=0.321334
+2024-06-07 09:22:14 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.12121300000000002
+psnr_destroyed=0.000000, psnr_inpainting=10.161228
+ssim_destroyed=0.000000, ssim_inpainting=0.406470
+loss_destroyed=0.023727, loss_inpainting=0.385765
+2024-06-07 09:25:51 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.141415
+psnr_destroyed=0.000000, psnr_inpainting=10.546847
+ssim_destroyed=0.000000, ssim_inpainting=0.413487
+loss_destroyed=0.025000, loss_inpainting=0.239335
+2024-06-07 09:29:23 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.161617
+psnr_destroyed=0.000000, psnr_inpainting=10.381567
+ssim_destroyed=0.000000, ssim_inpainting=0.410397
+loss_destroyed=0.031140, loss_inpainting=0.455404
+2024-06-07 09:32:55 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.181819
+psnr_destroyed=0.000000, psnr_inpainting=10.417676
+ssim_destroyed=0.000000, ssim_inpainting=0.411253
+loss_destroyed=0.026223, loss_inpainting=0.316364
+2024-06-07 09:36:34 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.202021
+psnr_destroyed=0.000000, psnr_inpainting=10.330685
+ssim_destroyed=0.000000, ssim_inpainting=0.409353
+loss_destroyed=0.021995, loss_inpainting=0.276467
+2024-06-07 09:40:09 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.222223
+psnr_destroyed=0.000000, psnr_inpainting=10.423017
+ssim_destroyed=0.000000, ssim_inpainting=0.410906
+loss_destroyed=0.018603, loss_inpainting=0.409159
+2024-06-07 09:43:45 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.24242500000000003
+psnr_destroyed=0.000000, psnr_inpainting=10.400579
+ssim_destroyed=0.000000, ssim_inpainting=0.410426
+loss_destroyed=0.016074, loss_inpainting=0.439684
+2024-06-07 09:47:19 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.262627
+psnr_destroyed=0.000000, psnr_inpainting=10.506525
+ssim_destroyed=0.000000, ssim_inpainting=0.412146
+loss_destroyed=0.014336, loss_inpainting=0.376118
+2024-06-07 09:51:00 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.282829
+psnr_destroyed=0.000000, psnr_inpainting=10.338931
+ssim_destroyed=0.000000, ssim_inpainting=0.409525
+loss_destroyed=0.013263, loss_inpainting=0.450618
+2024-06-07 09:54:36 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.303031
+psnr_destroyed=0.000000, psnr_inpainting=10.260059
+ssim_destroyed=0.000000, ssim_inpainting=0.408114
+loss_destroyed=0.012702, loss_inpainting=0.415088
+2024-06-07 09:58:12 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.323233
+psnr_destroyed=0.000000, psnr_inpainting=10.534400
+ssim_destroyed=0.000000, ssim_inpainting=0.413975
+loss_destroyed=0.012508, loss_inpainting=0.320105
+2024-06-07 10:01:50 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.343435
+psnr_destroyed=0.000000, psnr_inpainting=10.443711
+ssim_destroyed=0.000000, ssim_inpainting=0.414129
+loss_destroyed=0.012537, loss_inpainting=0.379928
+2024-06-07 10:05:29 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.363637
+psnr_destroyed=0.000000, psnr_inpainting=10.071672
+ssim_destroyed=0.000000, ssim_inpainting=0.409010
+loss_destroyed=0.012696, loss_inpainting=0.143808
+2024-06-07 10:09:07 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.383839
+psnr_destroyed=0.000000, psnr_inpainting=10.334569
+ssim_destroyed=0.000000, ssim_inpainting=0.419019
+loss_destroyed=0.012922, loss_inpainting=0.252278
+2024-06-07 10:12:43 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.404041
+psnr_destroyed=0.000000, psnr_inpainting=10.370145
+ssim_destroyed=0.000000, ssim_inpainting=0.425522
+loss_destroyed=0.013173, loss_inpainting=0.092789
+2024-06-07 10:16:22 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.424243
+psnr_destroyed=0.000000, psnr_inpainting=10.650558
+ssim_destroyed=0.000000, ssim_inpainting=0.439338
+loss_destroyed=0.013422, loss_inpainting=0.102694
+2024-06-07 10:19:56 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.444445
+psnr_destroyed=0.000000, psnr_inpainting=10.152727
+ssim_destroyed=0.000000, ssim_inpainting=0.440412
+loss_destroyed=0.013654, loss_inpainting=0.307464
+2024-06-07 10:23:32 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.464647
+psnr_destroyed=0.000000, psnr_inpainting=10.066923
+ssim_destroyed=0.000000, ssim_inpainting=0.447815
+loss_destroyed=0.013859, loss_inpainting=0.112480
+2024-06-07 10:27:06 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.48484900000000003
+psnr_destroyed=0.000000, psnr_inpainting=10.027743
+ssim_destroyed=0.000000, ssim_inpainting=0.459693
+loss_destroyed=0.014036, loss_inpainting=0.227789
+2024-06-07 10:30:45 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.505051
+psnr_destroyed=0.000000, psnr_inpainting=11.128927
+ssim_destroyed=0.000000, ssim_inpainting=0.476032
+loss_destroyed=0.014185, loss_inpainting=0.105301
+2024-06-07 10:34:19 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.5252530000000001
+psnr_destroyed=0.000000, psnr_inpainting=11.485426
+ssim_destroyed=0.000000, ssim_inpainting=0.483745
+loss_destroyed=0.014308, loss_inpainting=0.096674
+2024-06-07 10:37:57 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.545455
+psnr_destroyed=0.000000, psnr_inpainting=10.201368
+ssim_destroyed=0.000000, ssim_inpainting=0.460512
+loss_destroyed=0.014409, loss_inpainting=0.117928
+2024-06-07 10:41:33 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.5656570000000001
+psnr_destroyed=0.000000, psnr_inpainting=10.537069
+ssim_destroyed=0.000000, ssim_inpainting=0.470253
+loss_destroyed=0.014489, loss_inpainting=0.108187
+2024-06-07 10:45:10 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.585859
+psnr_destroyed=0.000000, psnr_inpainting=8.877034
+ssim_destroyed=0.000000, ssim_inpainting=0.442721
+loss_destroyed=0.014548, loss_inpainting=0.136175
+2024-06-07 10:48:44 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.6060610000000001
+psnr_destroyed=0.000000, psnr_inpainting=9.209964
+ssim_destroyed=0.000000, ssim_inpainting=0.457529
+loss_destroyed=0.014596, loss_inpainting=0.165159
+2024-06-07 10:52:19 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.626263
+psnr_destroyed=0.000000, psnr_inpainting=10.514884
+ssim_destroyed=0.000000, ssim_inpainting=0.481950
+loss_destroyed=0.014635, loss_inpainting=0.125693
+2024-06-07 10:56:00 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.6464650000000001
+psnr_destroyed=0.000000, psnr_inpainting=8.562294
+ssim_destroyed=0.000000, ssim_inpainting=0.450103
+loss_destroyed=0.014666, loss_inpainting=0.160449
+2024-06-07 10:59:32 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.6666670000000001
+psnr_destroyed=0.000000, psnr_inpainting=8.747556
+ssim_destroyed=0.000000, ssim_inpainting=0.460572
+loss_destroyed=0.014691, loss_inpainting=0.156716
+2024-06-07 11:03:06 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.6868690000000001
+psnr_destroyed=0.000000, psnr_inpainting=7.176406
+ssim_destroyed=0.000000, ssim_inpainting=0.402439
+loss_destroyed=0.014712, loss_inpainting=0.207384
+2024-06-07 11:06:40 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.7070710000000001
+psnr_destroyed=0.000000, psnr_inpainting=7.685089
+ssim_destroyed=0.000000, ssim_inpainting=0.447027
+loss_destroyed=0.014728, loss_inpainting=0.170624
+2024-06-07 11:10:19 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.7272730000000001
+psnr_destroyed=0.000000, psnr_inpainting=8.180516
+ssim_destroyed=0.000000, ssim_inpainting=0.503565
+loss_destroyed=0.014733, loss_inpainting=0.157795
+2024-06-07 11:13:52 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.7474750000000001
+psnr_destroyed=0.000000, psnr_inpainting=9.387509
+ssim_destroyed=0.000000, ssim_inpainting=0.563754
+loss_destroyed=0.014737, loss_inpainting=0.125227
+2024-06-07 11:17:26 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.767677
+psnr_destroyed=0.000000, psnr_inpainting=9.670035
+ssim_destroyed=0.000000, ssim_inpainting=0.586575
+loss_destroyed=0.014742, loss_inpainting=0.107928
+2024-06-07 11:21:05 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.7878790000000001
+psnr_destroyed=0.000000, psnr_inpainting=10.526005
+ssim_destroyed=0.000000, ssim_inpainting=0.626368
+loss_destroyed=0.014746, loss_inpainting=0.089015
+2024-06-07 11:24:46 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.808081
+psnr_destroyed=0.000000, psnr_inpainting=11.380392
+ssim_destroyed=0.000000, ssim_inpainting=0.650317
+loss_destroyed=0.014750, loss_inpainting=0.092349
+2024-06-07 11:28:19 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.8282830000000001
+psnr_destroyed=0.000000, psnr_inpainting=15.217608
+ssim_destroyed=0.000000, ssim_inpainting=0.858145
+loss_destroyed=0.014754, loss_inpainting=0.030567
+2024-06-07 11:31:54 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.848485
+psnr_destroyed=0.000000, psnr_inpainting=15.428537
+ssim_destroyed=0.000000, ssim_inpainting=0.864335
+loss_destroyed=0.014757, loss_inpainting=0.028827
+2024-06-07 11:35:31 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.8686870000000001
+psnr_destroyed=0.000000, psnr_inpainting=15.412821
+ssim_destroyed=0.000000, ssim_inpainting=0.864526
+loss_destroyed=0.014760, loss_inpainting=0.028819
+2024-06-07 11:39:06 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.888889
+psnr_destroyed=0.000000, psnr_inpainting=35.515324
+ssim_destroyed=0.000000, ssim_inpainting=0.983820
+loss_destroyed=0.014763, loss_inpainting=0.014763
+2024-06-07 11:42:41 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.9090910000000001
+psnr_destroyed=0.000000, psnr_inpainting=35.514576
+ssim_destroyed=0.000000, ssim_inpainting=0.983815
+loss_destroyed=0.014766, loss_inpainting=0.014766
+2024-06-07 11:46:17 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.929293
+psnr_destroyed=0.000000, psnr_inpainting=35.512295
+ssim_destroyed=0.000000, ssim_inpainting=0.983796
+loss_destroyed=0.014769, loss_inpainting=0.014769
+2024-06-07 11:49:57 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.9494950000000001
+psnr_destroyed=0.000000, psnr_inpainting=35.511013
+ssim_destroyed=0.000000, ssim_inpainting=0.983779
+loss_destroyed=0.014772, loss_inpainting=0.014772
+2024-06-07 11:53:36 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.9696970000000001
+psnr_destroyed=0.000000, psnr_inpainting=35.509869
+ssim_destroyed=0.000000, ssim_inpainting=0.983761
+loss_destroyed=0.014774, loss_inpainting=0.014774
+2024-06-07 11:57:07 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 0.9898990000000001
+psnr_destroyed=0.000000, psnr_inpainting=35.508862
+ssim_destroyed=0.000000, ssim_inpainting=0.983748
+loss_destroyed=0.014776, loss_inpainting=0.014776
+2024-06-07 12:00:44 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 1.010101
+psnr_destroyed=0.000000, psnr_inpainting=35.507183
+ssim_destroyed=0.000000, ssim_inpainting=0.983730
+loss_destroyed=0.014778, loss_inpainting=0.014778
+2024-06-07 12:04:21 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 1.030303
+psnr_destroyed=0.000000, psnr_inpainting=35.505672
+ssim_destroyed=0.000000, ssim_inpainting=0.983716
+loss_destroyed=0.014780, loss_inpainting=0.014780
+2024-06-07 12:07:56 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 1.050505
+psnr_destroyed=0.000000, psnr_inpainting=35.504410
+ssim_destroyed=0.000000, ssim_inpainting=0.983713
+loss_destroyed=0.014782, loss_inpainting=0.014782
+2024-06-07 12:11:32 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 1.070707
+psnr_destroyed=0.000000, psnr_inpainting=35.504463
+ssim_destroyed=0.000000, ssim_inpainting=0.983737
+loss_destroyed=0.014784, loss_inpainting=0.014784
+2024-06-07 12:15:11 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 1.090909
+psnr_destroyed=0.000000, psnr_inpainting=35.507481
+ssim_destroyed=0.000000, ssim_inpainting=0.983793
+loss_destroyed=0.014786, loss_inpainting=0.014786
+2024-06-07 12:18:45 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 1.111111
+psnr_destroyed=0.000000, psnr_inpainting=35.514362
+ssim_destroyed=0.000000, ssim_inpainting=0.983882
+loss_destroyed=0.014787, loss_inpainting=0.014787
+2024-06-07 12:22:18 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 1.131313
+psnr_destroyed=0.000000, psnr_inpainting=35.525162
+ssim_destroyed=0.000000, ssim_inpainting=0.983998
+loss_destroyed=0.014789, loss_inpainting=0.014789
+2024-06-07 12:25:53 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 1.151515
+psnr_destroyed=0.000000, psnr_inpainting=35.539875
+ssim_destroyed=0.000000, ssim_inpainting=0.984137
+loss_destroyed=0.014790, loss_inpainting=0.014790
+2024-06-07 12:29:30 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 1.171717
+psnr_destroyed=0.000000, psnr_inpainting=35.555111
+ssim_destroyed=0.000000, ssim_inpainting=0.984263
+loss_destroyed=0.014792, loss_inpainting=0.014792
+2024-06-07 12:33:03 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 1.191919
+psnr_destroyed=0.000000, psnr_inpainting=35.570217
+ssim_destroyed=0.000000, ssim_inpainting=0.984488
+loss_destroyed=0.014793, loss_inpainting=0.014793
+2024-06-07 12:36:35 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 1.212121
+psnr_destroyed=0.000000, psnr_inpainting=35.586842
+ssim_destroyed=0.000000, ssim_inpainting=0.984637
+loss_destroyed=0.014794, loss_inpainting=0.014794
+2024-06-07 12:40:09 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 1.232323
+psnr_destroyed=0.000000, psnr_inpainting=35.605492
+ssim_destroyed=0.000000, ssim_inpainting=0.984783
+loss_destroyed=0.014795, loss_inpainting=0.014795
+2024-06-07 12:43:46 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 1.2525249999999999
+psnr_destroyed=0.000000, psnr_inpainting=35.626434
+ssim_destroyed=0.000000, ssim_inpainting=0.985003
+loss_destroyed=0.014796, loss_inpainting=0.014796
+2024-06-07 12:47:18 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 1.272727
+psnr_destroyed=0.000000, psnr_inpainting=35.649696
+ssim_destroyed=0.000000, ssim_inpainting=0.985226
+loss_destroyed=0.014797, loss_inpainting=0.014797
+2024-06-07 12:50:52 >>  Image: tiger_resize, mask: scratchwith  alpha=0.020101482412060303, p= 1.292929
+psnr_destroyed=0.000000, psnr_inpainting=35.675232
+ssim_destroyed=0.000000, ssim_inpainting=0.985366
+loss_destroyed=0.014798, loss_inpainting=0.014798
+2024-06-07 12:54:44 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1e-06
+psnr_destroyed=0.000000, psnr_inpainting=18.322918
+ssim_destroyed=0.000000, ssim_inpainting=0.867144
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 12:55:07 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.22222300000000003
+psnr_destroyed=0.000000, psnr_inpainting=17.106983
+ssim_destroyed=0.000000, ssim_inpainting=0.888685
+loss_destroyed=0.014660, loss_inpainting=0.021283
+2024-06-07 12:55:33 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.44444500000000003
+psnr_destroyed=0.000000, psnr_inpainting=19.679811
+ssim_destroyed=0.000000, ssim_inpainting=0.866321
+loss_destroyed=0.014808, loss_inpainting=0.014808
+2024-06-07 12:56:03 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.6666670000000001
+psnr_destroyed=0.000000, psnr_inpainting=18.357784
+ssim_destroyed=0.000000, ssim_inpainting=0.867454
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 12:56:28 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 0.8888890000000002
+psnr_destroyed=0.000000, psnr_inpainting=18.297895
+ssim_destroyed=0.000000, ssim_inpainting=0.867102
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 12:56:52 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.111111
+psnr_destroyed=0.000000, psnr_inpainting=18.294020
+ssim_destroyed=0.000000, ssim_inpainting=0.867058
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 12:57:15 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.333333
+psnr_destroyed=0.000000, psnr_inpainting=18.293861
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 12:57:41 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.5555550000000002
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 12:58:05 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.7777770000000002
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 12:58:30 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-06, p= 1.999999
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 13:00:52 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526405263157895, p= 1e-06
+psnr_destroyed=0.000000, psnr_inpainting=18.675642
+ssim_destroyed=0.000000, ssim_inpainting=0.865568
+loss_destroyed=0.014809, loss_inpainting=0.014809
+2024-06-07 13:03:19 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526405263157895, p= 0.22222300000000003
+psnr_destroyed=0.000000, psnr_inpainting=10.108510
+ssim_destroyed=0.000000, ssim_inpainting=0.405672
+loss_destroyed=0.035618, loss_inpainting=0.149941
+2024-06-07 13:05:47 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526405263157895, p= 0.44444500000000003
+psnr_destroyed=0.000000, psnr_inpainting=10.346204
+ssim_destroyed=0.000000, ssim_inpainting=0.415386
+loss_destroyed=0.012466, loss_inpainting=0.315571
+2024-06-07 13:08:21 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526405263157895, p= 0.6666670000000001
+psnr_destroyed=0.000000, psnr_inpainting=9.473976
+ssim_destroyed=0.000000, ssim_inpainting=0.450858
+loss_destroyed=0.014292, loss_inpainting=0.114682
+2024-06-07 13:11:02 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526405263157895, p= 0.8888890000000002
+psnr_destroyed=0.000000, psnr_inpainting=15.291092
+ssim_destroyed=0.000000, ssim_inpainting=0.858400
+loss_destroyed=0.014586, loss_inpainting=0.029697
+2024-06-07 13:13:39 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526405263157895, p= 1.111111
+psnr_destroyed=0.000000, psnr_inpainting=34.366302
+ssim_destroyed=0.000000, ssim_inpainting=0.975777
+loss_destroyed=0.014636, loss_inpainting=0.014636
+
+
+
+
+
+2024-06-07 13:16:04 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-09, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 13:16:28 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-09, p= 1.111111111888889
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 13:16:51 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-09, p= 1.222222222777778
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 13:17:15 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-09, p= 1.3333333336666666
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 13:17:39 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-09, p= 1.4444444445555555
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 13:18:05 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-09, p= 1.5555555554444445
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 13:18:30 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-09, p= 1.6666666663333332
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 13:18:56 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-09, p= 1.777777777222222
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 13:19:21 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-09, p= 1.888888888111111
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 13:19:47 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-09, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 13:22:15 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526315878947368, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=34.397682
+ssim_destroyed=0.000000, ssim_inpainting=0.975978
+loss_destroyed=0.014612, loss_inpainting=0.014612
+2024-06-07 13:24:43 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526315878947368, p= 1.111111111888889
+psnr_destroyed=0.000000, psnr_inpainting=34.365356
+ssim_destroyed=0.000000, ssim_inpainting=0.975778
+loss_destroyed=0.014636, loss_inpainting=0.014636
+2024-06-07 13:27:11 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526315878947368, p= 1.222222222777778
+psnr_destroyed=0.000000, psnr_inpainting=34.493176
+ssim_destroyed=0.000000, ssim_inpainting=0.977356
+loss_destroyed=0.014656, loss_inpainting=0.014656
+2024-06-07 13:29:37 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526315878947368, p= 1.3333333336666666
+psnr_destroyed=0.000000, psnr_inpainting=34.739288
+ssim_destroyed=0.000000, ssim_inpainting=0.979328
+loss_destroyed=0.014675, loss_inpainting=0.014675
+2024-06-07 13:32:05 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526315878947368, p= 1.4444444445555555
+psnr_destroyed=0.000000, psnr_inpainting=35.038895
+ssim_destroyed=0.000000, ssim_inpainting=0.981161
+loss_destroyed=0.014691, loss_inpainting=0.014691
+2024-06-07 13:34:32 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526315878947368, p= 1.5555555554444445
+psnr_destroyed=0.000000, psnr_inpainting=35.365662
+ssim_destroyed=0.000000, ssim_inpainting=0.982760
+loss_destroyed=0.014705, loss_inpainting=0.014705
+2024-06-07 13:37:00 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526315878947368, p= 1.6666666663333332
+psnr_destroyed=0.000000, psnr_inpainting=35.701881
+ssim_destroyed=0.000000, ssim_inpainting=0.984122
+loss_destroyed=0.014717, loss_inpainting=0.014717
+2024-06-07 13:39:28 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526315878947368, p= 1.777777777222222
+psnr_destroyed=0.000000, psnr_inpainting=36.032642
+ssim_destroyed=0.000000, ssim_inpainting=0.985266
+loss_destroyed=0.014728, loss_inpainting=0.014728
+2024-06-07 13:41:57 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526315878947368, p= 1.888888888111111
+psnr_destroyed=0.000000, psnr_inpainting=36.344913
+ssim_destroyed=0.000000, ssim_inpainting=0.986214
+loss_destroyed=0.014738, loss_inpainting=0.014738
+2024-06-07 13:44:27 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526315878947368, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=36.627373
+ssim_destroyed=0.000000, ssim_inpainting=0.986974
+loss_destroyed=0.014746, loss_inpainting=0.014746
+2024-06-07 13:48:05 >>  Image: tiger_resize, mask: scratchwith  alpha=0.21052631657894735, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=34.792660
+ssim_destroyed=0.000000, ssim_inpainting=0.978034
+loss_destroyed=0.014471, loss_inpainting=0.014471
+2024-06-07 13:53:04 >>  Image: tiger_resize, mask: scratchwith  alpha=0.21052631657894735, p= 1.111111111888889
+psnr_destroyed=0.000000, psnr_inpainting=34.730869
+ssim_destroyed=0.000000, ssim_inpainting=0.977456
+loss_destroyed=0.014493, loss_inpainting=0.014493
+2024-06-07 13:58:38 >>  Image: tiger_resize, mask: scratchwith  alpha=0.21052631657894735, p= 1.222222222777778
+psnr_destroyed=0.000000, psnr_inpainting=34.851345
+ssim_destroyed=0.000000, ssim_inpainting=0.979040
+loss_destroyed=0.014513, loss_inpainting=0.014513
+2024-06-07 14:04:08 >>  Image: tiger_resize, mask: scratchwith  alpha=0.21052631657894735, p= 1.3333333336666666
+psnr_destroyed=0.000000, psnr_inpainting=35.121357
+ssim_destroyed=0.000000, ssim_inpainting=0.981076
+loss_destroyed=0.014533, loss_inpainting=0.014533
+2024-06-07 14:09:36 >>  Image: tiger_resize, mask: scratchwith  alpha=0.21052631657894735, p= 1.4444444445555555
+psnr_destroyed=0.000000, psnr_inpainting=35.447289
+ssim_destroyed=0.000000, ssim_inpainting=0.982910
+loss_destroyed=0.014550, loss_inpainting=0.014550
+2024-06-07 14:15:09 >>  Image: tiger_resize, mask: scratchwith  alpha=0.21052631657894735, p= 1.5555555554444445
+psnr_destroyed=0.000000, psnr_inpainting=35.795589
+ssim_destroyed=0.000000, ssim_inpainting=0.984463
+loss_destroyed=0.014567, loss_inpainting=0.014567
+2024-06-07 14:20:52 >>  Image: tiger_resize, mask: scratchwith  alpha=0.21052631657894735, p= 1.6666666663333332
+psnr_destroyed=0.000000, psnr_inpainting=36.146950
+ssim_destroyed=0.000000, ssim_inpainting=0.985755
+loss_destroyed=0.014583, loss_inpainting=0.014583
+2024-06-07 14:24:59 >>  Image: tiger_resize, mask: scratchwith  alpha=0.21052631657894735, p= 1.777777777222222
+psnr_destroyed=0.000000, psnr_inpainting=36.486023
+ssim_destroyed=0.000000, ssim_inpainting=0.986819
+loss_destroyed=0.014597, loss_inpainting=0.014597
+2024-06-07 14:28:29 >>  Image: tiger_resize, mask: scratchwith  alpha=0.21052631657894735, p= 1.888888888111111
+psnr_destroyed=0.000000, psnr_inpainting=36.800415
+ssim_destroyed=0.000000, ssim_inpainting=0.987687
+loss_destroyed=0.014611, loss_inpainting=0.014611
+2024-06-07 14:31:59 >>  Image: tiger_resize, mask: scratchwith  alpha=0.21052631657894735, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=37.080090
+ssim_destroyed=0.000000, ssim_inpainting=0.988382
+loss_destroyed=0.014623, loss_inpainting=0.014623
+2024-06-07 14:35:13 >>  Image: tiger_resize, mask: scratchwith  alpha=0.31578947436842103, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=35.410866
+ssim_destroyed=0.000000, ssim_inpainting=0.981555
+loss_destroyed=0.014381, loss_inpainting=0.014381
+2024-06-07 14:38:27 >>  Image: tiger_resize, mask: scratchwith  alpha=0.31578947436842103, p= 1.111111111888889
+psnr_destroyed=0.000000, psnr_inpainting=35.330017
+ssim_destroyed=0.000000, ssim_inpainting=0.980807
+loss_destroyed=0.014400, loss_inpainting=0.014400
+2024-06-07 14:41:41 >>  Image: tiger_resize, mask: scratchwith  alpha=0.31578947436842103, p= 1.222222222777778
+psnr_destroyed=0.000000, psnr_inpainting=35.440224
+ssim_destroyed=0.000000, ssim_inpainting=0.982238
+loss_destroyed=0.014418, loss_inpainting=0.014418
+2024-06-07 14:44:53 >>  Image: tiger_resize, mask: scratchwith  alpha=0.31578947436842103, p= 1.3333333336666666
+psnr_destroyed=0.000000, psnr_inpainting=35.723232
+ssim_destroyed=0.000000, ssim_inpainting=0.984081
+loss_destroyed=0.014435, loss_inpainting=0.014435
+2024-06-07 14:48:06 >>  Image: tiger_resize, mask: scratchwith  alpha=0.31578947436842103, p= 1.4444444445555555
+psnr_destroyed=0.000000, psnr_inpainting=36.063446
+ssim_destroyed=0.000000, ssim_inpainting=0.985682
+loss_destroyed=0.014451, loss_inpainting=0.014451
+2024-06-07 14:51:21 >>  Image: tiger_resize, mask: scratchwith  alpha=0.31578947436842103, p= 1.5555555554444445
+psnr_destroyed=0.000000, psnr_inpainting=36.420464
+ssim_destroyed=0.000000, ssim_inpainting=0.986999
+loss_destroyed=0.014466, loss_inpainting=0.014466
+2024-06-07 14:54:31 >>  Image: tiger_resize, mask: scratchwith  alpha=0.31578947436842103, p= 1.6666666663333332
+psnr_destroyed=0.000000, psnr_inpainting=36.773350
+ssim_destroyed=0.000000, ssim_inpainting=0.988070
+loss_destroyed=0.014481, loss_inpainting=0.014481
+2024-06-07 14:57:44 >>  Image: tiger_resize, mask: scratchwith  alpha=0.31578947436842103, p= 1.777777777222222
+psnr_destroyed=0.000000, psnr_inpainting=37.106873
+ssim_destroyed=0.000000, ssim_inpainting=0.988937
+loss_destroyed=0.014495, loss_inpainting=0.014495
+2024-06-07 15:00:57 >>  Image: tiger_resize, mask: scratchwith  alpha=0.31578947436842103, p= 1.888888888111111
+psnr_destroyed=0.000000, psnr_inpainting=37.409466
+ssim_destroyed=0.000000, ssim_inpainting=0.989632
+loss_destroyed=0.014508, loss_inpainting=0.014508
+2024-06-07 15:04:10 >>  Image: tiger_resize, mask: scratchwith  alpha=0.31578947436842103, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=37.672737
+ssim_destroyed=0.000000, ssim_inpainting=0.990181
+loss_destroyed=0.014521, loss_inpainting=0.014521
+2024-06-07 15:16:23 >>  Image: tiger_resize, mask: scratchwith  alpha=0.42105263215789474, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=35.525139
+ssim_destroyed=0.000000, ssim_inpainting=0.984625
+loss_destroyed=0.014322, loss_inpainting=0.014322
+2024-06-07 15:28:34 >>  Image: tiger_resize, mask: scratchwith  alpha=0.42105263215789474, p= 1.111111111888889
+psnr_destroyed=0.000000, psnr_inpainting=35.935497
+ssim_destroyed=0.000000, ssim_inpainting=0.983920
+loss_destroyed=0.014338, loss_inpainting=0.014338
+2024-06-07 15:40:46 >>  Image: tiger_resize, mask: scratchwith  alpha=0.42105263215789474, p= 1.222222222777778
+psnr_destroyed=0.000000, psnr_inpainting=36.034874
+ssim_destroyed=0.000000, ssim_inpainting=0.985114
+loss_destroyed=0.014353, loss_inpainting=0.014353
+2024-06-07 15:52:59 >>  Image: tiger_resize, mask: scratchwith  alpha=0.42105263215789474, p= 1.3333333336666666
+psnr_destroyed=0.000000, psnr_inpainting=36.325508
+ssim_destroyed=0.000000, ssim_inpainting=0.986672
+loss_destroyed=0.014369, loss_inpainting=0.014369
+2024-06-07 16:05:11 >>  Image: tiger_resize, mask: scratchwith  alpha=0.42105263215789474, p= 1.4444444445555555
+psnr_destroyed=0.000000, psnr_inpainting=36.672157
+ssim_destroyed=0.000000, ssim_inpainting=0.987999
+loss_destroyed=0.014383, loss_inpainting=0.014383
+2024-06-07 16:30:04 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-09, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 16:30:29 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-09, p= 1.111111111888889
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 16:30:54 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-09, p= 1.222222222777778
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 16:31:18 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-09, p= 1.3333333336666666
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 16:31:43 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-09, p= 1.4444444445555555
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 16:32:09 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-09, p= 1.5555555554444445
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 16:32:34 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-09, p= 1.6666666663333332
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 16:33:02 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-09, p= 1.777777777222222
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 16:33:28 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-09, p= 1.888888888111111
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 16:33:55 >>  Image: tiger_resize, mask: scratchwith  alpha=1e-09, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=18.293856
+ssim_destroyed=0.000000, ssim_inpainting=0.867071
+loss_destroyed=0.014812, loss_inpainting=0.014812
+2024-06-07 16:36:18 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526315878947368, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=34.397682
+ssim_destroyed=0.000000, ssim_inpainting=0.975978
+loss_destroyed=0.014612, loss_inpainting=0.014612
+2024-06-07 16:38:43 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526315878947368, p= 1.111111111888889
+psnr_destroyed=0.000000, psnr_inpainting=34.365356
+ssim_destroyed=0.000000, ssim_inpainting=0.975778
+loss_destroyed=0.014636, loss_inpainting=0.014636
+2024-06-07 16:41:06 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526315878947368, p= 1.222222222777778
+psnr_destroyed=0.000000, psnr_inpainting=34.493176
+ssim_destroyed=0.000000, ssim_inpainting=0.977356
+loss_destroyed=0.014656, loss_inpainting=0.014656
+2024-06-07 16:43:33 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526315878947368, p= 1.3333333336666666
+psnr_destroyed=0.000000, psnr_inpainting=34.739288
+ssim_destroyed=0.000000, ssim_inpainting=0.979328
+loss_destroyed=0.014675, loss_inpainting=0.014675
+2024-06-07 16:46:00 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526315878947368, p= 1.4444444445555555
+psnr_destroyed=0.000000, psnr_inpainting=35.038895
+ssim_destroyed=0.000000, ssim_inpainting=0.981161
+loss_destroyed=0.014691, loss_inpainting=0.014691
+2024-06-07 16:48:27 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526315878947368, p= 1.5555555554444445
+psnr_destroyed=0.000000, psnr_inpainting=35.365662
+ssim_destroyed=0.000000, ssim_inpainting=0.982760
+loss_destroyed=0.014705, loss_inpainting=0.014705
+2024-06-07 16:50:52 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526315878947368, p= 1.6666666663333332
+psnr_destroyed=0.000000, psnr_inpainting=35.701881
+ssim_destroyed=0.000000, ssim_inpainting=0.984122
+loss_destroyed=0.014717, loss_inpainting=0.014717
+2024-06-07 16:53:21 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526315878947368, p= 1.777777777222222
+psnr_destroyed=0.000000, psnr_inpainting=36.032642
+ssim_destroyed=0.000000, ssim_inpainting=0.985266
+loss_destroyed=0.014728, loss_inpainting=0.014728
+2024-06-07 16:55:48 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526315878947368, p= 1.888888888111111
+psnr_destroyed=0.000000, psnr_inpainting=36.344913
+ssim_destroyed=0.000000, ssim_inpainting=0.986214
+loss_destroyed=0.014738, loss_inpainting=0.014738
+2024-06-07 16:58:14 >>  Image: tiger_resize, mask: scratchwith  alpha=0.10526315878947368, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=36.627373
+ssim_destroyed=0.000000, ssim_inpainting=0.986974
+loss_destroyed=0.014746, loss_inpainting=0.014746
+2024-06-07 17:01:42 >>  Image: tiger_resize, mask: scratchwith  alpha=0.21052631657894735, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=34.792660
+ssim_destroyed=0.000000, ssim_inpainting=0.978034
+loss_destroyed=0.014471, loss_inpainting=0.014471
+2024-06-07 17:05:12 >>  Image: tiger_resize, mask: scratchwith  alpha=0.21052631657894735, p= 1.111111111888889
+psnr_destroyed=0.000000, psnr_inpainting=34.730869
+ssim_destroyed=0.000000, ssim_inpainting=0.977456
+loss_destroyed=0.014493, loss_inpainting=0.014493
+2024-06-07 17:08:39 >>  Image: tiger_resize, mask: scratchwith  alpha=0.21052631657894735, p= 1.222222222777778
+psnr_destroyed=0.000000, psnr_inpainting=34.851345
+ssim_destroyed=0.000000, ssim_inpainting=0.979040
+loss_destroyed=0.014513, loss_inpainting=0.014513
+2024-06-07 17:12:12 >>  Image: tiger_resize, mask: scratchwith  alpha=0.21052631657894735, p= 1.3333333336666666
+psnr_destroyed=0.000000, psnr_inpainting=35.121357
+ssim_destroyed=0.000000, ssim_inpainting=0.981076
+loss_destroyed=0.014533, loss_inpainting=0.014533
+2024-06-07 17:15:38 >>  Image: tiger_resize, mask: scratchwith  alpha=0.21052631657894735, p= 1.4444444445555555
+psnr_destroyed=0.000000, psnr_inpainting=35.447289
+ssim_destroyed=0.000000, ssim_inpainting=0.982910
+loss_destroyed=0.014550, loss_inpainting=0.014550
+2024-06-07 17:19:10 >>  Image: tiger_resize, mask: scratchwith  alpha=0.21052631657894735, p= 1.5555555554444445
+psnr_destroyed=0.000000, psnr_inpainting=35.795589
+ssim_destroyed=0.000000, ssim_inpainting=0.984463
+loss_destroyed=0.014567, loss_inpainting=0.014567
+2024-06-07 17:22:39 >>  Image: tiger_resize, mask: scratchwith  alpha=0.21052631657894735, p= 1.6666666663333332
+psnr_destroyed=0.000000, psnr_inpainting=36.146950
+ssim_destroyed=0.000000, ssim_inpainting=0.985755
+loss_destroyed=0.014583, loss_inpainting=0.014583
+2024-06-07 17:26:08 >>  Image: tiger_resize, mask: scratchwith  alpha=0.21052631657894735, p= 1.777777777222222
+psnr_destroyed=0.000000, psnr_inpainting=36.486023
+ssim_destroyed=0.000000, ssim_inpainting=0.986819
+loss_destroyed=0.014597, loss_inpainting=0.014597
+2024-06-07 17:29:39 >>  Image: tiger_resize, mask: scratchwith  alpha=0.21052631657894735, p= 1.888888888111111
+psnr_destroyed=0.000000, psnr_inpainting=36.800415
+ssim_destroyed=0.000000, ssim_inpainting=0.987687
+loss_destroyed=0.014611, loss_inpainting=0.014611
+2024-06-07 17:33:11 >>  Image: tiger_resize, mask: scratchwith  alpha=0.21052631657894735, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=37.080090
+ssim_destroyed=0.000000, ssim_inpainting=0.988382
+loss_destroyed=0.014623, loss_inpainting=0.014623
+2024-06-07 17:36:23 >>  Image: tiger_resize, mask: scratchwith  alpha=0.31578947436842103, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=35.410866
+ssim_destroyed=0.000000, ssim_inpainting=0.981555
+loss_destroyed=0.014381, loss_inpainting=0.014381
+2024-06-07 17:39:35 >>  Image: tiger_resize, mask: scratchwith  alpha=0.31578947436842103, p= 1.111111111888889
+psnr_destroyed=0.000000, psnr_inpainting=35.330017
+ssim_destroyed=0.000000, ssim_inpainting=0.980807
+loss_destroyed=0.014400, loss_inpainting=0.014400
+2024-06-07 17:42:46 >>  Image: tiger_resize, mask: scratchwith  alpha=0.31578947436842103, p= 1.222222222777778
+psnr_destroyed=0.000000, psnr_inpainting=35.440224
+ssim_destroyed=0.000000, ssim_inpainting=0.982238
+loss_destroyed=0.014418, loss_inpainting=0.014418
+2024-06-07 17:45:58 >>  Image: tiger_resize, mask: scratchwith  alpha=0.31578947436842103, p= 1.3333333336666666
+psnr_destroyed=0.000000, psnr_inpainting=35.723232
+ssim_destroyed=0.000000, ssim_inpainting=0.984081
+loss_destroyed=0.014435, loss_inpainting=0.014435
+2024-06-07 17:49:09 >>  Image: tiger_resize, mask: scratchwith  alpha=0.31578947436842103, p= 1.4444444445555555
+psnr_destroyed=0.000000, psnr_inpainting=36.063446
+ssim_destroyed=0.000000, ssim_inpainting=0.985682
+loss_destroyed=0.014451, loss_inpainting=0.014451
+2024-06-07 17:52:21 >>  Image: tiger_resize, mask: scratchwith  alpha=0.31578947436842103, p= 1.5555555554444445
+psnr_destroyed=0.000000, psnr_inpainting=36.420464
+ssim_destroyed=0.000000, ssim_inpainting=0.986999
+loss_destroyed=0.014466, loss_inpainting=0.014466
+2024-06-07 17:55:32 >>  Image: tiger_resize, mask: scratchwith  alpha=0.31578947436842103, p= 1.6666666663333332
+psnr_destroyed=0.000000, psnr_inpainting=36.773350
+ssim_destroyed=0.000000, ssim_inpainting=0.988070
+loss_destroyed=0.014481, loss_inpainting=0.014481

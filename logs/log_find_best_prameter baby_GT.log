@@ -1,0 +1,30 @@
+2024-11-29 18:26:54 >>  
+Image: baby_GT, mask: random with  alpha=1e-09, p= 1
+psnr_destroyed=0.000000, psnr_inpainting=7.210257
+ssim_destroyed=0.000000, ssim_inpainting=0.100071
+loss_destroyed=0.190097, loss_inpainting=0.190097
+2024-11-29 18:27:01 >>  
+Image: baby_GT, mask: random with  alpha=0.1, p= 1
+psnr_destroyed=0.000000, psnr_inpainting=0.000000
+ssim_destroyed=0.000000, ssim_inpainting=0.000000
+loss_destroyed=0.053116, loss_inpainting=0.030902
+2024-11-29 18:27:38 >>  
+Image: baby_GT, mask: random with  alpha=1e-09, p= 1
+psnr_destroyed=0.000000, psnr_inpainting=7.210257
+ssim_destroyed=0.000000, ssim_inpainting=0.100071
+loss_destroyed=0.190097, loss_inpainting=0.190097
+2024-11-29 18:27:45 >>  
+Image: baby_GT, mask: random with  alpha=0.1, p= 1
+psnr_destroyed=0.000000, psnr_inpainting=0.000000
+ssim_destroyed=0.000000, ssim_inpainting=0.000000
+loss_destroyed=0.053116, loss_inpainting=0.030902
+2024-11-29 18:27:45 >>  
+Image: baby_GT, mask: random with  alpha=1e-09, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=7.210257
+ssim_destroyed=0.000000, ssim_inpainting=0.100071
+loss_destroyed=0.190097, loss_inpainting=0.190097
+2024-11-29 18:27:51 >>  
+Image: baby_GT, mask: random with  alpha=0.1, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=0.000000
+ssim_destroyed=0.000000, ssim_inpainting=0.000000
+loss_destroyed=0.057560, loss_inpainting=0.021517

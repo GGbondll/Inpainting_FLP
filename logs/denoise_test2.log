@@ -1,0 +1,1399 @@
+2025-01-13 15:55:08 >>  
+Image: building_sigma_08, mask: random, alpha = 1.3, p = 2.0, lambda = 0.01, PSNR=14.912540
+psnr_destroyed=8.606912, psnr_inpainting=14.912540
+ssim_destroyed=0.224216, ssim_inpainting=0.283696
+loss_destroyed=0.137819, loss_inpainting=0.032266
+2025-01-13 15:55:49 >>  
+Image: building_sigma_08, mask: waterprint, alpha = 1.3, p = 2.0, lambda = 0.01, PSNR=15.272813
+psnr_destroyed=14.409634, psnr_inpainting=15.272813
+ssim_destroyed=0.661544, ssim_inpainting=0.671466
+loss_destroyed=0.036227, loss_inpainting=0.029697
+2025-01-13 15:56:26 >>  
+Image: building_sigma_08, mask: scratch, alpha = 1.4, p = 2.0, lambda = 0.01, PSNR=20.685223
+psnr_destroyed=20.328842, psnr_inpainting=20.685223
+ssim_destroyed=0.799463, ssim_inpainting=0.816060
+loss_destroyed=0.009271, loss_inpainting=0.008540
+2025-01-13 15:57:07 >>  
+Image: building_sigma_08, mask: mark, alpha = 1.3, p = 2.0, lambda = 0.01, PSNR=14.884441
+psnr_destroyed=14.529160, psnr_inpainting=14.884441
+ssim_destroyed=0.695273, ssim_inpainting=0.708211
+loss_destroyed=0.035244, loss_inpainting=0.032476
+2025-01-13 15:58:06 >>  
+Image: building_sigma_36, mask: random, alpha = 1.3, p = 2.0, lambda = 0.01, PSNR=14.845529
+psnr_destroyed=8.309154, psnr_inpainting=14.845529
+ssim_destroyed=0.185093, ssim_inpainting=0.275155
+loss_destroyed=0.147599, loss_inpainting=0.032768
+2025-01-13 15:58:48 >>  
+Image: building_sigma_36, mask: waterprint, alpha = 1.3, p = 2.0, lambda = 0.01, PSNR=15.182049
+psnr_destroyed=12.747894, psnr_inpainting=15.182049
+ssim_destroyed=0.441458, ssim_inpainting=0.488208
+loss_destroyed=0.053114, loss_inpainting=0.030325
+2025-01-13 15:59:28 >>  
+Image: building_sigma_36, mask: scratch, alpha = 1.4, p = 2.0, lambda = 0.01, PSNR=18.051163
+psnr_destroyed=15.521178, psnr_inpainting=18.051163
+ssim_destroyed=0.507526, ssim_inpainting=0.568566
+loss_destroyed=0.028047, loss_inpainting=0.015663
+2025-01-13 16:00:09 >>  
+Image: building_sigma_36, mask: mark, alpha = 1.3, p = 2.0, lambda = 0.01, PSNR=14.846764
+psnr_destroyed=12.825731, psnr_inpainting=14.846764
+ssim_destroyed=0.446158, ssim_inpainting=0.496695
+loss_destroyed=0.052171, loss_inpainting=0.032758
+2025-01-13 16:01:01 >>  
+Image: cat_sigma_08, mask: random, alpha = 1.5, p = 2.0, lambda = 0.01, PSNR=25.563351
+psnr_destroyed=7.774045, psnr_inpainting=25.563351
+ssim_destroyed=0.039422, ssim_inpainting=0.779067
+loss_destroyed=0.166953, loss_inpainting=0.002778
+2025-01-13 16:01:37 >>  
+Image: cat_sigma_08, mask: waterprint, alpha = 1.5, p = 1.9, lambda = 0.01, PSNR=22.780979
+psnr_destroyed=13.596469, psnr_inpainting=22.780979
+ssim_destroyed=0.379958, ssim_inpainting=0.745672
+loss_destroyed=0.043687, loss_inpainting=0.005271
+2025-01-13 16:02:13 >>  
+Image: cat_sigma_08, mask: scratch, alpha = 1.6, p = 2.0, lambda = 0.01, PSNR=23.714884
+psnr_destroyed=18.917429, psnr_inpainting=23.714884
+ssim_destroyed=0.511514, ssim_inpainting=0.860090
+loss_destroyed=0.012831, loss_inpainting=0.004251
+2025-01-13 16:02:51 >>  
+Image: cat_sigma_08, mask: mark, alpha = 1.5, p = 2.0, lambda = 0.01, PSNR=20.619736
+psnr_destroyed=13.940381, psnr_inpainting=20.619736
+ssim_destroyed=0.437035, ssim_inpainting=0.746381
+loss_destroyed=0.040361, loss_inpainting=0.008670
+2025-01-13 16:03:46 >>  
+Image: cat_sigma_36, mask: random, alpha = 1.5, p = 2.0, lambda = 0.01, PSNR=24.730225
+psnr_destroyed=7.507976, psnr_inpainting=24.730225
+ssim_destroyed=0.028399, ssim_inpainting=0.767808
+loss_destroyed=0.177502, loss_inpainting=0.003365
+2025-01-13 16:04:22 >>  
+Image: cat_sigma_36, mask: waterprint, alpha = 1.5, p = 1.9, lambda = 0.01, PSNR=22.549961
+psnr_destroyed=12.082596, psnr_inpainting=22.549961
+ssim_destroyed=0.085001, ssim_inpainting=0.726539
+loss_destroyed=0.061907, loss_inpainting=0.005559
+2025-01-13 16:04:58 >>  
+Image: cat_sigma_36, mask: scratch, alpha = 1.6, p = 2.0, lambda = 0.01, PSNR=26.231823
+psnr_destroyed=14.781324, psnr_inpainting=26.231823
+ssim_destroyed=0.099542, ssim_inpainting=0.828173
+loss_destroyed=0.033256, loss_inpainting=0.002381
+2025-01-13 16:05:35 >>  
+Image: cat_sigma_36, mask: mark, alpha = 1.5, p = 2.0, lambda = 0.01, PSNR=20.079472
+psnr_destroyed=12.315387, psnr_inpainting=20.079472
+ssim_destroyed=0.091764, ssim_inpainting=0.718041
+loss_destroyed=0.058676, loss_inpainting=0.009819
+2025-01-13 16:06:26 >>  
+Image: face_sigma_08, mask: random, alpha = 1.8, p = 2.0, lambda = 0.01, PSNR=18.526169
+psnr_destroyed=11.282457, psnr_inpainting=18.526169
+ssim_destroyed=0.217594, ssim_inpainting=0.625133
+loss_destroyed=0.074431, loss_inpainting=0.014041
+2025-01-13 16:07:01 >>  
+Image: face_sigma_08, mask: waterprint, alpha = 1.8, p = 2.0, lambda = 0.01, PSNR=22.748745
+psnr_destroyed=17.345404, psnr_inpainting=22.748745
+ssim_destroyed=0.508554, ssim_inpainting=0.689632
+loss_destroyed=0.018427, loss_inpainting=0.005310
+2025-01-13 16:07:35 >>  
+Image: face_sigma_08, mask: scratch, alpha = 1.8, p = 2.0, lambda = 0.01, PSNR=28.512127
+psnr_destroyed=22.131569, psnr_inpainting=28.512127
+ssim_destroyed=0.609801, ssim_inpainting=0.816270
+loss_destroyed=0.006121, loss_inpainting=0.001409
+2025-01-13 16:08:11 >>  
+Image: face_sigma_08, mask: mark, alpha = 1.6, p = 2.0, lambda = 0.01, PSNR=21.793198
+psnr_destroyed=17.282717, psnr_inpainting=21.793198
+ssim_destroyed=0.540965, ssim_inpainting=0.676763
+loss_destroyed=0.018695, loss_inpainting=0.006617
+2025-01-13 16:09:00 >>  
+Image: face_sigma_36, mask: random, alpha = 1.8, p = 2.0, lambda = 0.01, PSNR=18.724625
+psnr_destroyed=10.791951, psnr_inpainting=18.724625
+ssim_destroyed=0.082023, ssim_inpainting=0.577414
+loss_destroyed=0.083331, loss_inpainting=0.013413
+2025-01-13 16:09:34 >>  
+Image: face_sigma_36, mask: waterprint, alpha = 1.8, p = 2.0, lambda = 0.01, PSNR=22.270555
+psnr_destroyed=14.685253, psnr_inpainting=22.270555
+ssim_destroyed=0.114542, ssim_inpainting=0.561324
+loss_destroyed=0.034000, loss_inpainting=0.005928
+2025-01-13 16:10:09 >>  
+Image: face_sigma_36, mask: scratch, alpha = 1.8, p = 2.0, lambda = 0.01, PSNR=27.025105
+psnr_destroyed=16.320393, psnr_inpainting=27.025105
+ssim_destroyed=0.123798, ssim_inpainting=0.625197
+loss_destroyed=0.023332, loss_inpainting=0.001984
+2025-01-13 16:10:44 >>  
+Image: face_sigma_36, mask: mark, alpha = 1.6, p = 2.0, lambda = 0.01, PSNR=21.596643
+psnr_destroyed=14.702026, psnr_inpainting=21.596643
+ssim_destroyed=0.119497, ssim_inpainting=0.580101
+loss_destroyed=0.033869, loss_inpainting=0.006924
+2025-01-13 16:11:49 >>  
+Image: forest_sigma_08, mask: random, alpha = 1.2, p = 1.8, lambda = 0.01, PSNR=17.365410
+psnr_destroyed=6.251177, psnr_inpainting=17.365410
+ssim_destroyed=0.062373, ssim_inpainting=0.317386
+loss_destroyed=0.237073, loss_inpainting=0.018343
+2025-01-13 16:12:39 >>  
+Image: forest_sigma_08, mask: waterprint, alpha = 1.1, p = 1.8, lambda = 0.01, PSNR=19.602810
+psnr_destroyed=12.146983, psnr_inpainting=19.602810
+ssim_destroyed=0.537759, ssim_inpainting=0.553602
+loss_destroyed=0.060996, loss_inpainting=0.010958
+2025-01-13 16:13:20 >>  
+Image: forest_sigma_08, mask: scratch, alpha = 1.3, p = 1.6, lambda = 0.01, PSNR=21.020632
+psnr_destroyed=17.740242, psnr_inpainting=21.020632
+ssim_destroyed=0.726449, ssim_inpainting=0.748851
+loss_destroyed=0.016826, loss_inpainting=0.007906
+2025-01-13 16:14:01 >>  
+Image: forest_sigma_08, mask: mark, alpha = 1.3, p = 1.5, lambda = 0.01, PSNR=18.453354
+psnr_destroyed=12.290450, psnr_inpainting=18.453354
+ssim_destroyed=0.614009, ssim_inpainting=0.631651
+loss_destroyed=0.059014, loss_inpainting=0.014278
+2025-01-13 16:15:07 >>  
+Image: forest_sigma_36, mask: random, alpha = 1.2, p = 1.8, lambda = 0.01, PSNR=18.157400
+psnr_destroyed=6.071485, psnr_inpainting=18.157400
+ssim_destroyed=0.052889, ssim_inpainting=0.318550
+loss_destroyed=0.247088, loss_inpainting=0.015285
+2025-01-13 16:15:57 >>  
+Image: forest_sigma_36, mask: waterprint, alpha = 1.1, p = 1.8, lambda = 0.01, PSNR=20.163393
+psnr_destroyed=11.083265, psnr_inpainting=20.163393
+ssim_destroyed=0.221894, ssim_inpainting=0.334545
+loss_destroyed=0.077924, loss_inpainting=0.009631
+2025-01-13 16:16:38 >>  
+Image: forest_sigma_36, mask: scratch, alpha = 1.3, p = 1.6, lambda = 0.01, PSNR=21.043610
+psnr_destroyed=14.501030, psnr_inpainting=21.043610
+ssim_destroyed=0.277232, ssim_inpainting=0.427565
+loss_destroyed=0.035473, loss_inpainting=0.007864
+2025-01-13 16:17:17 >>  
+Image: forest_sigma_36, mask: mark, alpha = 1.3, p = 1.5, lambda = 0.01, PSNR=18.667654
+psnr_destroyed=11.201050, psnr_inpainting=18.667654
+ssim_destroyed=0.238551, ssim_inpainting=0.366063
+loss_destroyed=0.075839, loss_inpainting=0.013590
+2025-01-13 16:18:08 >>  
+Image: fox_sigma_08, mask: random, alpha = 1.5, p = 2.0, lambda = 0.01, PSNR=15.136784
+psnr_destroyed=5.457858, psnr_inpainting=15.136784
+ssim_destroyed=0.022010, ssim_inpainting=0.658582
+loss_destroyed=0.284586, loss_inpainting=0.030642
+2025-01-13 16:18:42 >>  
+Image: fox_sigma_08, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 0.01, PSNR=17.748333
+psnr_destroyed=11.349436, psnr_inpainting=17.748333
+ssim_destroyed=0.352117, ssim_inpainting=0.586277
+loss_destroyed=0.073292, loss_inpainting=0.016794
+2025-01-13 16:19:14 >>  
+Image: fox_sigma_08, mask: scratch, alpha = 1.8, p = 2.0, lambda = 0.01, PSNR=24.784016
+psnr_destroyed=17.318216, psnr_inpainting=24.784016
+ssim_destroyed=0.493912, ssim_inpainting=0.753383
+loss_destroyed=0.018543, loss_inpainting=0.003324
+2025-01-13 16:19:48 >>  
+Image: fox_sigma_08, mask: mark, alpha = 1.7, p = 1.8, lambda = 0.01, PSNR=16.494921
+psnr_destroyed=11.689277, psnr_inpainting=16.494921
+ssim_destroyed=0.413460, ssim_inpainting=0.640545
+loss_destroyed=0.067775, loss_inpainting=0.022413
+2025-01-13 16:20:39 >>  
+Image: fox_sigma_36, mask: random, alpha = 1.5, p = 2.0, lambda = 0.01, PSNR=14.862926
+psnr_destroyed=5.317024, psnr_inpainting=14.862926
+ssim_destroyed=0.019666, ssim_inpainting=0.655792
+loss_destroyed=0.293966, loss_inpainting=0.032637
+2025-01-13 16:21:13 >>  
+Image: fox_sigma_36, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 0.01, PSNR=17.589037
+psnr_destroyed=10.483347, psnr_inpainting=17.589037
+ssim_destroyed=0.090644, ssim_inpainting=0.558017
+loss_destroyed=0.089467, loss_inpainting=0.017422
+2025-01-13 16:21:46 >>  
+Image: fox_sigma_36, mask: scratch, alpha = 1.8, p = 2.0, lambda = 0.01, PSNR=24.494963
+psnr_destroyed=14.358257, psnr_inpainting=24.494963
+ssim_destroyed=0.111058, ssim_inpainting=0.690292
+loss_destroyed=0.036658, loss_inpainting=0.003552
+2025-01-13 16:22:18 >>  
+Image: fox_sigma_36, mask: mark, alpha = 1.7, p = 1.8, lambda = 0.01, PSNR=16.550417
+psnr_destroyed=10.766073, psnr_inpainting=16.550417
+ssim_destroyed=0.100642, ssim_inpainting=0.624735
+loss_destroyed=0.083829, loss_inpainting=0.022129
+2025-01-13 16:23:05 >>  
+Image: penguin_sigma_08, mask: random, alpha = 1.7, p = 2.0, lambda = 0.01, PSNR=16.349930
+psnr_destroyed=5.343764, psnr_inpainting=16.349930
+ssim_destroyed=0.027070, ssim_inpainting=0.646837
+loss_destroyed=0.292162, loss_inpainting=0.023174
+2025-01-13 16:23:39 >>  
+Image: penguin_sigma_08, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 0.01, PSNR=17.543011
+psnr_destroyed=11.236570, psnr_inpainting=17.543011
+ssim_destroyed=0.337368, ssim_inpainting=0.613139
+loss_destroyed=0.075222, loss_inpainting=0.017608
+2025-01-13 16:24:12 >>  
+Image: penguin_sigma_08, mask: scratch, alpha = 1.8, p = 1.9, lambda = 0.01, PSNR=23.993572
+psnr_destroyed=17.044703, psnr_inpainting=23.993572
+ssim_destroyed=0.473505, ssim_inpainting=0.801452
+loss_destroyed=0.019748, loss_inpainting=0.003987
+2025-01-13 16:24:46 >>  
+Image: penguin_sigma_08, mask: mark, alpha = 1.6, p = 2.0, lambda = 0.01, PSNR=16.118771
+psnr_destroyed=11.137531, psnr_inpainting=16.118771
+ssim_destroyed=0.397217, ssim_inpainting=0.670188
+loss_destroyed=0.076957, loss_inpainting=0.024441
+2025-01-13 16:25:35 >>  
+Image: penguin_sigma_36, mask: random, alpha = 1.7, p = 2.0, lambda = 0.01, PSNR=15.840102
+psnr_destroyed=5.203857, psnr_inpainting=15.840102
+ssim_destroyed=0.022892, ssim_inpainting=0.617758
+loss_destroyed=0.301727, loss_inpainting=0.026061
+2025-01-13 16:26:09 >>  
+Image: penguin_sigma_36, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 0.01, PSNR=17.323093
+psnr_destroyed=10.370093, psnr_inpainting=17.323093
+ssim_destroyed=0.089579, ssim_inpainting=0.574659
+loss_destroyed=0.091831, loss_inpainting=0.018522
+2025-01-13 16:26:43 >>  
+Image: penguin_sigma_36, mask: scratch, alpha = 1.8, p = 1.9, lambda = 0.01, PSNR=25.212521
+psnr_destroyed=14.166703, psnr_inpainting=25.212521
+ssim_destroyed=0.106416, ssim_inpainting=0.742177
+loss_destroyed=0.038312, loss_inpainting=0.003011
+2025-01-13 16:27:18 >>  
+Image: penguin_sigma_36, mask: mark, alpha = 1.6, p = 2.0, lambda = 0.01, PSNR=15.876065
+psnr_destroyed=10.294385, psnr_inpainting=15.876065
+ssim_destroyed=0.096594, ssim_inpainting=0.635783
+loss_destroyed=0.093446, loss_inpainting=0.025846
+2025-01-13 16:28:06 >>  
+Image: rabbit_sigma_08, mask: random, alpha = 1.7, p = 2.0, lambda = 0.01, PSNR=21.413107
+psnr_destroyed=7.405813, psnr_inpainting=21.413107
+ssim_destroyed=0.034174, ssim_inpainting=0.591938
+loss_destroyed=0.181727, loss_inpainting=0.007223
+2025-01-13 16:28:41 >>  
+Image: rabbit_sigma_08, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 0.01, PSNR=19.742247
+psnr_destroyed=13.260128, psnr_inpainting=19.742247
+ssim_destroyed=0.388012, ssim_inpainting=0.574854
+loss_destroyed=0.047205, loss_inpainting=0.010611
+2025-01-13 16:29:15 >>  
+Image: rabbit_sigma_08, mask: scratch, alpha = 1.8, p = 2.0, lambda = 0.01, PSNR=25.053070
+psnr_destroyed=18.854242, psnr_inpainting=25.053070
+ssim_destroyed=0.528615, ssim_inpainting=0.762678
+loss_destroyed=0.013019, loss_inpainting=0.003124
+2025-01-13 16:29:50 >>  
+Image: rabbit_sigma_08, mask: mark, alpha = 1.6, p = 1.9, lambda = 0.01, PSNR=18.326666
+psnr_destroyed=13.320059, psnr_inpainting=18.326666
+ssim_destroyed=0.453859, ssim_inpainting=0.633559
+loss_destroyed=0.046558, loss_inpainting=0.014701
+2025-01-13 16:30:41 >>  
+Image: rabbit_sigma_36, mask: random, alpha = 1.7, p = 2.0, lambda = 0.01, PSNR=20.069008
+psnr_destroyed=7.148489, psnr_inpainting=20.069008
+ssim_destroyed=0.029515, ssim_inpainting=0.572755
+loss_destroyed=0.192820, loss_inpainting=0.009842
+2025-01-13 16:31:17 >>  
+Image: rabbit_sigma_36, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 0.01, PSNR=19.222759
+psnr_destroyed=11.767535, psnr_inpainting=19.222759
+ssim_destroyed=0.111937, ssim_inpainting=0.533658
+loss_destroyed=0.066565, loss_inpainting=0.011960
+2025-01-13 16:31:54 >>  
+Image: rabbit_sigma_36, mask: scratch, alpha = 1.8, p = 2.0, lambda = 0.01, PSNR=23.820274
+psnr_destroyed=14.588695, psnr_inpainting=23.820274
+ssim_destroyed=0.132219, ssim_inpainting=0.655986
+loss_destroyed=0.034764, loss_inpainting=0.004149
+2025-01-13 16:32:31 >>  
+Image: rabbit_sigma_36, mask: mark, alpha = 1.6, p = 1.9, lambda = 0.01, PSNR=18.157265
+psnr_destroyed=11.824799, psnr_inpainting=18.157265
+ssim_destroyed=0.123682, ssim_inpainting=0.596858
+loss_destroyed=0.065693, loss_inpainting=0.015285
+2025-01-13 16:33:32 >>  
+Image: building_sigma_08, mask: random, alpha = 1.3, p = 2.0, lambda = 0.1, PSNR=15.502270
+psnr_destroyed=8.606912, psnr_inpainting=15.502270
+ssim_destroyed=0.224216, ssim_inpainting=0.322888
+loss_destroyed=0.137819, loss_inpainting=0.028169
+2025-01-13 16:34:15 >>  
+Image: building_sigma_08, mask: waterprint, alpha = 1.3, p = 2.0, lambda = 0.1, PSNR=16.674454
+psnr_destroyed=14.409634, psnr_inpainting=16.674454
+ssim_destroyed=0.661544, ssim_inpainting=0.671467
+loss_destroyed=0.036227, loss_inpainting=0.021506
+2025-01-13 16:34:53 >>  
+Image: building_sigma_08, mask: scratch, alpha = 1.4, p = 2.0, lambda = 0.1, PSNR=20.685268
+psnr_destroyed=20.328842, psnr_inpainting=20.685268
+ssim_destroyed=0.799463, ssim_inpainting=0.816060
+loss_destroyed=0.009271, loss_inpainting=0.008540
+2025-01-13 16:35:36 >>  
+Image: building_sigma_08, mask: mark, alpha = 1.3, p = 2.0, lambda = 0.1, PSNR=16.563862
+psnr_destroyed=14.529160, psnr_inpainting=16.563862
+ssim_destroyed=0.695273, ssim_inpainting=0.708212
+loss_destroyed=0.035244, loss_inpainting=0.022060
+2025-01-13 16:36:37 >>  
+Image: building_sigma_36, mask: random, alpha = 1.3, p = 2.0, lambda = 0.1, PSNR=15.425219
+psnr_destroyed=8.309154, psnr_inpainting=15.425219
+ssim_destroyed=0.185093, ssim_inpainting=0.315678
+loss_destroyed=0.147599, loss_inpainting=0.028673
+2025-01-13 16:37:20 >>  
+Image: building_sigma_36, mask: waterprint, alpha = 1.3, p = 2.0, lambda = 0.1, PSNR=16.572033
+psnr_destroyed=12.747894, psnr_inpainting=16.572033
+ssim_destroyed=0.441458, ssim_inpainting=0.488216
+loss_destroyed=0.053114, loss_inpainting=0.022019
+2025-01-13 16:38:00 >>  
+Image: building_sigma_36, mask: scratch, alpha = 1.4, p = 2.0, lambda = 0.1, PSNR=18.052284
+psnr_destroyed=15.521178, psnr_inpainting=18.052284
+ssim_destroyed=0.507526, ssim_inpainting=0.568570
+loss_destroyed=0.028047, loss_inpainting=0.015659
+2025-01-13 16:38:42 >>  
+Image: building_sigma_36, mask: mark, alpha = 1.3, p = 2.0, lambda = 0.1, PSNR=16.450773
+psnr_destroyed=12.825731, psnr_inpainting=16.450773
+ssim_destroyed=0.446158, ssim_inpainting=0.496699
+loss_destroyed=0.052171, loss_inpainting=0.022642
+2025-01-13 16:39:35 >>  
+Image: cat_sigma_08, mask: random, alpha = 1.5, p = 2.0, lambda = 0.1, PSNR=27.185776
+psnr_destroyed=7.774045, psnr_inpainting=27.185776
+ssim_destroyed=0.039422, ssim_inpainting=0.837398
+loss_destroyed=0.166953, loss_inpainting=0.001912
+2025-01-13 16:40:11 >>  
+Image: cat_sigma_08, mask: waterprint, alpha = 1.5, p = 1.9, lambda = 0.1, PSNR=24.851740
+psnr_destroyed=13.596469, psnr_inpainting=24.851740
+ssim_destroyed=0.379958, ssim_inpainting=0.900681
+loss_destroyed=0.043687, loss_inpainting=0.003272
+2025-01-13 16:40:47 >>  
+Image: cat_sigma_08, mask: scratch, alpha = 1.6, p = 2.0, lambda = 0.1, PSNR=28.585678
+psnr_destroyed=18.917429, psnr_inpainting=28.585678
+ssim_destroyed=0.511514, ssim_inpainting=0.922003
+loss_destroyed=0.012831, loss_inpainting=0.001385
+2025-01-13 16:41:24 >>  
+Image: cat_sigma_08, mask: mark, alpha = 1.5, p = 2.0, lambda = 0.1, PSNR=25.158241
+psnr_destroyed=13.940381, psnr_inpainting=25.158241
+ssim_destroyed=0.437035, ssim_inpainting=0.882501
+loss_destroyed=0.040361, loss_inpainting=0.003049
+2025-01-13 16:42:17 >>  
+Image: cat_sigma_36, mask: random, alpha = 1.5, p = 2.0, lambda = 0.1, PSNR=26.620028
+psnr_destroyed=7.507976, psnr_inpainting=26.620028
+ssim_destroyed=0.028399, ssim_inpainting=0.799811
+loss_destroyed=0.177502, loss_inpainting=0.002178
+2025-01-13 16:42:54 >>  
+Image: cat_sigma_36, mask: waterprint, alpha = 1.5, p = 1.9, lambda = 0.1, PSNR=25.752678
+psnr_destroyed=12.082596, psnr_inpainting=25.752678
+ssim_destroyed=0.085001, ssim_inpainting=0.812327
+loss_destroyed=0.061907, loss_inpainting=0.002659
+2025-01-13 16:43:30 >>  
+Image: cat_sigma_36, mask: scratch, alpha = 1.6, p = 2.0, lambda = 0.1, PSNR=26.771376
+psnr_destroyed=14.781324, psnr_inpainting=26.771376
+ssim_destroyed=0.099542, ssim_inpainting=0.758796
+loss_destroyed=0.033256, loss_inpainting=0.002103
+2025-01-13 16:44:08 >>  
+Image: cat_sigma_36, mask: mark, alpha = 1.5, p = 2.0, lambda = 0.1, PSNR=25.211372
+psnr_destroyed=12.315387, psnr_inpainting=25.211372
+ssim_destroyed=0.091764, ssim_inpainting=0.763913
+loss_destroyed=0.058676, loss_inpainting=0.003012
+2025-01-13 16:44:59 >>  
+Image: face_sigma_08, mask: random, alpha = 1.8, p = 2.0, lambda = 0.1, PSNR=24.736078
+psnr_destroyed=11.282457, psnr_inpainting=24.736078
+ssim_destroyed=0.217594, ssim_inpainting=0.714785
+loss_destroyed=0.074431, loss_inpainting=0.003360
+2025-01-13 16:45:34 >>  
+Image: face_sigma_08, mask: waterprint, alpha = 1.8, p = 2.0, lambda = 0.1, PSNR=30.002356
+psnr_destroyed=17.345404, psnr_inpainting=30.002356
+ssim_destroyed=0.508554, ssim_inpainting=0.797777
+loss_destroyed=0.018427, loss_inpainting=0.000999
+2025-01-13 16:46:10 >>  
+Image: face_sigma_08, mask: scratch, alpha = 1.8, p = 2.0, lambda = 0.1, PSNR=33.368576
+psnr_destroyed=22.131569, psnr_inpainting=33.368576
+ssim_destroyed=0.609801, ssim_inpainting=0.836597
+loss_destroyed=0.006121, loss_inpainting=0.000460
+2025-01-13 16:46:46 >>  
+Image: face_sigma_08, mask: mark, alpha = 1.6, p = 2.0, lambda = 0.1, PSNR=28.957045
+psnr_destroyed=17.282717, psnr_inpainting=28.957045
+ssim_destroyed=0.540965, ssim_inpainting=0.770070
+loss_destroyed=0.018695, loss_inpainting=0.001271
+2025-01-13 16:47:37 >>  
+Image: face_sigma_36, mask: random, alpha = 1.8, p = 2.0, lambda = 0.1, PSNR=23.398434
+psnr_destroyed=10.791951, psnr_inpainting=23.398434
+ssim_destroyed=0.082023, ssim_inpainting=0.583577
+loss_destroyed=0.083331, loss_inpainting=0.004573
+2025-01-13 16:48:13 >>  
+Image: face_sigma_36, mask: waterprint, alpha = 1.8, p = 2.0, lambda = 0.1, PSNR=25.774075
+psnr_destroyed=14.685253, psnr_inpainting=25.774075
+ssim_destroyed=0.114542, ssim_inpainting=0.572695
+loss_destroyed=0.034000, loss_inpainting=0.002646
+2025-01-13 16:48:47 >>  
+Image: face_sigma_36, mask: scratch, alpha = 1.8, p = 2.0, lambda = 0.1, PSNR=26.535913
+psnr_destroyed=16.320393, psnr_inpainting=26.535913
+ssim_destroyed=0.123798, ssim_inpainting=0.586322
+loss_destroyed=0.023332, loss_inpainting=0.002220
+2025-01-13 16:49:26 >>  
+Image: face_sigma_36, mask: mark, alpha = 1.6, p = 2.0, lambda = 0.1, PSNR=26.415394
+psnr_destroyed=14.702026, psnr_inpainting=26.415394
+ssim_destroyed=0.119497, ssim_inpainting=0.618019
+loss_destroyed=0.033869, loss_inpainting=0.002283
+2025-01-13 16:50:33 >>  
+Image: forest_sigma_08, mask: random, alpha = 1.2, p = 1.8, lambda = 0.1, PSNR=19.292000
+psnr_destroyed=6.251177, psnr_inpainting=19.292000
+ssim_destroyed=0.062373, ssim_inpainting=0.335603
+loss_destroyed=0.237073, loss_inpainting=0.011771
+2025-01-13 16:51:24 >>  
+Image: forest_sigma_08, mask: waterprint, alpha = 1.1, p = 1.8, lambda = 0.1, PSNR=22.145739
+psnr_destroyed=12.146983, psnr_inpainting=22.145739
+ssim_destroyed=0.537759, ssim_inpainting=0.553603
+loss_destroyed=0.060996, loss_inpainting=0.006101
+2025-01-13 16:52:06 >>  
+Image: forest_sigma_08, mask: scratch, alpha = 1.3, p = 1.6, lambda = 0.1, PSNR=22.310085
+psnr_destroyed=17.740242, psnr_inpainting=22.310085
+ssim_destroyed=0.726449, ssim_inpainting=0.748851
+loss_destroyed=0.016826, loss_inpainting=0.005875
+2025-01-13 16:52:47 >>  
+Image: forest_sigma_08, mask: mark, alpha = 1.3, p = 1.5, lambda = 0.1, PSNR=21.805733
+psnr_destroyed=12.290450, psnr_inpainting=21.805733
+ssim_destroyed=0.614009, ssim_inpainting=0.631651
+loss_destroyed=0.059014, loss_inpainting=0.006598
+2025-01-13 16:53:54 >>  
+Image: forest_sigma_36, mask: random, alpha = 1.2, p = 1.8, lambda = 0.1, PSNR=19.955257
+psnr_destroyed=6.071485, psnr_inpainting=19.955257
+ssim_destroyed=0.052889, ssim_inpainting=0.335803
+loss_destroyed=0.247088, loss_inpainting=0.010104
+2025-01-13 16:54:44 >>  
+Image: forest_sigma_36, mask: waterprint, alpha = 1.1, p = 1.8, lambda = 0.1, PSNR=21.936569
+psnr_destroyed=11.083265, psnr_inpainting=21.936569
+ssim_destroyed=0.221894, ssim_inpainting=0.376642
+loss_destroyed=0.077924, loss_inpainting=0.006402
+2025-01-13 16:55:26 >>  
+Image: forest_sigma_36, mask: scratch, alpha = 1.3, p = 1.6, lambda = 0.1, PSNR=21.948374
+psnr_destroyed=14.501030, psnr_inpainting=21.948374
+ssim_destroyed=0.277232, ssim_inpainting=0.427602
+loss_destroyed=0.035473, loss_inpainting=0.006385
+2025-01-13 16:56:07 >>  
+Image: forest_sigma_36, mask: mark, alpha = 1.3, p = 1.5, lambda = 0.1, PSNR=21.598114
+psnr_destroyed=11.201050, psnr_inpainting=21.598114
+ssim_destroyed=0.238551, ssim_inpainting=0.366093
+loss_destroyed=0.075839, loss_inpainting=0.006921
+2025-01-13 16:56:59 >>  
+Image: fox_sigma_08, mask: random, alpha = 1.5, p = 2.0, lambda = 0.1, PSNR=20.523849
+psnr_destroyed=5.457858, psnr_inpainting=20.523849
+ssim_destroyed=0.022010, ssim_inpainting=0.757678
+loss_destroyed=0.284586, loss_inpainting=0.008864
+2025-01-13 16:57:34 >>  
+Image: fox_sigma_08, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 0.1, PSNR=27.998829
+psnr_destroyed=11.349436, psnr_inpainting=27.998829
+ssim_destroyed=0.352117, ssim_inpainting=0.799123
+loss_destroyed=0.073292, loss_inpainting=0.001585
+2025-01-13 16:58:08 >>  
+Image: fox_sigma_08, mask: scratch, alpha = 1.8, p = 2.0, lambda = 0.1, PSNR=32.408142
+psnr_destroyed=17.318216, psnr_inpainting=32.408142
+ssim_destroyed=0.493912, ssim_inpainting=0.858074
+loss_destroyed=0.018543, loss_inpainting=0.000574
+2025-01-13 16:58:44 >>  
+Image: fox_sigma_08, mask: mark, alpha = 1.7, p = 1.8, lambda = 0.1, PSNR=25.618303
+psnr_destroyed=11.689277, psnr_inpainting=25.618303
+ssim_destroyed=0.413460, ssim_inpainting=0.795496
+loss_destroyed=0.067775, loss_inpainting=0.002743
+2025-01-13 16:59:36 >>  
+Image: fox_sigma_36, mask: random, alpha = 1.5, p = 2.0, lambda = 0.1, PSNR=20.928633
+psnr_destroyed=5.317024, psnr_inpainting=20.928633
+ssim_destroyed=0.019666, ssim_inpainting=0.724236
+loss_destroyed=0.293966, loss_inpainting=0.008075
+2025-01-13 17:00:11 >>  
+Image: fox_sigma_36, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 0.1, PSNR=25.295050
+psnr_destroyed=10.483347, psnr_inpainting=25.295050
+ssim_destroyed=0.090644, ssim_inpainting=0.650850
+loss_destroyed=0.089467, loss_inpainting=0.002955
+2025-01-13 17:00:43 >>  
+Image: fox_sigma_36, mask: scratch, alpha = 1.8, p = 2.0, lambda = 0.1, PSNR=26.574726
+psnr_destroyed=14.358257, psnr_inpainting=26.574726
+ssim_destroyed=0.111058, ssim_inpainting=0.621514
+loss_destroyed=0.036658, loss_inpainting=0.002201
+2025-01-13 17:01:18 >>  
+Image: fox_sigma_36, mask: mark, alpha = 1.7, p = 1.8, lambda = 0.1, PSNR=24.267414
+psnr_destroyed=10.766073, psnr_inpainting=24.267414
+ssim_destroyed=0.100642, ssim_inpainting=0.701434
+loss_destroyed=0.083829, loss_inpainting=0.003743
+2025-01-13 17:02:07 >>  
+Image: penguin_sigma_08, mask: random, alpha = 1.7, p = 2.0, lambda = 0.1, PSNR=23.022572
+psnr_destroyed=5.343764, psnr_inpainting=23.022572
+ssim_destroyed=0.027070, ssim_inpainting=0.731275
+loss_destroyed=0.292162, loss_inpainting=0.004986
+2025-01-13 17:02:42 >>  
+Image: penguin_sigma_08, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 0.1, PSNR=28.219307
+psnr_destroyed=11.236570, psnr_inpainting=28.219307
+ssim_destroyed=0.337368, ssim_inpainting=0.848829
+loss_destroyed=0.075222, loss_inpainting=0.001507
+2025-01-13 17:03:15 >>  
+Image: penguin_sigma_08, mask: scratch, alpha = 1.8, p = 1.9, lambda = 0.1, PSNR=32.719048
+psnr_destroyed=17.044703, psnr_inpainting=32.719048
+ssim_destroyed=0.473505, ssim_inpainting=0.916027
+loss_destroyed=0.019748, loss_inpainting=0.000535
+2025-01-13 17:03:50 >>  
+Image: penguin_sigma_08, mask: mark, alpha = 1.6, p = 2.0, lambda = 0.1, PSNR=24.339445
+psnr_destroyed=11.137531, psnr_inpainting=24.339445
+ssim_destroyed=0.397217, ssim_inpainting=0.818832
+loss_destroyed=0.076957, loss_inpainting=0.003682
+2025-01-13 17:04:38 >>  
+Image: penguin_sigma_36, mask: random, alpha = 1.7, p = 2.0, lambda = 0.1, PSNR=21.485453
+psnr_destroyed=5.203857, psnr_inpainting=21.485453
+ssim_destroyed=0.022892, ssim_inpainting=0.664898
+loss_destroyed=0.301727, loss_inpainting=0.007103
+2025-01-13 17:05:11 >>  
+Image: penguin_sigma_36, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 0.1, PSNR=26.143248
+psnr_destroyed=10.370093, psnr_inpainting=26.143248
+ssim_destroyed=0.089579, ssim_inpainting=0.685340
+loss_destroyed=0.091831, loss_inpainting=0.002430
+2025-01-13 17:05:46 >>  
+Image: penguin_sigma_36, mask: scratch, alpha = 1.8, p = 1.9, lambda = 0.1, PSNR=27.869915
+psnr_destroyed=14.166703, psnr_inpainting=27.869915
+ssim_destroyed=0.106416, ssim_inpainting=0.693965
+loss_destroyed=0.038312, loss_inpainting=0.001633
+2025-01-13 17:06:22 >>  
+Image: penguin_sigma_36, mask: mark, alpha = 1.6, p = 2.0, lambda = 0.1, PSNR=23.534336
+psnr_destroyed=10.294385, psnr_inpainting=23.534336
+ssim_destroyed=0.096594, ssim_inpainting=0.683361
+loss_destroyed=0.093446, loss_inpainting=0.004432
+2025-01-13 17:07:13 >>  
+Image: rabbit_sigma_08, mask: random, alpha = 1.7, p = 2.0, lambda = 0.1, PSNR=25.053719
+psnr_destroyed=7.405813, psnr_inpainting=25.053719
+ssim_destroyed=0.034174, ssim_inpainting=0.694398
+loss_destroyed=0.181727, loss_inpainting=0.003123
+2025-01-13 17:07:51 >>  
+Image: rabbit_sigma_08, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 0.1, PSNR=27.536776
+psnr_destroyed=13.260128, psnr_inpainting=27.536776
+ssim_destroyed=0.388012, ssim_inpainting=0.800515
+loss_destroyed=0.047205, loss_inpainting=0.001763
+2025-01-13 17:08:25 >>  
+Image: rabbit_sigma_08, mask: scratch, alpha = 1.8, p = 2.0, lambda = 0.1, PSNR=29.658512
+psnr_destroyed=18.854242, psnr_inpainting=29.658512
+ssim_destroyed=0.528615, ssim_inpainting=0.858838
+loss_destroyed=0.013019, loss_inpainting=0.001082
+2025-01-13 17:09:02 >>  
+Image: rabbit_sigma_08, mask: mark, alpha = 1.6, p = 1.9, lambda = 0.1, PSNR=25.691700
+psnr_destroyed=13.320059, psnr_inpainting=25.691700
+ssim_destroyed=0.453859, ssim_inpainting=0.787985
+loss_destroyed=0.046558, loss_inpainting=0.002697
+2025-01-13 17:09:53 >>  
+Image: rabbit_sigma_36, mask: random, alpha = 1.7, p = 2.0, lambda = 0.1, PSNR=23.911633
+psnr_destroyed=7.148489, psnr_inpainting=23.911633
+ssim_destroyed=0.029515, ssim_inpainting=0.618715
+loss_destroyed=0.192820, loss_inpainting=0.004063
+2025-01-13 17:10:30 >>  
+Image: rabbit_sigma_36, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 0.1, PSNR=25.220264
+psnr_destroyed=11.767535, psnr_inpainting=25.220264
+ssim_destroyed=0.111937, ssim_inpainting=0.624212
+loss_destroyed=0.066565, loss_inpainting=0.003006
+2025-01-13 17:11:06 >>  
+Image: rabbit_sigma_36, mask: scratch, alpha = 1.8, p = 2.0, lambda = 0.1, PSNR=25.325338
+psnr_destroyed=14.588695, psnr_inpainting=25.325338
+ssim_destroyed=0.132219, ssim_inpainting=0.596656
+loss_destroyed=0.034764, loss_inpainting=0.002934
+2025-01-13 17:11:42 >>  
+Image: rabbit_sigma_36, mask: mark, alpha = 1.6, p = 1.9, lambda = 0.1, PSNR=24.069473
+psnr_destroyed=11.824799, psnr_inpainting=24.069473
+ssim_destroyed=0.123682, ssim_inpainting=0.677470
+loss_destroyed=0.065693, loss_inpainting=0.003918
+2025-01-13 17:12:42 >>  
+Image: building_sigma_08, mask: random, alpha = 1.3, p = 2.0, lambda = 0.5, PSNR=16.486710
+psnr_destroyed=8.606912, psnr_inpainting=16.486710
+ssim_destroyed=0.224216, ssim_inpainting=0.418734
+loss_destroyed=0.137819, loss_inpainting=0.022456
+2025-01-13 17:13:25 >>  
+Image: building_sigma_08, mask: waterprint, alpha = 1.3, p = 2.0, lambda = 0.5, PSNR=17.701166
+psnr_destroyed=14.409634, psnr_inpainting=17.701166
+ssim_destroyed=0.661544, ssim_inpainting=0.671472
+loss_destroyed=0.036227, loss_inpainting=0.016978
+2025-01-13 17:14:03 >>  
+Image: building_sigma_08, mask: scratch, alpha = 1.4, p = 2.0, lambda = 0.5, PSNR=20.685465
+psnr_destroyed=20.328842, psnr_inpainting=20.685465
+ssim_destroyed=0.799463, ssim_inpainting=0.816062
+loss_destroyed=0.009271, loss_inpainting=0.008540
+2025-01-13 17:14:45 >>  
+Image: building_sigma_08, mask: mark, alpha = 1.3, p = 2.0, lambda = 0.5, PSNR=17.576775
+psnr_destroyed=14.529160, psnr_inpainting=17.576775
+ssim_destroyed=0.695273, ssim_inpainting=0.708216
+loss_destroyed=0.035244, loss_inpainting=0.017471
+2025-01-13 17:15:47 >>  
+Image: building_sigma_36, mask: random, alpha = 1.3, p = 2.0, lambda = 0.5, PSNR=16.343786
+psnr_destroyed=8.309154, psnr_inpainting=16.343786
+ssim_destroyed=0.185093, ssim_inpainting=0.381907
+loss_destroyed=0.147599, loss_inpainting=0.023207
+2025-01-13 17:16:29 >>  
+Image: building_sigma_36, mask: waterprint, alpha = 1.3, p = 2.0, lambda = 0.5, PSNR=17.368805
+psnr_destroyed=12.747894, psnr_inpainting=17.368805
+ssim_destroyed=0.441458, ssim_inpainting=0.488252
+loss_destroyed=0.053114, loss_inpainting=0.018328
+2025-01-13 17:17:06 >>  
+Image: building_sigma_36, mask: scratch, alpha = 1.4, p = 2.0, lambda = 0.5, PSNR=18.057184
+psnr_destroyed=15.521178, psnr_inpainting=18.057184
+ssim_destroyed=0.507526, ssim_inpainting=0.568590
+loss_destroyed=0.028047, loss_inpainting=0.015642
+2025-01-13 17:17:48 >>  
+Image: building_sigma_36, mask: mark, alpha = 1.3, p = 2.0, lambda = 0.5, PSNR=17.251591
+psnr_destroyed=12.825731, psnr_inpainting=17.251591
+ssim_destroyed=0.446158, ssim_inpainting=0.496715
+loss_destroyed=0.052171, loss_inpainting=0.018830
+2025-01-13 17:18:40 >>  
+Image: cat_sigma_08, mask: random, alpha = 1.5, p = 2.0, lambda = 0.5, PSNR=27.635864
+psnr_destroyed=7.774045, psnr_inpainting=27.635864
+ssim_destroyed=0.039422, ssim_inpainting=0.903080
+loss_destroyed=0.166953, loss_inpainting=0.001724
+2025-01-13 17:19:17 >>  
+Image: cat_sigma_08, mask: waterprint, alpha = 1.5, p = 1.9, lambda = 0.5, PSNR=26.439856
+psnr_destroyed=13.596469, psnr_inpainting=26.439856
+ssim_destroyed=0.379958, ssim_inpainting=0.922236
+loss_destroyed=0.043687, loss_inpainting=0.002270
+2025-01-13 17:19:54 >>  
+Image: cat_sigma_08, mask: scratch, alpha = 1.6, p = 2.0, lambda = 0.5, PSNR=31.087791
+psnr_destroyed=18.917429, psnr_inpainting=31.087791
+ssim_destroyed=0.511514, ssim_inpainting=0.922830
+loss_destroyed=0.012831, loss_inpainting=0.000778
+2025-01-13 17:20:30 >>  
+Image: cat_sigma_08, mask: mark, alpha = 1.5, p = 2.0, lambda = 0.5, PSNR=26.847754
+psnr_destroyed=13.940381, psnr_inpainting=26.847754
+ssim_destroyed=0.437035, ssim_inpainting=0.916209
+loss_destroyed=0.040361, loss_inpainting=0.002066
+2025-01-13 17:21:22 >>  
+Image: cat_sigma_36, mask: random, alpha = 1.5, p = 2.0, lambda = 0.5, PSNR=26.814680
+psnr_destroyed=7.507976, psnr_inpainting=26.814680
+ssim_destroyed=0.028399, ssim_inpainting=0.744058
+loss_destroyed=0.177502, loss_inpainting=0.002082
+2025-01-13 17:21:58 >>  
+Image: cat_sigma_36, mask: waterprint, alpha = 1.5, p = 1.9, lambda = 0.5, PSNR=26.097507
+psnr_destroyed=12.082596, psnr_inpainting=26.097507
+ssim_destroyed=0.085001, ssim_inpainting=0.692562
+loss_destroyed=0.061907, loss_inpainting=0.002456
+2025-01-13 17:22:34 >>  
+Image: cat_sigma_36, mask: scratch, alpha = 1.6, p = 2.0, lambda = 0.5, PSNR=26.372545
+psnr_destroyed=14.781324, psnr_inpainting=26.372545
+ssim_destroyed=0.099542, ssim_inpainting=0.599071
+loss_destroyed=0.033256, loss_inpainting=0.002305
+2025-01-13 17:23:10 >>  
+Image: cat_sigma_36, mask: mark, alpha = 1.5, p = 2.0, lambda = 0.5, PSNR=25.980825
+psnr_destroyed=12.315387, psnr_inpainting=25.980825
+ssim_destroyed=0.091764, ssim_inpainting=0.650787
+loss_destroyed=0.058676, loss_inpainting=0.002523
+2025-01-13 17:24:00 >>  
+Image: face_sigma_08, mask: random, alpha = 1.8, p = 2.0, lambda = 0.5, PSNR=32.507854
+psnr_destroyed=11.282457, psnr_inpainting=32.507854
+ssim_destroyed=0.217594, ssim_inpainting=0.815516
+loss_destroyed=0.074431, loss_inpainting=0.000561
+2025-01-13 17:24:33 >>  
+Image: face_sigma_08, mask: waterprint, alpha = 1.8, p = 2.0, lambda = 0.5, PSNR=33.848560
+psnr_destroyed=17.345404, psnr_inpainting=33.848560
+ssim_destroyed=0.508554, ssim_inpainting=0.859890
+loss_destroyed=0.018427, loss_inpainting=0.000412
+2025-01-13 17:25:08 >>  
+Image: face_sigma_08, mask: scratch, alpha = 1.8, p = 2.0, lambda = 0.5, PSNR=34.883190
+psnr_destroyed=22.131569, psnr_inpainting=34.883190
+ssim_destroyed=0.609801, ssim_inpainting=0.877776
+loss_destroyed=0.006121, loss_inpainting=0.000325
+2025-01-13 17:25:44 >>  
+Image: face_sigma_08, mask: mark, alpha = 1.6, p = 2.0, lambda = 0.5, PSNR=32.980019
+psnr_destroyed=17.282717, psnr_inpainting=32.980019
+ssim_destroyed=0.540965, ssim_inpainting=0.835845
+loss_destroyed=0.018695, loss_inpainting=0.000503
+2025-01-13 17:26:34 >>  
+Image: face_sigma_36, mask: random, alpha = 1.8, p = 2.0, lambda = 0.5, PSNR=25.069220
+psnr_destroyed=10.791951, psnr_inpainting=25.069220
+ssim_destroyed=0.082023, ssim_inpainting=0.501505
+loss_destroyed=0.083331, loss_inpainting=0.003112
+2025-01-13 17:27:08 >>  
+Image: face_sigma_36, mask: waterprint, alpha = 1.8, p = 2.0, lambda = 0.5, PSNR=24.187899
+psnr_destroyed=14.685253, psnr_inpainting=24.187899
+ssim_destroyed=0.114542, ssim_inpainting=0.467714
+loss_destroyed=0.034000, loss_inpainting=0.003813
+2025-01-13 17:27:42 >>  
+Image: face_sigma_36, mask: scratch, alpha = 1.8, p = 2.0, lambda = 0.5, PSNR=24.200628
+psnr_destroyed=16.320393, psnr_inpainting=24.200628
+ssim_destroyed=0.123798, ssim_inpainting=0.465977
+loss_destroyed=0.023332, loss_inpainting=0.003801
+2025-01-13 17:28:15 >>  
+Image: face_sigma_36, mask: mark, alpha = 1.6, p = 2.0, lambda = 0.5, PSNR=25.943659
+psnr_destroyed=14.702026, psnr_inpainting=25.943659
+ssim_destroyed=0.119497, ssim_inpainting=0.557412
+loss_destroyed=0.033869, loss_inpainting=0.002545
+2025-01-13 17:29:19 >>  
+Image: forest_sigma_08, mask: random, alpha = 1.2, p = 1.8, lambda = 0.5, PSNR=21.659351
+psnr_destroyed=6.251177, psnr_inpainting=21.659351
+ssim_destroyed=0.062373, ssim_inpainting=0.379967
+loss_destroyed=0.237073, loss_inpainting=0.006824
+2025-01-13 17:30:08 >>  
+Image: forest_sigma_08, mask: waterprint, alpha = 1.1, p = 1.8, lambda = 0.5, PSNR=22.904976
+psnr_destroyed=12.146983, psnr_inpainting=22.904976
+ssim_destroyed=0.537759, ssim_inpainting=0.553607
+loss_destroyed=0.060996, loss_inpainting=0.005123
+2025-01-13 17:30:48 >>  
+Image: forest_sigma_08, mask: scratch, alpha = 1.3, p = 1.6, lambda = 0.5, PSNR=22.830030
+psnr_destroyed=17.740242, psnr_inpainting=22.830030
+ssim_destroyed=0.726449, ssim_inpainting=0.748852
+loss_destroyed=0.016826, loss_inpainting=0.005212
+2025-01-13 17:31:29 >>  
+Image: forest_sigma_08, mask: mark, alpha = 1.3, p = 1.5, lambda = 0.5, PSNR=22.458958
+psnr_destroyed=12.290450, psnr_inpainting=22.458958
+ssim_destroyed=0.614009, ssim_inpainting=0.631652
+loss_destroyed=0.059014, loss_inpainting=0.005677
+2025-01-13 17:32:37 >>  
+Image: forest_sigma_36, mask: random, alpha = 1.2, p = 1.8, lambda = 0.5, PSNR=21.598629
+psnr_destroyed=6.071485, psnr_inpainting=21.598629
+ssim_destroyed=0.052889, ssim_inpainting=0.372520
+loss_destroyed=0.247088, loss_inpainting=0.006920
+2025-01-13 17:33:26 >>  
+Image: forest_sigma_36, mask: waterprint, alpha = 1.1, p = 1.8, lambda = 0.5, PSNR=22.440243
+psnr_destroyed=11.083265, psnr_inpainting=22.440243
+ssim_destroyed=0.221894, ssim_inpainting=0.419105
+loss_destroyed=0.077924, loss_inpainting=0.005701
+2025-01-13 17:34:07 >>  
+Image: forest_sigma_36, mask: scratch, alpha = 1.3, p = 1.6, lambda = 0.5, PSNR=22.425190
+psnr_destroyed=14.501030, psnr_inpainting=22.425190
+ssim_destroyed=0.277232, ssim_inpainting=0.427761
+loss_destroyed=0.035473, loss_inpainting=0.005721
+2025-01-13 17:34:47 >>  
+Image: forest_sigma_36, mask: mark, alpha = 1.3, p = 1.5, lambda = 0.5, PSNR=22.242849
+psnr_destroyed=11.201050, psnr_inpainting=22.242849
+ssim_destroyed=0.238551, ssim_inpainting=0.394157
+loss_destroyed=0.075839, loss_inpainting=0.005966
+2025-01-13 17:35:38 >>  
+Image: fox_sigma_08, mask: random, alpha = 1.5, p = 2.0, lambda = 0.5, PSNR=29.787243
+psnr_destroyed=5.457858, psnr_inpainting=29.787243
+ssim_destroyed=0.022010, ssim_inpainting=0.855610
+loss_destroyed=0.284586, loss_inpainting=0.001050
+2025-01-13 17:36:11 >>  
+Image: fox_sigma_08, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 0.5, PSNR=33.027470
+psnr_destroyed=11.349436, psnr_inpainting=33.027470
+ssim_destroyed=0.352117, ssim_inpainting=0.868911
+loss_destroyed=0.073292, loss_inpainting=0.000498
+2025-01-13 17:36:44 >>  
+Image: fox_sigma_08, mask: scratch, alpha = 1.8, p = 2.0, lambda = 0.5, PSNR=33.631927
+psnr_destroyed=17.318216, psnr_inpainting=33.631927
+ssim_destroyed=0.493912, ssim_inpainting=0.864960
+loss_destroyed=0.018543, loss_inpainting=0.000433
+2025-01-13 17:37:18 >>  
+Image: fox_sigma_08, mask: mark, alpha = 1.7, p = 1.8, lambda = 0.5, PSNR=31.680033
+psnr_destroyed=11.689277, psnr_inpainting=31.680033
+ssim_destroyed=0.413460, ssim_inpainting=0.860739
+loss_destroyed=0.067775, loss_inpainting=0.000679
+2025-01-13 17:38:09 >>  
+Image: fox_sigma_36, mask: random, alpha = 1.5, p = 2.0, lambda = 0.5, PSNR=27.307682
+psnr_destroyed=5.317024, psnr_inpainting=27.307682
+ssim_destroyed=0.019666, ssim_inpainting=0.711411
+loss_destroyed=0.293966, loss_inpainting=0.001859
+2025-01-13 17:38:43 >>  
+Image: fox_sigma_36, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 0.5, PSNR=25.513165
+psnr_destroyed=10.483347, psnr_inpainting=25.513165
+ssim_destroyed=0.090644, ssim_inpainting=0.546250
+loss_destroyed=0.089467, loss_inpainting=0.002810
+2025-01-13 17:39:16 >>  
+Image: fox_sigma_36, mask: scratch, alpha = 1.8, p = 2.0, lambda = 0.5, PSNR=24.624081
+psnr_destroyed=14.358257, psnr_inpainting=24.624081
+ssim_destroyed=0.111058, ssim_inpainting=0.455338
+loss_destroyed=0.036658, loss_inpainting=0.003448
+2025-01-13 17:39:50 >>  
+Image: fox_sigma_36, mask: mark, alpha = 1.7, p = 1.8, lambda = 0.5, PSNR=25.953136
+psnr_destroyed=10.766073, psnr_inpainting=25.953136
+ssim_destroyed=0.100642, ssim_inpainting=0.623577
+loss_destroyed=0.083829, loss_inpainting=0.002539
+2025-01-13 17:40:38 >>  
+Image: penguin_sigma_08, mask: random, alpha = 1.7, p = 2.0, lambda = 0.5, PSNR=31.852390
+psnr_destroyed=5.343764, psnr_inpainting=31.852390
+ssim_destroyed=0.027070, ssim_inpainting=0.902377
+loss_destroyed=0.292162, loss_inpainting=0.000653
+2025-01-13 17:41:12 >>  
+Image: penguin_sigma_08, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 0.5, PSNR=33.644985
+psnr_destroyed=11.236570, psnr_inpainting=33.644985
+ssim_destroyed=0.337368, ssim_inpainting=0.910311
+loss_destroyed=0.075222, loss_inpainting=0.000432
+2025-01-13 17:41:46 >>  
+Image: penguin_sigma_08, mask: scratch, alpha = 1.8, p = 1.9, lambda = 0.5, PSNR=34.538113
+psnr_destroyed=17.044703, psnr_inpainting=34.538113
+ssim_destroyed=0.473505, ssim_inpainting=0.911581
+loss_destroyed=0.019748, loss_inpainting=0.000352
+2025-01-13 17:42:21 >>  
+Image: penguin_sigma_08, mask: mark, alpha = 1.6, p = 2.0, lambda = 0.5, PSNR=30.985146
+psnr_destroyed=11.137531, psnr_inpainting=30.985146
+ssim_destroyed=0.397217, ssim_inpainting=0.892903
+loss_destroyed=0.076957, loss_inpainting=0.000797
+2025-01-13 17:43:12 >>  
+Image: penguin_sigma_36, mask: random, alpha = 1.7, p = 2.0, lambda = 0.5, PSNR=26.900322
+psnr_destroyed=5.203857, psnr_inpainting=26.900322
+ssim_destroyed=0.022892, ssim_inpainting=0.634941
+loss_destroyed=0.301727, loss_inpainting=0.002042
+2025-01-13 17:43:48 >>  
+Image: penguin_sigma_36, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 0.5, PSNR=25.549238
+psnr_destroyed=10.370093, psnr_inpainting=25.549238
+ssim_destroyed=0.089579, ssim_inpainting=0.565002
+loss_destroyed=0.091831, loss_inpainting=0.002787
+2025-01-13 17:44:22 >>  
+Image: penguin_sigma_36, mask: scratch, alpha = 1.8, p = 1.9, lambda = 0.5, PSNR=25.009897
+psnr_destroyed=14.166703, psnr_inpainting=25.009897
+ssim_destroyed=0.106416, ssim_inpainting=0.510151
+loss_destroyed=0.038312, loss_inpainting=0.003155
+2025-01-13 17:44:58 >>  
+Image: penguin_sigma_36, mask: mark, alpha = 1.6, p = 2.0, lambda = 0.5, PSNR=25.831390
+psnr_destroyed=10.294385, psnr_inpainting=25.831390
+ssim_destroyed=0.096594, ssim_inpainting=0.603945
+loss_destroyed=0.093446, loss_inpainting=0.002611
+2025-01-13 17:45:49 >>  
+Image: rabbit_sigma_08, mask: random, alpha = 1.7, p = 2.0, lambda = 0.5, PSNR=28.287699
+psnr_destroyed=7.405813, psnr_inpainting=28.287699
+ssim_destroyed=0.034174, ssim_inpainting=0.837083
+loss_destroyed=0.181727, loss_inpainting=0.001483
+2025-01-13 17:46:23 >>  
+Image: rabbit_sigma_08, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 0.5, PSNR=30.583965
+psnr_destroyed=13.260128, psnr_inpainting=30.583965
+ssim_destroyed=0.388012, ssim_inpainting=0.872433
+loss_destroyed=0.047205, loss_inpainting=0.000874
+2025-01-13 17:46:59 >>  
+Image: rabbit_sigma_08, mask: scratch, alpha = 1.8, p = 2.0, lambda = 0.5, PSNR=31.808681
+psnr_destroyed=18.854242, psnr_inpainting=31.808681
+ssim_destroyed=0.528615, ssim_inpainting=0.879821
+loss_destroyed=0.013019, loss_inpainting=0.000659
+2025-01-13 17:47:35 >>  
+Image: rabbit_sigma_08, mask: mark, alpha = 1.6, p = 1.9, lambda = 0.5, PSNR=29.560869
+psnr_destroyed=13.320059, psnr_inpainting=29.560869
+ssim_destroyed=0.453859, ssim_inpainting=0.861452
+loss_destroyed=0.046558, loss_inpainting=0.001106
+2025-01-13 17:48:25 >>  
+Image: rabbit_sigma_36, mask: random, alpha = 1.7, p = 2.0, lambda = 0.5, PSNR=25.109360
+psnr_destroyed=7.148489, psnr_inpainting=25.109360
+ssim_destroyed=0.029515, ssim_inpainting=0.573350
+loss_destroyed=0.192820, loss_inpainting=0.003084
+2025-01-13 17:49:02 >>  
+Image: rabbit_sigma_36, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 0.5, PSNR=25.121555
+psnr_destroyed=11.767535, psnr_inpainting=25.121555
+ssim_destroyed=0.111937, ssim_inpainting=0.526333
+loss_destroyed=0.066565, loss_inpainting=0.003075
+2025-01-13 17:49:39 >>  
+Image: rabbit_sigma_36, mask: scratch, alpha = 1.8, p = 2.0, lambda = 0.5, PSNR=24.683798
+psnr_destroyed=14.588695, psnr_inpainting=24.683798
+ssim_destroyed=0.132219, ssim_inpainting=0.457642
+loss_destroyed=0.034764, loss_inpainting=0.003401
+2025-01-13 17:50:15 >>  
+Image: rabbit_sigma_36, mask: mark, alpha = 1.6, p = 1.9, lambda = 0.5, PSNR=25.634464
+psnr_destroyed=11.824799, psnr_inpainting=25.634464
+ssim_destroyed=0.123682, ssim_inpainting=0.605656
+loss_destroyed=0.065693, loss_inpainting=0.002732
+2025-01-13 17:51:17 >>  
+Image: building_sigma_08, mask: random, alpha = 1.3, p = 2.0, lambda = 1, PSNR=16.992081
+psnr_destroyed=8.606912, psnr_inpainting=16.992081
+ssim_destroyed=0.224216, ssim_inpainting=0.476543
+loss_destroyed=0.137819, loss_inpainting=0.019989
+2025-01-13 17:52:00 >>  
+Image: building_sigma_08, mask: waterprint, alpha = 1.3, p = 2.0, lambda = 1, PSNR=18.212917
+psnr_destroyed=14.409634, psnr_inpainting=18.212917
+ssim_destroyed=0.661544, ssim_inpainting=0.671477
+loss_destroyed=0.036227, loss_inpainting=0.015091
+2025-01-13 17:52:39 >>  
+Image: building_sigma_08, mask: scratch, alpha = 1.4, p = 2.0, lambda = 1, PSNR=20.685715
+psnr_destroyed=20.328842, psnr_inpainting=20.685715
+ssim_destroyed=0.799463, ssim_inpainting=0.816065
+loss_destroyed=0.009271, loss_inpainting=0.008539
+2025-01-13 17:53:23 >>  
+Image: building_sigma_08, mask: mark, alpha = 1.3, p = 2.0, lambda = 1, PSNR=18.020693
+psnr_destroyed=14.529160, psnr_inpainting=18.020693
+ssim_destroyed=0.695273, ssim_inpainting=0.708220
+loss_destroyed=0.035244, loss_inpainting=0.015774
+2025-01-13 17:54:25 >>  
+Image: building_sigma_36, mask: random, alpha = 1.3, p = 2.0, lambda = 1, PSNR=16.732372
+psnr_destroyed=8.309154, psnr_inpainting=16.732372
+ssim_destroyed=0.185093, ssim_inpainting=0.410640
+loss_destroyed=0.147599, loss_inpainting=0.021221
+2025-01-13 17:55:09 >>  
+Image: building_sigma_36, mask: waterprint, alpha = 1.3, p = 2.0, lambda = 1, PSNR=17.783018
+psnr_destroyed=12.747894, psnr_inpainting=17.783018
+ssim_destroyed=0.441458, ssim_inpainting=0.499478
+loss_destroyed=0.053114, loss_inpainting=0.016661
+2025-01-13 17:55:49 >>  
+Image: building_sigma_36, mask: scratch, alpha = 1.4, p = 2.0, lambda = 1, PSNR=18.156597
+psnr_destroyed=15.521178, psnr_inpainting=18.156597
+ssim_destroyed=0.507526, ssim_inpainting=0.568613
+loss_destroyed=0.028047, loss_inpainting=0.015288
+2025-01-13 17:56:31 >>  
+Image: building_sigma_36, mask: mark, alpha = 1.3, p = 2.0, lambda = 1, PSNR=17.627609
+psnr_destroyed=12.825731, psnr_inpainting=17.627609
+ssim_destroyed=0.446158, ssim_inpainting=0.496734
+loss_destroyed=0.052171, loss_inpainting=0.017268
+2025-01-13 17:57:26 >>  
+Image: cat_sigma_08, mask: random, alpha = 1.5, p = 2.0, lambda = 1, PSNR=27.230616
+psnr_destroyed=7.774045, psnr_inpainting=27.230616
+ssim_destroyed=0.039422, ssim_inpainting=0.908392
+loss_destroyed=0.166953, loss_inpainting=0.001892
+2025-01-13 17:58:04 >>  
+Image: cat_sigma_08, mask: waterprint, alpha = 1.5, p = 1.9, lambda = 1, PSNR=28.146963
+psnr_destroyed=13.596469, psnr_inpainting=28.146963
+ssim_destroyed=0.379958, ssim_inpainting=0.920932
+loss_destroyed=0.043687, loss_inpainting=0.001532
+2025-01-13 17:58:41 >>  
+Image: cat_sigma_08, mask: scratch, alpha = 1.6, p = 2.0, lambda = 1, PSNR=30.219402
+psnr_destroyed=18.917429, psnr_inpainting=30.219402
+ssim_destroyed=0.511514, ssim_inpainting=0.911305
+loss_destroyed=0.012831, loss_inpainting=0.000951
+2025-01-13 17:59:19 >>  
+Image: cat_sigma_08, mask: mark, alpha = 1.5, p = 2.0, lambda = 1, PSNR=27.040524
+psnr_destroyed=13.940381, psnr_inpainting=27.040524
+ssim_destroyed=0.437035, ssim_inpainting=0.911880
+loss_destroyed=0.040361, loss_inpainting=0.001977
+2025-01-13 18:00:14 >>  
+Image: cat_sigma_36, mask: random, alpha = 1.5, p = 2.0, lambda = 1, PSNR=26.647141
+psnr_destroyed=7.507976, psnr_inpainting=26.647141
+ssim_destroyed=0.028399, ssim_inpainting=0.659089
+loss_destroyed=0.177502, loss_inpainting=0.002164
+2025-01-13 18:00:50 >>  
+Image: cat_sigma_36, mask: waterprint, alpha = 1.5, p = 1.9, lambda = 1, PSNR=25.844254
+psnr_destroyed=12.082596, psnr_inpainting=25.844254
+ssim_destroyed=0.085001, ssim_inpainting=0.609119
+loss_destroyed=0.061907, loss_inpainting=0.002604
+2025-01-13 18:01:26 >>  
+Image: cat_sigma_36, mask: scratch, alpha = 1.6, p = 2.0, lambda = 1, PSNR=25.385229
+psnr_destroyed=14.781324, psnr_inpainting=25.385229
+ssim_destroyed=0.099542, ssim_inpainting=0.510881
+loss_destroyed=0.033256, loss_inpainting=0.002894
+2025-01-13 18:02:02 >>  
+Image: cat_sigma_36, mask: mark, alpha = 1.5, p = 2.0, lambda = 1, PSNR=25.483456
+psnr_destroyed=12.315387, psnr_inpainting=25.483456
+ssim_destroyed=0.091764, ssim_inpainting=0.568242
+loss_destroyed=0.058676, loss_inpainting=0.002829
+2025-01-13 18:02:53 >>  
+Image: face_sigma_08, mask: random, alpha = 1.8, p = 2.0, lambda = 1, PSNR=32.992840
+psnr_destroyed=11.282457, psnr_inpainting=32.992840
+ssim_destroyed=0.217594, ssim_inpainting=0.827678
+loss_destroyed=0.074431, loss_inpainting=0.000502
+2025-01-13 18:03:29 >>  
+Image: face_sigma_08, mask: waterprint, alpha = 1.8, p = 2.0, lambda = 1, PSNR=34.048817
+psnr_destroyed=17.345404, psnr_inpainting=34.048817
+ssim_destroyed=0.508554, ssim_inpainting=0.860122
+loss_destroyed=0.018427, loss_inpainting=0.000394
+2025-01-13 18:04:04 >>  
+Image: face_sigma_08, mask: scratch, alpha = 1.8, p = 2.0, lambda = 1, PSNR=34.794853
+psnr_destroyed=22.131569, psnr_inpainting=34.794853
+ssim_destroyed=0.609801, ssim_inpainting=0.874429
+loss_destroyed=0.006121, loss_inpainting=0.000332
+2025-01-13 18:04:42 >>  
+Image: face_sigma_08, mask: mark, alpha = 1.6, p = 2.0, lambda = 1, PSNR=33.637512
+psnr_destroyed=17.282717, psnr_inpainting=33.637512
+ssim_destroyed=0.540965, ssim_inpainting=0.854482
+loss_destroyed=0.018695, loss_inpainting=0.000433
+2025-01-13 18:05:31 >>  
+Image: face_sigma_36, mask: random, alpha = 1.8, p = 2.0, lambda = 1, PSNR=23.953087
+psnr_destroyed=10.791951, psnr_inpainting=23.953087
+ssim_destroyed=0.082023, ssim_inpainting=0.431494
+loss_destroyed=0.083331, loss_inpainting=0.004024
+2025-01-13 18:06:05 >>  
+Image: face_sigma_36, mask: waterprint, alpha = 1.8, p = 2.0, lambda = 1, PSNR=23.344500
+psnr_destroyed=14.685253, psnr_inpainting=23.344500
+ssim_destroyed=0.114542, ssim_inpainting=0.402491
+loss_destroyed=0.034000, loss_inpainting=0.004630
+2025-01-13 18:06:40 >>  
+Image: face_sigma_36, mask: scratch, alpha = 1.8, p = 2.0, lambda = 1, PSNR=23.312809
+psnr_destroyed=16.320393, psnr_inpainting=23.312809
+ssim_destroyed=0.123798, ssim_inpainting=0.397961
+loss_destroyed=0.023332, loss_inpainting=0.004664
+2025-01-13 18:07:16 >>  
+Image: face_sigma_36, mask: mark, alpha = 1.6, p = 2.0, lambda = 1, PSNR=24.816971
+psnr_destroyed=14.702026, psnr_inpainting=24.816971
+ssim_destroyed=0.119497, ssim_inpainting=0.503105
+loss_destroyed=0.033869, loss_inpainting=0.003298
+2025-01-13 18:08:23 >>  
+Image: forest_sigma_08, mask: random, alpha = 1.2, p = 1.8, lambda = 1, PSNR=22.143597
+psnr_destroyed=6.251177, psnr_inpainting=22.143597
+ssim_destroyed=0.062373, ssim_inpainting=0.414187
+loss_destroyed=0.237073, loss_inpainting=0.006104
+2025-01-13 18:09:13 >>  
+Image: forest_sigma_08, mask: waterprint, alpha = 1.1, p = 1.8, lambda = 1, PSNR=23.368120
+psnr_destroyed=12.146983, psnr_inpainting=23.368120
+ssim_destroyed=0.537759, ssim_inpainting=0.553611
+loss_destroyed=0.060996, loss_inpainting=0.004605
+2025-01-13 18:09:55 >>  
+Image: forest_sigma_08, mask: scratch, alpha = 1.3, p = 1.6, lambda = 1, PSNR=23.271893
+psnr_destroyed=17.740242, psnr_inpainting=23.271893
+ssim_destroyed=0.726449, ssim_inpainting=0.748852
+loss_destroyed=0.016826, loss_inpainting=0.004708
+2025-01-13 18:10:37 >>  
+Image: forest_sigma_08, mask: mark, alpha = 1.3, p = 1.5, lambda = 1, PSNR=22.852106
+psnr_destroyed=12.290450, psnr_inpainting=22.852106
+ssim_destroyed=0.614009, ssim_inpainting=0.631652
+loss_destroyed=0.059014, loss_inpainting=0.005185
+2025-01-13 18:11:45 >>  
+Image: forest_sigma_36, mask: random, alpha = 1.2, p = 1.8, lambda = 1, PSNR=21.906073
+psnr_destroyed=6.071485, psnr_inpainting=21.906073
+ssim_destroyed=0.052889, ssim_inpainting=0.391934
+loss_destroyed=0.247088, loss_inpainting=0.006448
+2025-01-13 18:12:35 >>  
+Image: forest_sigma_36, mask: waterprint, alpha = 1.1, p = 1.8, lambda = 1, PSNR=22.559965
+psnr_destroyed=11.083265, psnr_inpainting=22.559965
+ssim_destroyed=0.221894, ssim_inpainting=0.438326
+loss_destroyed=0.077924, loss_inpainting=0.005546
+2025-01-13 18:13:19 >>  
+Image: forest_sigma_36, mask: scratch, alpha = 1.3, p = 1.6, lambda = 1, PSNR=22.575909
+psnr_destroyed=14.501030, psnr_inpainting=22.575909
+ssim_destroyed=0.277232, ssim_inpainting=0.435540
+loss_destroyed=0.035473, loss_inpainting=0.005526
+2025-01-13 18:14:00 >>  
+Image: forest_sigma_36, mask: mark, alpha = 1.3, p = 1.5, lambda = 1, PSNR=22.408552
+psnr_destroyed=11.201050, psnr_inpainting=22.408552
+ssim_destroyed=0.238551, ssim_inpainting=0.414092
+loss_destroyed=0.075839, loss_inpainting=0.005743
+2025-01-13 18:14:52 >>  
+Image: fox_sigma_08, mask: random, alpha = 1.5, p = 2.0, lambda = 1, PSNR=31.072304
+psnr_destroyed=5.457858, psnr_inpainting=31.072304
+ssim_destroyed=0.022010, ssim_inpainting=0.859751
+loss_destroyed=0.284586, loss_inpainting=0.000781
+2025-01-13 18:15:28 >>  
+Image: fox_sigma_08, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 1, PSNR=33.120808
+psnr_destroyed=11.349436, psnr_inpainting=33.120808
+ssim_destroyed=0.352117, ssim_inpainting=0.862102
+loss_destroyed=0.073292, loss_inpainting=0.000487
+2025-01-13 18:16:04 >>  
+Image: fox_sigma_08, mask: scratch, alpha = 1.8, p = 2.0, lambda = 1, PSNR=33.617825
+psnr_destroyed=17.318216, psnr_inpainting=33.617825
+ssim_destroyed=0.493912, ssim_inpainting=0.845463
+loss_destroyed=0.018543, loss_inpainting=0.000435
+2025-01-13 18:16:40 >>  
+Image: fox_sigma_08, mask: mark, alpha = 1.7, p = 1.8, lambda = 1, PSNR=32.549187
+psnr_destroyed=11.689277, psnr_inpainting=32.549187
+ssim_destroyed=0.413460, ssim_inpainting=0.867110
+loss_destroyed=0.067775, loss_inpainting=0.000556
+2025-01-13 18:17:33 >>  
+Image: fox_sigma_36, mask: random, alpha = 1.5, p = 2.0, lambda = 1, PSNR=26.702644
+psnr_destroyed=5.317024, psnr_inpainting=26.702644
+ssim_destroyed=0.019666, ssim_inpainting=0.634332
+loss_destroyed=0.293966, loss_inpainting=0.002137
+2025-01-13 18:18:10 >>  
+Image: fox_sigma_36, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 1, PSNR=24.617537
+psnr_destroyed=10.483347, psnr_inpainting=24.617537
+ssim_destroyed=0.090644, ssim_inpainting=0.465073
+loss_destroyed=0.089467, loss_inpainting=0.003453
+2025-01-13 18:18:44 >>  
+Image: fox_sigma_36, mask: scratch, alpha = 1.8, p = 2.0, lambda = 1, PSNR=23.665159
+psnr_destroyed=14.358257, psnr_inpainting=23.665159
+ssim_destroyed=0.111058, ssim_inpainting=0.374721
+loss_destroyed=0.036658, loss_inpainting=0.004300
+2025-01-13 18:19:20 >>  
+Image: fox_sigma_36, mask: mark, alpha = 1.7, p = 1.8, lambda = 1, PSNR=25.399084
+psnr_destroyed=10.766073, psnr_inpainting=25.399084
+ssim_destroyed=0.100642, ssim_inpainting=0.547209
+loss_destroyed=0.083829, loss_inpainting=0.002885
+2025-01-13 18:20:12 >>  
+Image: penguin_sigma_08, mask: random, alpha = 1.7, p = 2.0, lambda = 1, PSNR=32.597496
+psnr_destroyed=5.343764, psnr_inpainting=32.597496
+ssim_destroyed=0.027070, ssim_inpainting=0.897054
+loss_destroyed=0.292162, loss_inpainting=0.000550
+2025-01-13 18:20:48 >>  
+Image: penguin_sigma_08, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 1, PSNR=34.090759
+psnr_destroyed=11.236570, psnr_inpainting=34.090759
+ssim_destroyed=0.337368, ssim_inpainting=0.896349
+loss_destroyed=0.075222, loss_inpainting=0.000390
+2025-01-13 18:21:25 >>  
+Image: penguin_sigma_08, mask: scratch, alpha = 1.8, p = 1.9, lambda = 1, PSNR=34.718887
+psnr_destroyed=17.044703, psnr_inpainting=34.718887
+ssim_destroyed=0.473505, ssim_inpainting=0.889343
+loss_destroyed=0.019748, loss_inpainting=0.000337
+2025-01-13 18:22:01 >>  
+Image: penguin_sigma_08, mask: mark, alpha = 1.6, p = 2.0, lambda = 1, PSNR=32.299740
+psnr_destroyed=11.137531, psnr_inpainting=32.299740
+ssim_destroyed=0.397217, ssim_inpainting=0.893231
+loss_destroyed=0.076957, loss_inpainting=0.000589
+2025-01-13 18:22:51 >>  
+Image: penguin_sigma_36, mask: random, alpha = 1.7, p = 2.0, lambda = 1, PSNR=25.858051
+psnr_destroyed=5.203857, psnr_inpainting=25.858051
+ssim_destroyed=0.022892, ssim_inpainting=0.536383
+loss_destroyed=0.301727, loss_inpainting=0.002595
+2025-01-13 18:23:27 >>  
+Image: penguin_sigma_36, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 1, PSNR=24.563866
+psnr_destroyed=10.370093, psnr_inpainting=24.563866
+ssim_destroyed=0.089579, ssim_inpainting=0.474625
+loss_destroyed=0.091831, loss_inpainting=0.003496
+2025-01-13 18:24:01 >>  
+Image: penguin_sigma_36, mask: scratch, alpha = 1.8, p = 1.9, lambda = 1, PSNR=24.018698
+psnr_destroyed=14.166703, psnr_inpainting=24.018698
+ssim_destroyed=0.106416, ssim_inpainting=0.414606
+loss_destroyed=0.038312, loss_inpainting=0.003964
+2025-01-13 18:24:38 >>  
+Image: penguin_sigma_36, mask: mark, alpha = 1.6, p = 2.0, lambda = 1, PSNR=24.814770
+psnr_destroyed=10.294385, psnr_inpainting=24.814770
+ssim_destroyed=0.096594, ssim_inpainting=0.526318
+loss_destroyed=0.093446, loss_inpainting=0.003300
+2025-01-13 18:25:29 >>  
+Image: rabbit_sigma_08, mask: random, alpha = 1.7, p = 2.0, lambda = 1, PSNR=29.099104
+psnr_destroyed=7.405813, psnr_inpainting=29.099104
+ssim_destroyed=0.034174, ssim_inpainting=0.844595
+loss_destroyed=0.181727, loss_inpainting=0.001231
+2025-01-13 18:26:07 >>  
+Image: rabbit_sigma_08, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 1, PSNR=31.082697
+psnr_destroyed=13.260128, psnr_inpainting=31.082697
+ssim_destroyed=0.388012, ssim_inpainting=0.873537
+loss_destroyed=0.047205, loss_inpainting=0.000779
+2025-01-13 18:26:42 >>  
+Image: rabbit_sigma_08, mask: scratch, alpha = 1.8, p = 2.0, lambda = 1, PSNR=32.248043
+psnr_destroyed=18.854242, psnr_inpainting=32.248043
+ssim_destroyed=0.528615, ssim_inpainting=0.866313
+loss_destroyed=0.013019, loss_inpainting=0.000596
+2025-01-13 18:27:19 >>  
+Image: rabbit_sigma_08, mask: mark, alpha = 1.6, p = 1.9, lambda = 1, PSNR=30.533428
+psnr_destroyed=13.320059, psnr_inpainting=30.533428
+ssim_destroyed=0.453859, ssim_inpainting=0.874498
+loss_destroyed=0.046558, loss_inpainting=0.000884
+2025-01-13 18:28:10 >>  
+Image: rabbit_sigma_36, mask: random, alpha = 1.7, p = 2.0, lambda = 1, PSNR=24.527138
+psnr_destroyed=7.148489, psnr_inpainting=24.527138
+ssim_destroyed=0.029515, ssim_inpainting=0.494389
+loss_destroyed=0.192820, loss_inpainting=0.003526
+2025-01-13 18:28:45 >>  
+Image: rabbit_sigma_36, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 1, PSNR=24.491840
+psnr_destroyed=11.767535, psnr_inpainting=24.491840
+ssim_destroyed=0.111937, ssim_inpainting=0.458096
+loss_destroyed=0.066565, loss_inpainting=0.003555
+2025-01-13 18:29:19 >>  
+Image: rabbit_sigma_36, mask: scratch, alpha = 1.8, p = 2.0, lambda = 1, PSNR=23.506174
+psnr_destroyed=14.588695, psnr_inpainting=23.506174
+ssim_destroyed=0.132219, ssim_inpainting=0.385977
+loss_destroyed=0.034764, loss_inpainting=0.004460
+2025-01-13 18:29:55 >>  
+Image: rabbit_sigma_36, mask: mark, alpha = 1.6, p = 1.9, lambda = 1, PSNR=25.528744
+psnr_destroyed=11.824799, psnr_inpainting=25.528744
+ssim_destroyed=0.123682, ssim_inpainting=0.544461
+loss_destroyed=0.065693, loss_inpainting=0.0028002025-01-17 18:48:32 >>  
+Image: building_sigma_08, mask: mark, alpha = 1.3, p = 2.0, lambda = 200, PSNR=23.497541
+psnr_destroyed=14.529160, psnr_inpainting=23.497541
+ssim_destroyed=0.695273, ssim_inpainting=0.815151
+loss_destroyed=0.035244, loss_inpainting=0.004469
+2025-01-17 18:49:33 >>  
+Image: building_sigma_08, mask: random, alpha = 1.3, p = 2.0, lambda = 200, PSNR=20.177826
+psnr_destroyed=8.606912, psnr_inpainting=20.177826
+ssim_destroyed=0.224216, ssim_inpainting=0.733547
+loss_destroyed=0.137819, loss_inpainting=0.009599
+2025-01-17 18:51:18 >>  
+Image: building_sigma_08, mask: scratch, alpha = 1.4, p = 2.0, lambda = 200, PSNR=27.353804
+psnr_destroyed=20.328842, psnr_inpainting=27.353804
+ssim_destroyed=0.799463, ssim_inpainting=0.856538
+loss_destroyed=0.009271, loss_inpainting=0.001839
+2025-01-17 18:52:20 >>  
+Image: building_sigma_08, mask: waterprint, alpha = 1.3, p = 2.0, lambda = 200, PSNR=24.412132
+psnr_destroyed=14.409634, psnr_inpainting=24.412132
+ssim_destroyed=0.661544, ssim_inpainting=0.829649
+loss_destroyed=0.036227, loss_inpainting=0.003621
+2025-01-17 18:53:48 >>  
+Image: building_sigma_36, mask: mark, alpha = 1.3, p = 2.0, lambda = 12, PSNR=18.736158
+psnr_destroyed=12.825731, psnr_inpainting=18.736158
+ssim_destroyed=0.446158, ssim_inpainting=0.558343
+loss_destroyed=0.052171, loss_inpainting=0.013378
+2025-01-17 18:54:50 >>  
+Image: building_sigma_36, mask: random, alpha = 1.3, p = 2.0, lambda = 12, PSNR=17.767780
+psnr_destroyed=8.309154, psnr_inpainting=17.767780
+ssim_destroyed=0.185093, ssim_inpainting=0.483272
+loss_destroyed=0.147599, loss_inpainting=0.016719
+2025-01-17 18:56:35 >>  
+Image: building_sigma_36, mask: scratch, alpha = 1.4, p = 2.0, lambda = 9, PSNR=19.406895
+psnr_destroyed=15.521178, psnr_inpainting=19.406895
+ssim_destroyed=0.507526, ssim_inpainting=0.588721
+loss_destroyed=0.028047, loss_inpainting=0.011463
+2025-01-17 18:57:35 >>  
+Image: building_sigma_36, mask: waterprint, alpha = 1.3, p = 2.0, lambda = 12, PSNR=18.973181
+psnr_destroyed=12.747894, psnr_inpainting=18.973181
+ssim_destroyed=0.441458, ssim_inpainting=0.568250
+loss_destroyed=0.053114, loss_inpainting=0.012667
+2025-01-17 18:59:47 >>  
+Image: cat_sigma_08, mask: mark, alpha = 1.5, p = 2.0, lambda = 6, PSNR=33.908382
+psnr_destroyed=13.940381, psnr_inpainting=33.908382
+ssim_destroyed=0.437035, ssim_inpainting=0.858014
+loss_destroyed=0.040361, loss_inpainting=0.000407
+2025-01-17 19:01:17 >>  
+Image: cat_sigma_08, mask: random, alpha = 1.5, p = 2.0, lambda = 34, PSNR=31.582850
+psnr_destroyed=7.774045, psnr_inpainting=31.582850
+ssim_destroyed=0.039422, ssim_inpainting=0.770067
+loss_destroyed=0.166953, loss_inpainting=0.000695
+2025-01-17 19:02:41 >>  
+Image: cat_sigma_08, mask: scratch, alpha = 1.6, p = 2.0, lambda = 4, PSNR=34.517437
+psnr_destroyed=18.917429, psnr_inpainting=34.517437
+ssim_destroyed=0.511514, ssim_inpainting=0.863158
+loss_destroyed=0.012831, loss_inpainting=0.000353
+2025-01-17 19:04:17 >>  
+Image: cat_sigma_08, mask: waterprint, alpha = 1.5, p = 1.9, lambda = 6, PSNR=34.705807
+psnr_destroyed=13.596469, psnr_inpainting=34.705807
+ssim_destroyed=0.379958, ssim_inpainting=0.878776
+loss_destroyed=0.043687, loss_inpainting=0.000338
+2025-01-17 19:06:32 >>  
+Image: cat_sigma_36, mask: mark, alpha = 1.5, p = 2.0, lambda = 0.25, PSNR=26.176157
+psnr_destroyed=12.315387, psnr_inpainting=26.176157
+ssim_destroyed=0.091764, ssim_inpainting=0.721954
+loss_destroyed=0.058676, loss_inpainting=0.002412
+2025-01-17 19:08:06 >>  
+Image: cat_sigma_36, mask: random, alpha = 1.5, p = 2.0, lambda = 0.61, PSNR=26.846163
+psnr_destroyed=7.507976, psnr_inpainting=26.846163
+ssim_destroyed=0.028399, ssim_inpainting=0.722233
+loss_destroyed=0.177502, loss_inpainting=0.002067
+2025-01-17 19:09:33 >>  
+Image: cat_sigma_36, mask: scratch, alpha = 1.6, p = 2.0, lambda = 0.18, PSNR=27.254393
+psnr_destroyed=14.781324, psnr_inpainting=27.254393
+ssim_destroyed=0.099542, ssim_inpainting=0.709885
+loss_destroyed=0.033256, loss_inpainting=0.001882
+2025-01-17 19:11:16 >>  
+Image: cat_sigma_36, mask: waterprint, alpha = 1.5, p = 1.9, lambda = 0.17, PSNR=26.206854
+psnr_destroyed=12.082596, psnr_inpainting=26.206854
+ssim_destroyed=0.085001, ssim_inpainting=0.785586
+loss_destroyed=0.061907, loss_inpainting=0.002395
+2025-01-17 19:13:16 >>  
+Image: face_sigma_08, mask: mark, alpha = 1.6, p = 2.0, lambda = 2, PSNR=33.969940
+psnr_destroyed=17.282717, psnr_inpainting=33.969940
+ssim_destroyed=0.540965, ssim_inpainting=0.860012
+loss_destroyed=0.018695, loss_inpainting=0.000401
+2025-01-17 19:14:27 >>  
+Image: face_sigma_08, mask: random, alpha = 1.8, p = 2.0, lambda = 2, PSNR=32.959820
+psnr_destroyed=11.282457, psnr_inpainting=32.959820
+ssim_destroyed=0.217594, ssim_inpainting=0.824147
+loss_destroyed=0.074431, loss_inpainting=0.000506
+2025-01-17 19:15:35 >>  
+Image: face_sigma_08, mask: scratch, alpha = 1.8, p = 2.0, lambda = 0.73, PSNR=34.961952
+psnr_destroyed=22.131569, psnr_inpainting=34.961952
+ssim_destroyed=0.609801, ssim_inpainting=0.879318
+loss_destroyed=0.006121, loss_inpainting=0.000319
+2025-01-17 19:16:40 >>  
+Image: face_sigma_08, mask: waterprint, alpha = 1.8, p = 2.0, lambda = 0.89, PSNR=34.106453
+psnr_destroyed=17.345404, psnr_inpainting=34.106453
+ssim_destroyed=0.508554, ssim_inpainting=0.862624
+loss_destroyed=0.018427, loss_inpainting=0.000388
+2025-01-17 19:18:41 >>  
+Image: face_sigma_36, mask: mark, alpha = 1.6, p = 2.0, lambda = 0.11, PSNR=27.267887
+psnr_destroyed=14.702026, psnr_inpainting=27.267887
+ssim_destroyed=0.119497, ssim_inpainting=0.622579
+loss_destroyed=0.033869, loss_inpainting=0.001876
+2025-01-17 19:19:45 >>  
+Image: face_sigma_36, mask: random, alpha = 1.8, p = 2.0, lambda = 0.4, PSNR=25.042923
+psnr_destroyed=10.791951, psnr_inpainting=25.042923
+ssim_destroyed=0.082023, ssim_inpainting=0.518257
+loss_destroyed=0.083331, loss_inpainting=0.003131
+2025-01-17 19:20:50 >>  
+Image: face_sigma_36, mask: scratch, alpha = 1.8, p = 2.0, lambda = 0.02, PSNR=27.199093
+psnr_destroyed=16.320393, psnr_inpainting=27.199093
+ssim_destroyed=0.123798, ssim_inpainting=0.621774
+loss_destroyed=0.023332, loss_inpainting=0.001906
+2025-01-17 19:22:03 >>  
+Image: face_sigma_36, mask: waterprint, alpha = 1.8, p = 2.0, lambda = 0.12, PSNR=25.805513
+psnr_destroyed=14.685253, psnr_inpainting=25.805513
+ssim_destroyed=0.114542, ssim_inpainting=0.566768
+loss_destroyed=0.034000, loss_inpainting=0.002627
+2025-01-17 19:23:29 >>  
+Image: forest_sigma_08, mask: mark, alpha = 1.3, p = 1.5, lambda = 200, PSNR=27.550850
+psnr_destroyed=12.290450, psnr_inpainting=27.550850
+ssim_destroyed=0.614009, ssim_inpainting=0.798511
+loss_destroyed=0.059014, loss_inpainting=0.001758
+2025-01-17 19:25:57 >>  
+Image: forest_sigma_08, mask: random, alpha = 1.2, p = 1.8, lambda = 90, PSNR=25.003889
+psnr_destroyed=6.251177, psnr_inpainting=25.003889
+ssim_destroyed=0.062373, ssim_inpainting=0.689549
+loss_destroyed=0.237073, loss_inpainting=0.003159
+2025-01-17 19:26:57 >>  
+Image: forest_sigma_08, mask: scratch, alpha = 1.3, p = 1.6, lambda = 200, PSNR=29.343414
+psnr_destroyed=17.740242, psnr_inpainting=29.343414
+ssim_destroyed=0.726449, ssim_inpainting=0.837337
+loss_destroyed=0.016826, loss_inpainting=0.001163
+2025-01-17 19:29:52 >>  
+Image: forest_sigma_08, mask: waterprint, alpha = 1.1, p = 1.8, lambda = 94, PSNR=27.862589
+psnr_destroyed=12.146983, psnr_inpainting=27.862589
+ssim_destroyed=0.537759, ssim_inpainting=0.806444
+loss_destroyed=0.060996, loss_inpainting=0.001636
+2025-01-17 19:31:21 >>  
+Image: forest_sigma_36, mask: mark, alpha = 1.3, p = 1.5, lambda = 4, PSNR=22.566727
+psnr_destroyed=11.201050, psnr_inpainting=22.566727
+ssim_destroyed=0.238551, ssim_inpainting=0.450538
+loss_destroyed=0.075839, loss_inpainting=0.005538
+2025-01-17 19:33:42 >>  
+Image: forest_sigma_36, mask: random, alpha = 1.2, p = 1.8, lambda = 2, PSNR=22.002203
+psnr_destroyed=6.071485, psnr_inpainting=22.002203
+ssim_destroyed=0.052889, ssim_inpainting=0.408846
+loss_destroyed=0.247088, loss_inpainting=0.006306
+2025-01-17 19:34:39 >>  
+Image: forest_sigma_36, mask: scratch, alpha = 1.3, p = 1.6, lambda = 3, PSNR=22.711794
+psnr_destroyed=14.501030, psnr_inpainting=22.711794
+ssim_destroyed=0.277232, ssim_inpainting=0.464418
+loss_destroyed=0.035473, loss_inpainting=0.005356
+2025-01-17 19:37:23 >>  
+Image: forest_sigma_36, mask: waterprint, alpha = 1.1, p = 1.8, lambda = 2, PSNR=22.569431
+psnr_destroyed=11.083265, psnr_inpainting=22.569431
+ssim_destroyed=0.221894, ssim_inpainting=0.453548
+loss_destroyed=0.077924, loss_inpainting=0.005534
+2025-01-17 19:38:57 >>  
+Image: fox_sigma_08, mask: mark, alpha = 1.7, p = 1.8, lambda = 1, PSNR=33.306267
+psnr_destroyed=11.689277, psnr_inpainting=33.306267
+ssim_destroyed=0.413460, ssim_inpainting=0.873434
+loss_destroyed=0.067775, loss_inpainting=0.000467
+2025-01-17 19:40:24 >>  
+Image: fox_sigma_08, mask: random, alpha = 1.5, p = 2.0, lambda = 5, PSNR=32.485928
+psnr_destroyed=5.457858, psnr_inpainting=32.485928
+ssim_destroyed=0.022010, ssim_inpainting=0.833765
+loss_destroyed=0.284586, loss_inpainting=0.000564
+2025-01-17 19:41:22 >>  
+Image: fox_sigma_08, mask: scratch, alpha = 1.8, p = 2.0, lambda = 0.65, PSNR=33.646904
+psnr_destroyed=17.318216, psnr_inpainting=33.646904
+ssim_destroyed=0.493912, ssim_inpainting=0.859155
+loss_destroyed=0.018543, loss_inpainting=0.000432
+2025-01-17 19:42:27 >>  
+Image: fox_sigma_08, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 2, PSNR=33.214123
+psnr_destroyed=11.349436, psnr_inpainting=33.214123
+ssim_destroyed=0.352117, ssim_inpainting=0.842656
+loss_destroyed=0.073292, loss_inpainting=0.000477
+2025-01-17 19:44:02 >>  
+Image: fox_sigma_36, mask: mark, alpha = 1.7, p = 1.8, lambda = 0.18, PSNR=27.716373
+psnr_destroyed=10.766073, psnr_inpainting=27.716373
+ssim_destroyed=0.100642, ssim_inpainting=0.719450
+loss_destroyed=0.083829, loss_inpainting=0.001692
+2025-01-17 19:45:28 >>  
+Image: fox_sigma_36, mask: random, alpha = 1.5, p = 2.0, lambda = 0.59, PSNR=27.062817
+psnr_destroyed=5.317024, psnr_inpainting=27.062817
+ssim_destroyed=0.019666, ssim_inpainting=0.694671
+loss_destroyed=0.293966, loss_inpainting=0.001967
+2025-01-17 19:46:27 >>  
+Image: fox_sigma_36, mask: scratch, alpha = 1.8, p = 2.0, lambda = 0.05, PSNR=26.757906
+psnr_destroyed=14.358257, psnr_inpainting=26.757906
+ssim_destroyed=0.111058, ssim_inpainting=0.662066
+loss_destroyed=0.036658, loss_inpainting=0.002110
+2025-01-17 19:47:32 >>  
+Image: fox_sigma_36, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 0.22, PSNR=26.165827
+psnr_destroyed=10.483347, psnr_inpainting=26.165827
+ssim_destroyed=0.090644, ssim_inpainting=0.625109
+loss_destroyed=0.089467, loss_inpainting=0.002418
+2025-01-17 19:49:21 >>  
+Image: penguin_sigma_08, mask: mark, alpha = 1.6, p = 2.0, lambda = 3, PSNR=33.608116
+psnr_destroyed=11.137531, psnr_inpainting=33.608116
+ssim_destroyed=0.397217, ssim_inpainting=0.864935
+loss_destroyed=0.076957, loss_inpainting=0.000436
+2025-01-17 19:50:28 >>  
+Image: penguin_sigma_08, mask: random, alpha = 1.7, p = 2.0, lambda = 2, PSNR=32.887138
+psnr_destroyed=5.343764, psnr_inpainting=32.887138
+ssim_destroyed=0.027070, ssim_inpainting=0.876155
+loss_destroyed=0.292162, loss_inpainting=0.000514
+2025-01-17 19:51:26 >>  
+Image: penguin_sigma_08, mask: scratch, alpha = 1.8, p = 1.9, lambda = 1, PSNR=34.718887
+psnr_destroyed=17.044703, psnr_inpainting=34.718887
+ssim_destroyed=0.473505, ssim_inpainting=0.889343
+loss_destroyed=0.019748, loss_inpainting=0.000337
+2025-01-17 19:52:32 >>  
+Image: penguin_sigma_08, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 1, PSNR=34.090759
+psnr_destroyed=11.236570, psnr_inpainting=34.090759
+ssim_destroyed=0.337368, ssim_inpainting=0.896349
+loss_destroyed=0.075222, loss_inpainting=0.000390
+2025-01-17 19:54:22 >>  
+Image: penguin_sigma_36, mask: mark, alpha = 1.6, p = 2.0, lambda = 0.19, PSNR=27.599974
+psnr_destroyed=10.294385, psnr_inpainting=27.599974
+ssim_destroyed=0.096594, ssim_inpainting=0.701100
+loss_destroyed=0.093446, loss_inpainting=0.001738
+2025-01-17 19:55:28 >>  
+Image: penguin_sigma_36, mask: random, alpha = 1.7, p = 2.0, lambda = 0.5, PSNR=26.639441
+psnr_destroyed=5.203857, psnr_inpainting=26.639441
+ssim_destroyed=0.022892, ssim_inpainting=0.625517
+loss_destroyed=0.301727, loss_inpainting=0.002168
+2025-01-17 19:56:27 >>  
+Image: penguin_sigma_36, mask: scratch, alpha = 1.8, p = 1.9, lambda = 0.06, PSNR=28.275507
+psnr_destroyed=14.166703, psnr_inpainting=28.275507
+ssim_destroyed=0.106416, ssim_inpainting=0.729285
+loss_destroyed=0.038312, loss_inpainting=0.001487
+2025-01-17 19:57:33 >>  
+Image: penguin_sigma_36, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 0.17, PSNR=26.877306
+psnr_destroyed=10.370093, psnr_inpainting=26.877306
+ssim_destroyed=0.089579, ssim_inpainting=0.666081
+loss_destroyed=0.091831, loss_inpainting=0.002052
+2025-01-17 19:59:22 >>  
+Image: rabbit_sigma_08, mask: mark, alpha = 1.6, p = 1.9, lambda = 8, PSNR=32.074455
+psnr_destroyed=13.320059, psnr_inpainting=32.074455
+ssim_destroyed=0.453859, ssim_inpainting=0.834611
+loss_destroyed=0.046558, loss_inpainting=0.000620
+2025-01-17 20:00:27 >>  
+Image: rabbit_sigma_08, mask: random, alpha = 1.7, p = 2.0, lambda = 9, PSNR=30.234022
+psnr_destroyed=7.405813, psnr_inpainting=30.234022
+ssim_destroyed=0.034174, ssim_inpainting=0.783846
+loss_destroyed=0.181727, loss_inpainting=0.000948
+2025-01-17 20:01:25 >>  
+Image: rabbit_sigma_08, mask: scratch, alpha = 1.8, p = 2.0, lambda = 2, PSNR=32.537415
+psnr_destroyed=18.854242, psnr_inpainting=32.537415
+ssim_destroyed=0.528615, ssim_inpainting=0.835561
+loss_destroyed=0.013019, loss_inpainting=0.000558
+2025-01-17 20:02:29 >>  
+Image: rabbit_sigma_08, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 4, PSNR=31.959671
+psnr_destroyed=13.260128, psnr_inpainting=31.959671
+ssim_destroyed=0.388012, ssim_inpainting=0.831614
+loss_destroyed=0.047205, loss_inpainting=0.000637
+2025-01-17 20:04:18 >>  
+Image: rabbit_sigma_36, mask: mark, alpha = 1.6, p = 1.9, lambda = 0.66, PSNR=25.738604
+psnr_destroyed=11.824799, psnr_inpainting=25.738604
+ssim_destroyed=0.123682, ssim_inpainting=0.585293
+loss_destroyed=0.065693, loss_inpainting=0.002668
+2025-01-17 20:05:24 >>  
+Image: rabbit_sigma_36, mask: random, alpha = 1.7, p = 2.0, lambda = 0.4, PSNR=25.168028
+psnr_destroyed=7.148489, psnr_inpainting=25.168028
+ssim_destroyed=0.029515, ssim_inpainting=0.587369
+loss_destroyed=0.192820, loss_inpainting=0.003042
+2025-01-17 20:06:23 >>  
+Image: rabbit_sigma_36, mask: scratch, alpha = 1.8, p = 2.0, lambda = 0.16, PSNR=25.651234
+psnr_destroyed=14.588695, psnr_inpainting=25.651234
+ssim_destroyed=0.132219, ssim_inpainting=0.562741
+loss_destroyed=0.034764, loss_inpainting=0.002722
+2025-01-17 20:07:28 >>  
+Image: rabbit_sigma_36, mask: waterprint, alpha = 1.7, p = 2.0, lambda = 0.19, PSNR=25.511835
+psnr_destroyed=11.767535, psnr_inpainting=25.511835
+ssim_destroyed=0.111937, ssim_inpainting=0.601951
+loss_destroyed=0.066565, loss_inpainting=0.002811

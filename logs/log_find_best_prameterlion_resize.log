@@ -1,0 +1,1460 @@
+2024-06-12 00:07:08 >>  
+Image: lion_resize, mask: markwith  alpha=1e-09, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=13.772560
+ssim_destroyed=0.000000, ssim_inpainting=0.736378
+loss_destroyed=0.041951, loss_inpainting=0.041951
+2024-06-12 00:07:11 >>  
+Image: lion_resize, mask: markwith  alpha=1e-09, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=13.772560
+ssim_destroyed=0.000000, ssim_inpainting=0.736378
+loss_destroyed=0.041951, loss_inpainting=0.041951
+2024-06-12 00:07:17 >>  
+Image: lion_resize, mask: markwith  alpha=1e-09, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=13.772560
+ssim_destroyed=0.000000, ssim_inpainting=0.736378
+loss_destroyed=0.041951, loss_inpainting=0.041951
+2024-06-12 00:07:23 >>  
+Image: lion_resize, mask: markwith  alpha=1e-09, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=13.772560
+ssim_destroyed=0.000000, ssim_inpainting=0.736378
+loss_destroyed=0.041951, loss_inpainting=0.041951
+2024-06-12 00:07:31 >>  
+Image: lion_resize, mask: markwith  alpha=1e-09, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=13.772560
+ssim_destroyed=0.000000, ssim_inpainting=0.736378
+loss_destroyed=0.041951, loss_inpainting=0.041951
+2024-06-12 00:07:39 >>  
+Image: lion_resize, mask: markwith  alpha=1e-09, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=13.772560
+ssim_destroyed=0.000000, ssim_inpainting=0.736378
+loss_destroyed=0.041951, loss_inpainting=0.041951
+2024-06-12 00:07:48 >>  
+Image: lion_resize, mask: markwith  alpha=1e-09, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=13.772560
+ssim_destroyed=0.000000, ssim_inpainting=0.736378
+loss_destroyed=0.041951, loss_inpainting=0.041951
+2024-06-12 00:07:58 >>  
+Image: lion_resize, mask: markwith  alpha=1e-09, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=13.772560
+ssim_destroyed=0.000000, ssim_inpainting=0.736378
+loss_destroyed=0.041951, loss_inpainting=0.041951
+2024-06-12 00:08:13 >>  
+Image: lion_resize, mask: markwith  alpha=1e-09, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=13.772560
+ssim_destroyed=0.000000, ssim_inpainting=0.736378
+loss_destroyed=0.041951, loss_inpainting=0.041951
+2024-06-12 00:08:21 >>  
+Image: lion_resize, mask: markwith  alpha=1e-09, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=13.772560
+ssim_destroyed=0.000000, ssim_inpainting=0.736378
+loss_destroyed=0.041951, loss_inpainting=0.041951
+2024-06-12 00:08:29 >>  
+Image: lion_resize, mask: markwith  alpha=1e-09, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=13.772560
+ssim_destroyed=0.000000, ssim_inpainting=0.736378
+loss_destroyed=0.041951, loss_inpainting=0.041951
+2024-06-12 00:13:24 >>  
+Image: lion_resize, mask: markwith  alpha=0.1, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=29.266912
+ssim_destroyed=0.000000, ssim_inpainting=0.917076
+loss_destroyed=0.041476, loss_inpainting=0.001184
+2024-06-12 00:16:07 >>  
+Image: lion_resize, mask: markwith  alpha=0.1, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=29.228170
+ssim_destroyed=0.000000, ssim_inpainting=0.916395
+loss_destroyed=0.041539, loss_inpainting=0.001194
+2024-06-12 00:18:41 >>  
+Image: lion_resize, mask: markwith  alpha=0.1, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=29.255775
+ssim_destroyed=0.000000, ssim_inpainting=0.917303
+loss_destroyed=0.041595, loss_inpainting=0.001187
+2024-06-12 00:21:15 >>  
+Image: lion_resize, mask: markwith  alpha=0.1, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=29.421673
+ssim_destroyed=0.000000, ssim_inpainting=0.919900
+loss_destroyed=0.041645, loss_inpainting=0.001142
+2024-06-12 00:23:49 >>  
+Image: lion_resize, mask: markwith  alpha=0.1, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=29.662828
+ssim_destroyed=0.000000, ssim_inpainting=0.923028
+loss_destroyed=0.041688, loss_inpainting=0.001081
+2024-06-12 00:26:24 >>  
+Image: lion_resize, mask: markwith  alpha=0.1, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=29.991821
+ssim_destroyed=0.000000, ssim_inpainting=0.926399
+loss_destroyed=0.041725, loss_inpainting=0.001002
+2024-06-12 00:28:58 >>  
+Image: lion_resize, mask: markwith  alpha=0.1, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=30.348196
+ssim_destroyed=0.000000, ssim_inpainting=0.929322
+loss_destroyed=0.041758, loss_inpainting=0.000923
+2024-06-12 00:31:32 >>  
+Image: lion_resize, mask: markwith  alpha=0.1, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=29.695921
+ssim_destroyed=0.000000, ssim_inpainting=0.923308
+loss_destroyed=0.041785, loss_inpainting=0.001073
+2024-06-12 00:34:06 >>  
+Image: lion_resize, mask: markwith  alpha=0.1, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=27.656851
+ssim_destroyed=0.000000, ssim_inpainting=0.903984
+loss_destroyed=0.041809, loss_inpainting=0.001715
+2024-06-12 00:36:40 >>  
+Image: lion_resize, mask: markwith  alpha=0.1, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=25.365990
+ssim_destroyed=0.000000, ssim_inpainting=0.879518
+loss_destroyed=0.041830, loss_inpainting=0.002907
+2024-06-12 00:39:14 >>  
+Image: lion_resize, mask: markwith  alpha=0.1, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=23.382572
+ssim_destroyed=0.000000, ssim_inpainting=0.855837
+loss_destroyed=0.041847, loss_inpainting=0.004589
+2024-06-12 00:40:02 >>  
+Image: lion_resize, mask: markwith  alpha=0.2, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=29.515293
+ssim_destroyed=0.000000, ssim_inpainting=0.919696
+loss_destroyed=0.041153, loss_inpainting=0.001118
+2024-06-12 00:40:49 >>  
+Image: lion_resize, mask: markwith  alpha=0.2, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=29.447155
+ssim_destroyed=0.000000, ssim_inpainting=0.918512
+loss_destroyed=0.041221, loss_inpainting=0.001136
+2024-06-12 00:41:36 >>  
+Image: lion_resize, mask: markwith  alpha=0.2, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=29.439867
+ssim_destroyed=0.000000, ssim_inpainting=0.919015
+loss_destroyed=0.041286, loss_inpainting=0.001138
+2024-06-12 00:42:24 >>  
+Image: lion_resize, mask: markwith  alpha=0.2, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=29.616745
+ssim_destroyed=0.000000, ssim_inpainting=0.921755
+loss_destroyed=0.041346, loss_inpainting=0.001092
+2024-06-12 00:43:11 >>  
+Image: lion_resize, mask: markwith  alpha=0.2, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=29.874380
+ssim_destroyed=0.000000, ssim_inpainting=0.925041
+loss_destroyed=0.041403, loss_inpainting=0.001029
+2024-06-12 00:43:58 >>  
+Image: lion_resize, mask: markwith  alpha=0.2, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=30.160215
+ssim_destroyed=0.000000, ssim_inpainting=0.928269
+loss_destroyed=0.041455, loss_inpainting=0.000964
+2024-06-12 00:44:46 >>  
+Image: lion_resize, mask: markwith  alpha=0.2, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=30.452869
+ssim_destroyed=0.000000, ssim_inpainting=0.931258
+loss_destroyed=0.041502, loss_inpainting=0.000901
+2024-06-12 00:45:33 >>  
+Image: lion_resize, mask: markwith  alpha=0.2, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=30.742134
+ssim_destroyed=0.000000, ssim_inpainting=0.933935
+loss_destroyed=0.041546, loss_inpainting=0.000843
+2024-06-12 00:46:20 >>  
+Image: lion_resize, mask: markwith  alpha=0.2, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=31.019424
+ssim_destroyed=0.000000, ssim_inpainting=0.936197
+loss_destroyed=0.041585, loss_inpainting=0.000791
+2024-06-12 00:47:08 >>  
+Image: lion_resize, mask: markwith  alpha=0.2, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=31.218910
+ssim_destroyed=0.000000, ssim_inpainting=0.937433
+loss_destroyed=0.041621, loss_inpainting=0.000755
+2024-06-12 00:47:55 >>  
+Image: lion_resize, mask: markwith  alpha=0.2, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=31.096649
+ssim_destroyed=0.000000, ssim_inpainting=0.935270
+loss_destroyed=0.041654, loss_inpainting=0.000777
+2024-06-12 00:51:38 >>  
+Image: lion_resize, mask: markwith  alpha=0.3, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=30.033520
+ssim_destroyed=0.000000, ssim_inpainting=0.925706
+loss_destroyed=0.040978, loss_inpainting=0.000992
+2024-06-12 00:55:21 >>  
+Image: lion_resize, mask: markwith  alpha=0.3, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=29.946520
+ssim_destroyed=0.000000, ssim_inpainting=0.924275
+loss_destroyed=0.041042, loss_inpainting=0.001012
+2024-06-12 00:59:04 >>  
+Image: lion_resize, mask: markwith  alpha=0.3, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=29.907623
+ssim_destroyed=0.000000, ssim_inpainting=0.924384
+loss_destroyed=0.041105, loss_inpainting=0.001021
+2024-06-12 01:02:47 >>  
+Image: lion_resize, mask: markwith  alpha=0.3, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=30.077595
+ssim_destroyed=0.000000, ssim_inpainting=0.926936
+loss_destroyed=0.041166, loss_inpainting=0.000982
+2024-06-12 01:06:30 >>  
+Image: lion_resize, mask: markwith  alpha=0.3, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=30.344831
+ssim_destroyed=0.000000, ssim_inpainting=0.930121
+loss_destroyed=0.041224, loss_inpainting=0.000924
+2024-06-12 01:10:13 >>  
+Image: lion_resize, mask: markwith  alpha=0.3, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=30.638926
+ssim_destroyed=0.000000, ssim_inpainting=0.933208
+loss_destroyed=0.041279, loss_inpainting=0.000863
+2024-06-12 01:13:55 >>  
+Image: lion_resize, mask: markwith  alpha=0.3, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=30.935238
+ssim_destroyed=0.000000, ssim_inpainting=0.936022
+loss_destroyed=0.041330, loss_inpainting=0.000806
+2024-06-12 01:17:38 >>  
+Image: lion_resize, mask: markwith  alpha=0.3, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=31.221256
+ssim_destroyed=0.000000, ssim_inpainting=0.938523
+loss_destroyed=0.041378, loss_inpainting=0.000755
+2024-06-12 01:21:21 >>  
+Image: lion_resize, mask: markwith  alpha=0.3, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=31.490185
+ssim_destroyed=0.000000, ssim_inpainting=0.940700
+loss_destroyed=0.041422, loss_inpainting=0.000710
+2024-06-12 01:25:05 >>  
+Image: lion_resize, mask: markwith  alpha=0.3, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=31.734730
+ssim_destroyed=0.000000, ssim_inpainting=0.942512
+loss_destroyed=0.041464, loss_inpainting=0.000671
+2024-06-12 01:28:48 >>  
+Image: lion_resize, mask: markwith  alpha=0.3, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=31.922388
+ssim_destroyed=0.000000, ssim_inpainting=0.943647
+loss_destroyed=0.041502, loss_inpainting=0.000642
+2024-06-12 01:31:49 >>  
+Image: lion_resize, mask: markwith  alpha=0.4, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=30.575813
+ssim_destroyed=0.000000, ssim_inpainting=0.931646
+loss_destroyed=0.040887, loss_inpainting=0.000876
+2024-06-12 01:34:51 >>  
+Image: lion_resize, mask: markwith  alpha=0.4, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=30.475986
+ssim_destroyed=0.000000, ssim_inpainting=0.930189
+loss_destroyed=0.040947, loss_inpainting=0.000896
+2024-06-12 01:37:53 >>  
+Image: lion_resize, mask: markwith  alpha=0.4, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=30.408926
+ssim_destroyed=0.000000, ssim_inpainting=0.929930
+loss_destroyed=0.041006, loss_inpainting=0.000910
+2024-06-12 01:40:56 >>  
+Image: lion_resize, mask: markwith  alpha=0.4, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=30.562754
+ssim_destroyed=0.000000, ssim_inpainting=0.932132
+loss_destroyed=0.041064, loss_inpainting=0.000878
+2024-06-12 01:43:58 >>  
+Image: lion_resize, mask: markwith  alpha=0.4, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=30.830870
+ssim_destroyed=0.000000, ssim_inpainting=0.935088
+loss_destroyed=0.041120, loss_inpainting=0.000826
+2024-06-12 01:47:00 >>  
+Image: lion_resize, mask: markwith  alpha=0.4, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=31.124704
+ssim_destroyed=0.000000, ssim_inpainting=0.937925
+loss_destroyed=0.041174, loss_inpainting=0.000772
+2024-06-12 01:50:02 >>  
+Image: lion_resize, mask: markwith  alpha=0.4, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=31.416550
+ssim_destroyed=0.000000, ssim_inpainting=0.940486
+loss_destroyed=0.041225, loss_inpainting=0.000722
+2024-06-12 01:53:03 >>  
+Image: lion_resize, mask: markwith  alpha=0.4, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=31.693802
+ssim_destroyed=0.000000, ssim_inpainting=0.942738
+loss_destroyed=0.041273, loss_inpainting=0.000677
+2024-06-12 01:56:05 >>  
+Image: lion_resize, mask: markwith  alpha=0.4, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=31.949993
+ssim_destroyed=0.000000, ssim_inpainting=0.944688
+loss_destroyed=0.041319, loss_inpainting=0.000638
+2024-06-12 01:59:07 >>  
+Image: lion_resize, mask: markwith  alpha=0.4, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=32.180779
+ssim_destroyed=0.000000, ssim_inpainting=0.946336
+loss_destroyed=0.041362, loss_inpainting=0.000605
+2024-06-12 02:02:10 >>  
+Image: lion_resize, mask: markwith  alpha=0.4, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=32.373764
+ssim_destroyed=0.000000, ssim_inpainting=0.947581
+loss_destroyed=0.041402, loss_inpainting=0.000579
+2024-06-12 02:04:27 >>  
+Image: lion_resize, mask: markwith  alpha=0.5, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=31.093201
+ssim_destroyed=0.000000, ssim_inpainting=0.936825
+loss_destroyed=0.040845, loss_inpainting=0.000777
+2024-06-12 02:06:43 >>  
+Image: lion_resize, mask: markwith  alpha=0.5, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=30.986404
+ssim_destroyed=0.000000, ssim_inpainting=0.935584
+loss_destroyed=0.040900, loss_inpainting=0.000797
+2024-06-12 02:09:00 >>  
+Image: lion_resize, mask: markwith  alpha=0.5, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=30.897842
+ssim_destroyed=0.000000, ssim_inpainting=0.935022
+loss_destroyed=0.040955, loss_inpainting=0.000813
+2024-06-12 02:11:16 >>  
+Image: lion_resize, mask: markwith  alpha=0.5, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=31.030952
+ssim_destroyed=0.000000, ssim_inpainting=0.936814
+loss_destroyed=0.041010, loss_inpainting=0.000789
+2024-06-12 02:13:31 >>  
+Image: lion_resize, mask: markwith  alpha=0.5, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=31.291199
+ssim_destroyed=0.000000, ssim_inpainting=0.939449
+loss_destroyed=0.041064, loss_inpainting=0.000743
+2024-06-12 02:15:49 >>  
+Image: lion_resize, mask: markwith  alpha=0.5, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=31.576721
+ssim_destroyed=0.000000, ssim_inpainting=0.941993
+loss_destroyed=0.041116, loss_inpainting=0.000696
+2024-06-12 02:18:05 >>  
+Image: lion_resize, mask: markwith  alpha=0.5, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=31.856598
+ssim_destroyed=0.000000, ssim_inpainting=0.944275
+loss_destroyed=0.041165, loss_inpainting=0.000652
+2024-06-12 02:20:22 >>  
+Image: lion_resize, mask: markwith  alpha=0.5, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=32.118534
+ssim_destroyed=0.000000, ssim_inpainting=0.946269
+loss_destroyed=0.041213, loss_inpainting=0.000614
+2024-06-12 02:22:38 >>  
+Image: lion_resize, mask: markwith  alpha=0.5, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=32.356800
+ssim_destroyed=0.000000, ssim_inpainting=0.947984
+loss_destroyed=0.041257, loss_inpainting=0.000581
+2024-06-12 02:24:55 >>  
+Image: lion_resize, mask: markwith  alpha=0.5, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=32.567978
+ssim_destroyed=0.000000, ssim_inpainting=0.949427
+loss_destroyed=0.041300, loss_inpainting=0.000554
+2024-06-12 02:27:11 >>  
+Image: lion_resize, mask: markwith  alpha=0.5, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=32.742569
+ssim_destroyed=0.000000, ssim_inpainting=0.950529
+loss_destroyed=0.041340, loss_inpainting=0.000532
+2024-06-12 02:28:52 >>  
+Image: lion_resize, mask: markwith  alpha=0.6, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=31.551382
+ssim_destroyed=0.000000, ssim_inpainting=0.940907
+loss_destroyed=0.040830, loss_inpainting=0.000700
+2024-06-12 02:30:33 >>  
+Image: lion_resize, mask: markwith  alpha=0.6, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=31.446575
+ssim_destroyed=0.000000, ssim_inpainting=0.940101
+loss_destroyed=0.040881, loss_inpainting=0.000717
+2024-06-12 02:32:14 >>  
+Image: lion_resize, mask: markwith  alpha=0.6, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=31.343229
+ssim_destroyed=0.000000, ssim_inpainting=0.939374
+loss_destroyed=0.040933, loss_inpainting=0.000734
+2024-06-12 02:33:56 >>  
+Image: lion_resize, mask: markwith  alpha=0.6, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=31.451550
+ssim_destroyed=0.000000, ssim_inpainting=0.940726
+loss_destroyed=0.040985, loss_inpainting=0.000716
+2024-06-12 02:35:37 >>  
+Image: lion_resize, mask: markwith  alpha=0.6, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=31.696157
+ssim_destroyed=0.000000, ssim_inpainting=0.943007
+loss_destroyed=0.041036, loss_inpainting=0.000677
+2024-06-12 02:37:18 >>  
+Image: lion_resize, mask: markwith  alpha=0.6, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=31.967964
+ssim_destroyed=0.000000, ssim_inpainting=0.945265
+loss_destroyed=0.041085, loss_inpainting=0.000636
+2024-06-12 02:38:59 >>  
+Image: lion_resize, mask: markwith  alpha=0.6, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=32.231537
+ssim_destroyed=0.000000, ssim_inpainting=0.947286
+loss_destroyed=0.041133, loss_inpainting=0.000598
+2024-06-12 02:40:40 >>  
+Image: lion_resize, mask: markwith  alpha=0.6, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=32.474850
+ssim_destroyed=0.000000, ssim_inpainting=0.949047
+loss_destroyed=0.041178, loss_inpainting=0.000566
+2024-06-12 02:42:21 >>  
+Image: lion_resize, mask: markwith  alpha=0.6, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=32.692970
+ssim_destroyed=0.000000, ssim_inpainting=0.950555
+loss_destroyed=0.041221, loss_inpainting=0.000538
+2024-06-12 02:44:02 >>  
+Image: lion_resize, mask: markwith  alpha=0.6, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=32.882866
+ssim_destroyed=0.000000, ssim_inpainting=0.951814
+loss_destroyed=0.041263, loss_inpainting=0.000515
+2024-06-12 02:45:43 >>  
+Image: lion_resize, mask: markwith  alpha=0.6, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=33.034016
+ssim_destroyed=0.000000, ssim_inpainting=0.952741
+loss_destroyed=0.041302, loss_inpainting=0.000497
+2024-06-12 02:46:57 >>  
+Image: lion_resize, mask: markwith  alpha=0.7, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=31.943237
+ssim_destroyed=0.000000, ssim_inpainting=0.944180
+loss_destroyed=0.040832, loss_inpainting=0.000639
+2024-06-12 02:48:11 >>  
+Image: lion_resize, mask: markwith  alpha=0.7, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=31.849289
+ssim_destroyed=0.000000, ssim_inpainting=0.943708
+loss_destroyed=0.040880, loss_inpainting=0.000653
+2024-06-12 02:49:26 >>  
+Image: lion_resize, mask: markwith  alpha=0.7, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=31.739632
+ssim_destroyed=0.000000, ssim_inpainting=0.942995
+loss_destroyed=0.040929, loss_inpainting=0.000670
+2024-06-12 02:50:40 >>  
+Image: lion_resize, mask: markwith  alpha=0.7, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=31.821335
+ssim_destroyed=0.000000, ssim_inpainting=0.943941
+loss_destroyed=0.040977, loss_inpainting=0.000657
+2024-06-12 02:51:54 >>  
+Image: lion_resize, mask: markwith  alpha=0.7, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=32.045429
+ssim_destroyed=0.000000, ssim_inpainting=0.945880
+loss_destroyed=0.041026, loss_inpainting=0.000624
+2024-06-12 02:53:08 >>  
+Image: lion_resize, mask: markwith  alpha=0.7, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=32.300102
+ssim_destroyed=0.000000, ssim_inpainting=0.947869
+loss_destroyed=0.041072, loss_inpainting=0.000589
+2024-06-12 02:54:22 >>  
+Image: lion_resize, mask: markwith  alpha=0.7, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=32.544846
+ssim_destroyed=0.000000, ssim_inpainting=0.949660
+loss_destroyed=0.041118, loss_inpainting=0.000557
+2024-06-12 02:55:36 >>  
+Image: lion_resize, mask: markwith  alpha=0.7, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=32.768051
+ssim_destroyed=0.000000, ssim_inpainting=0.951218
+loss_destroyed=0.041161, loss_inpainting=0.000529
+2024-06-12 02:56:50 >>  
+Image: lion_resize, mask: markwith  alpha=0.7, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=32.965405
+ssim_destroyed=0.000000, ssim_inpainting=0.952548
+loss_destroyed=0.041203, loss_inpainting=0.000505
+2024-06-12 02:58:04 >>  
+Image: lion_resize, mask: markwith  alpha=0.7, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=33.133644
+ssim_destroyed=0.000000, ssim_inpainting=0.953645
+loss_destroyed=0.041242, loss_inpainting=0.000486
+2024-06-12 02:59:18 >>  
+Image: lion_resize, mask: markwith  alpha=0.7, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=33.257820
+ssim_destroyed=0.000000, ssim_inpainting=0.954375
+loss_destroyed=0.041280, loss_inpainting=0.000472
+2024-06-12 02:59:31 >>  
+Image: lion_resize, mask: markwith  alpha=0.8, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=32.266167
+ssim_destroyed=0.000000, ssim_inpainting=0.946458
+loss_destroyed=0.040845, loss_inpainting=0.000593
+2024-06-12 02:59:43 >>  
+Image: lion_resize, mask: markwith  alpha=0.8, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=32.183388
+ssim_destroyed=0.000000, ssim_inpainting=0.946512
+loss_destroyed=0.040890, loss_inpainting=0.000605
+2024-06-12 02:59:55 >>  
+Image: lion_resize, mask: markwith  alpha=0.8, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=32.077778
+ssim_destroyed=0.000000, ssim_inpainting=0.945912
+loss_destroyed=0.040935, loss_inpainting=0.000620
+2024-06-12 03:00:07 >>  
+Image: lion_resize, mask: markwith  alpha=0.8, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=32.136555
+ssim_destroyed=0.000000, ssim_inpainting=0.946530
+loss_destroyed=0.040981, loss_inpainting=0.000611
+2024-06-12 03:00:20 >>  
+Image: lion_resize, mask: markwith  alpha=0.8, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=32.338188
+ssim_destroyed=0.000000, ssim_inpainting=0.948148
+loss_destroyed=0.041027, loss_inpainting=0.000584
+2024-06-12 03:00:32 >>  
+Image: lion_resize, mask: markwith  alpha=0.8, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=32.573685
+ssim_destroyed=0.000000, ssim_inpainting=0.949901
+loss_destroyed=0.041071, loss_inpainting=0.000553
+2024-06-12 03:00:44 >>  
+Image: lion_resize, mask: markwith  alpha=0.8, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=32.799137
+ssim_destroyed=0.000000, ssim_inpainting=0.951496
+loss_destroyed=0.041114, loss_inpainting=0.000525
+2024-06-12 03:00:56 >>  
+Image: lion_resize, mask: markwith  alpha=0.8, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=33.002693
+ssim_destroyed=0.000000, ssim_inpainting=0.952887
+loss_destroyed=0.041155, loss_inpainting=0.000501
+2024-06-12 03:01:08 >>  
+Image: lion_resize, mask: markwith  alpha=0.8, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=33.180679
+ssim_destroyed=0.000000, ssim_inpainting=0.954071
+loss_destroyed=0.041195, loss_inpainting=0.000481
+2024-06-12 03:01:21 >>  
+Image: lion_resize, mask: markwith  alpha=0.8, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=33.327839
+ssim_destroyed=0.000000, ssim_inpainting=0.955024
+loss_destroyed=0.041233, loss_inpainting=0.000465
+2024-06-12 03:01:33 >>  
+Image: lion_resize, mask: markwith  alpha=0.8, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=33.420647
+ssim_destroyed=0.000000, ssim_inpainting=0.955518
+loss_destroyed=0.041269, loss_inpainting=0.000455
+2024-06-12 03:02:14 >>  
+Image: lion_resize, mask: markwith  alpha=0.9, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=32.539085
+ssim_destroyed=0.000000, ssim_inpainting=0.948311
+loss_destroyed=0.040868, loss_inpainting=0.000557
+2024-06-12 03:02:56 >>  
+Image: lion_resize, mask: markwith  alpha=0.9, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=32.482265
+ssim_destroyed=0.000000, ssim_inpainting=0.948875
+loss_destroyed=0.040910, loss_inpainting=0.000565
+2024-06-12 03:03:38 >>  
+Image: lion_resize, mask: markwith  alpha=0.9, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=32.373463
+ssim_destroyed=0.000000, ssim_inpainting=0.948280
+loss_destroyed=0.040953, loss_inpainting=0.000579
+2024-06-12 03:04:19 >>  
+Image: lion_resize, mask: markwith  alpha=0.9, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=32.414665
+ssim_destroyed=0.000000, ssim_inpainting=0.948709
+loss_destroyed=0.040997, loss_inpainting=0.000574
+2024-06-12 03:05:01 >>  
+Image: lion_resize, mask: markwith  alpha=0.9, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=32.590740
+ssim_destroyed=0.000000, ssim_inpainting=0.950022
+loss_destroyed=0.041040, loss_inpainting=0.000551
+2024-06-12 03:05:43 >>  
+Image: lion_resize, mask: markwith  alpha=0.9, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=32.806236
+ssim_destroyed=0.000000, ssim_inpainting=0.951559
+loss_destroyed=0.041082, loss_inpainting=0.000524
+2024-06-12 03:06:25 >>  
+Image: lion_resize, mask: markwith  alpha=0.9, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=33.012539
+ssim_destroyed=0.000000, ssim_inpainting=0.952985
+loss_destroyed=0.041123, loss_inpainting=0.000500
+2024-06-12 03:07:06 >>  
+Image: lion_resize, mask: markwith  alpha=0.9, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=33.197216
+ssim_destroyed=0.000000, ssim_inpainting=0.954231
+loss_destroyed=0.041162, loss_inpainting=0.000479
+2024-06-12 03:07:48 >>  
+Image: lion_resize, mask: markwith  alpha=0.9, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=33.356133
+ssim_destroyed=0.000000, ssim_inpainting=0.955286
+loss_destroyed=0.041200, loss_inpainting=0.000462
+2024-06-12 03:08:30 >>  
+Image: lion_resize, mask: markwith  alpha=0.9, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=33.479698
+ssim_destroyed=0.000000, ssim_inpainting=0.956083
+loss_destroyed=0.041236, loss_inpainting=0.000449
+2024-06-12 03:09:11 >>  
+Image: lion_resize, mask: markwith  alpha=0.9, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=33.529186
+ssim_destroyed=0.000000, ssim_inpainting=0.956222
+loss_destroyed=0.041270, loss_inpainting=0.000444
+2024-06-12 03:09:44 >>  
+Image: lion_resize, mask: markwith  alpha=1.0, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=32.588573
+ssim_destroyed=0.000000, ssim_inpainting=0.949305
+loss_destroyed=0.040898, loss_inpainting=0.000551
+2024-06-12 03:10:17 >>  
+Image: lion_resize, mask: markwith  alpha=1.0, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=32.712303
+ssim_destroyed=0.000000, ssim_inpainting=0.950525
+loss_destroyed=0.040937, loss_inpainting=0.000536
+2024-06-12 03:10:50 >>  
+Image: lion_resize, mask: markwith  alpha=1.0, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=32.618217
+ssim_destroyed=0.000000, ssim_inpainting=0.950168
+loss_destroyed=0.040978, loss_inpainting=0.000547
+2024-06-12 03:11:24 >>  
+Image: lion_resize, mask: markwith  alpha=1.0, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=32.643898
+ssim_destroyed=0.000000, ssim_inpainting=0.950428
+loss_destroyed=0.041020, loss_inpainting=0.000544
+2024-06-12 03:11:57 >>  
+Image: lion_resize, mask: markwith  alpha=1.0, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=32.796501
+ssim_destroyed=0.000000, ssim_inpainting=0.951486
+loss_destroyed=0.041061, loss_inpainting=0.000525
+2024-06-12 03:12:30 >>  
+Image: lion_resize, mask: markwith  alpha=1.0, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=32.994484
+ssim_destroyed=0.000000, ssim_inpainting=0.952862
+loss_destroyed=0.041101, loss_inpainting=0.000502
+2024-06-12 03:13:03 >>  
+Image: lion_resize, mask: markwith  alpha=1.0, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=33.183674
+ssim_destroyed=0.000000, ssim_inpainting=0.954154
+loss_destroyed=0.041140, loss_inpainting=0.000480
+2024-06-12 03:13:36 >>  
+Image: lion_resize, mask: markwith  alpha=1.0, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=33.351017
+ssim_destroyed=0.000000, ssim_inpainting=0.955281
+loss_destroyed=0.041177, loss_inpainting=0.000462
+2024-06-12 03:14:09 >>  
+Image: lion_resize, mask: markwith  alpha=1.0, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=33.491596
+ssim_destroyed=0.000000, ssim_inpainting=0.956217
+loss_destroyed=0.041213, loss_inpainting=0.000448
+2024-06-12 03:14:41 >>  
+Image: lion_resize, mask: markwith  alpha=1.0, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=33.586086
+ssim_destroyed=0.000000, ssim_inpainting=0.956814
+loss_destroyed=0.041247, loss_inpainting=0.000438
+2024-06-12 03:15:14 >>  
+Image: lion_resize, mask: markwith  alpha=1.0, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=33.572311
+ssim_destroyed=0.000000, ssim_inpainting=0.956383
+loss_destroyed=0.041276, loss_inpainting=0.000439
+2024-06-12 03:15:40 >>  
+Image: lion_resize, mask: markwith  alpha=1.1, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=32.862129
+ssim_destroyed=0.000000, ssim_inpainting=0.950553
+loss_destroyed=0.040937, loss_inpainting=0.000517
+2024-06-12 03:16:05 >>  
+Image: lion_resize, mask: markwith  alpha=1.1, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=32.902107
+ssim_destroyed=0.000000, ssim_inpainting=0.951748
+loss_destroyed=0.040975, loss_inpainting=0.000513
+2024-06-12 03:16:31 >>  
+Image: lion_resize, mask: markwith  alpha=1.1, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=32.823105
+ssim_destroyed=0.000000, ssim_inpainting=0.951661
+loss_destroyed=0.041015, loss_inpainting=0.000522
+2024-06-12 03:16:56 >>  
+Image: lion_resize, mask: markwith  alpha=1.1, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=32.838634
+ssim_destroyed=0.000000, ssim_inpainting=0.951818
+loss_destroyed=0.041054, loss_inpainting=0.000520
+2024-06-12 03:17:22 >>  
+Image: lion_resize, mask: markwith  alpha=1.1, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=32.974281
+ssim_destroyed=0.000000, ssim_inpainting=0.952724
+loss_destroyed=0.041094, loss_inpainting=0.000504
+2024-06-12 03:17:47 >>  
+Image: lion_resize, mask: markwith  alpha=1.1, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=33.154831
+ssim_destroyed=0.000000, ssim_inpainting=0.953952
+loss_destroyed=0.041133, loss_inpainting=0.000484
+2024-06-12 03:18:12 >>  
+Image: lion_resize, mask: markwith  alpha=1.1, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=33.326660
+ssim_destroyed=0.000000, ssim_inpainting=0.955120
+loss_destroyed=0.041169, loss_inpainting=0.000465
+2024-06-12 03:18:38 >>  
+Image: lion_resize, mask: markwith  alpha=1.1, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=33.477364
+ssim_destroyed=0.000000, ssim_inpainting=0.956136
+loss_destroyed=0.041202, loss_inpainting=0.000449
+2024-06-12 03:19:03 >>  
+Image: lion_resize, mask: markwith  alpha=1.1, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=33.596291
+ssim_destroyed=0.000000, ssim_inpainting=0.956934
+loss_destroyed=0.041234, loss_inpainting=0.000437
+2024-06-12 03:19:29 >>  
+Image: lion_resize, mask: markwith  alpha=1.1, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=33.644257
+ssim_destroyed=0.000000, ssim_inpainting=0.957184
+loss_destroyed=0.041260, loss_inpainting=0.000432
+2024-06-12 03:19:54 >>  
+Image: lion_resize, mask: markwith  alpha=1.1, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=33.521820
+ssim_destroyed=0.000000, ssim_inpainting=0.955710
+loss_destroyed=0.041278, loss_inpainting=0.000444
+2024-06-12 03:20:15 >>  
+Image: lion_resize, mask: markwith  alpha=1.2, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=32.681568
+ssim_destroyed=0.000000, ssim_inpainting=0.950705
+loss_destroyed=0.040985, loss_inpainting=0.000539
+2024-06-12 03:20:35 >>  
+Image: lion_resize, mask: markwith  alpha=1.2, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=33.057465
+ssim_destroyed=0.000000, ssim_inpainting=0.952802
+loss_destroyed=0.041022, loss_inpainting=0.000495
+2024-06-12 03:20:55 >>  
+Image: lion_resize, mask: markwith  alpha=1.2, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=32.984257
+ssim_destroyed=0.000000, ssim_inpainting=0.952766
+loss_destroyed=0.041061, loss_inpainting=0.000503
+2024-06-12 03:21:16 >>  
+Image: lion_resize, mask: markwith  alpha=1.2, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=32.997452
+ssim_destroyed=0.000000, ssim_inpainting=0.952927
+loss_destroyed=0.041100, loss_inpainting=0.000501
+2024-06-12 03:21:36 >>  
+Image: lion_resize, mask: markwith  alpha=1.2, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=33.119560
+ssim_destroyed=0.000000, ssim_inpainting=0.953716
+loss_destroyed=0.041138, loss_inpainting=0.000488
+2024-06-12 03:21:56 >>  
+Image: lion_resize, mask: markwith  alpha=1.2, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=33.284485
+ssim_destroyed=0.000000, ssim_inpainting=0.954827
+loss_destroyed=0.041173, loss_inpainting=0.000469
+2024-06-12 03:22:17 >>  
+Image: lion_resize, mask: markwith  alpha=1.2, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=33.441666
+ssim_destroyed=0.000000, ssim_inpainting=0.955895
+loss_destroyed=0.041205, loss_inpainting=0.000453
+2024-06-12 03:22:37 >>  
+Image: lion_resize, mask: markwith  alpha=1.2, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=33.575893
+ssim_destroyed=0.000000, ssim_inpainting=0.956804
+loss_destroyed=0.041234, loss_inpainting=0.000439
+2024-06-12 03:22:58 >>  
+Image: lion_resize, mask: markwith  alpha=1.2, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=33.660473
+ssim_destroyed=0.000000, ssim_inpainting=0.957379
+loss_destroyed=0.041261, loss_inpainting=0.000430
+2024-06-12 03:23:18 >>  
+Image: lion_resize, mask: markwith  alpha=1.2, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=33.621101
+ssim_destroyed=0.000000, ssim_inpainting=0.956914
+loss_destroyed=0.041277, loss_inpainting=0.000434
+2024-06-12 03:23:38 >>  
+Image: lion_resize, mask: markwith  alpha=1.2, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=33.307846
+ssim_destroyed=0.000000, ssim_inpainting=0.953564
+loss_destroyed=0.041280, loss_inpainting=0.000467
+2024-06-12 03:23:43 >>  
+Image: lion_resize, mask: markwith  alpha=1.3, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=32.967495
+ssim_destroyed=0.000000, ssim_inpainting=0.951839
+loss_destroyed=0.041044, loss_inpainting=0.000505
+2024-06-12 03:23:47 >>  
+Image: lion_resize, mask: markwith  alpha=1.3, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=33.178673
+ssim_destroyed=0.000000, ssim_inpainting=0.953583
+loss_destroyed=0.041082, loss_inpainting=0.000481
+2024-06-12 03:23:51 >>  
+Image: lion_resize, mask: markwith  alpha=1.3, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=33.121071
+ssim_destroyed=0.000000, ssim_inpainting=0.953743
+loss_destroyed=0.041121, loss_inpainting=0.000487
+2024-06-12 03:23:56 >>  
+Image: lion_resize, mask: markwith  alpha=1.3, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=33.131615
+ssim_destroyed=0.000000, ssim_inpainting=0.953847
+loss_destroyed=0.041159, loss_inpainting=0.000486
+2024-06-12 03:24:00 >>  
+Image: lion_resize, mask: markwith  alpha=1.3, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=33.242283
+ssim_destroyed=0.000000, ssim_inpainting=0.954546
+loss_destroyed=0.041194, loss_inpainting=0.000474
+2024-06-12 03:24:05 >>  
+Image: lion_resize, mask: markwith  alpha=1.3, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=33.393856
+ssim_destroyed=0.000000, ssim_inpainting=0.955562
+loss_destroyed=0.041225, loss_inpainting=0.000458
+2024-06-12 03:24:09 >>  
+Image: lion_resize, mask: markwith  alpha=1.3, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=33.537281
+ssim_destroyed=0.000000, ssim_inpainting=0.956534
+loss_destroyed=0.041252, loss_inpainting=0.000443
+2024-06-12 03:24:13 >>  
+Image: lion_resize, mask: markwith  alpha=1.3, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=33.643837
+ssim_destroyed=0.000000, ssim_inpainting=0.957271
+loss_destroyed=0.041279, loss_inpainting=0.000432
+2024-06-12 03:24:18 >>  
+Image: lion_resize, mask: markwith  alpha=1.3, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=33.652557
+ssim_destroyed=0.000000, ssim_inpainting=0.957341
+loss_destroyed=0.041294, loss_inpainting=0.000431
+2024-06-12 03:24:22 >>  
+Image: lion_resize, mask: markwith  alpha=1.3, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=33.424526
+ssim_destroyed=0.000000, ssim_inpainting=0.955164
+loss_destroyed=0.041299, loss_inpainting=0.000455
+2024-06-12 03:24:26 >>  
+Image: lion_resize, mask: markwith  alpha=1.3, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=32.774727
+ssim_destroyed=0.000000, ssim_inpainting=0.948665
+loss_destroyed=0.041291, loss_inpainting=0.000528
+2024-06-12 03:24:39 >>  
+Image: lion_resize, mask: markwith  alpha=1.4, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=32.802837
+ssim_destroyed=0.000000, ssim_inpainting=0.951907
+loss_destroyed=0.041117, loss_inpainting=0.000524
+2024-06-12 03:24:51 >>  
+Image: lion_resize, mask: markwith  alpha=1.4, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=33.238808
+ssim_destroyed=0.000000, ssim_inpainting=0.954122
+loss_destroyed=0.041156, loss_inpainting=0.000474
+2024-06-12 03:25:03 >>  
+Image: lion_resize, mask: markwith  alpha=1.4, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=33.230850
+ssim_destroyed=0.000000, ssim_inpainting=0.954461
+loss_destroyed=0.041195, loss_inpainting=0.000475
+2024-06-12 03:25:15 >>  
+Image: lion_resize, mask: markwith  alpha=1.4, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=33.242638
+ssim_destroyed=0.000000, ssim_inpainting=0.954596
+loss_destroyed=0.041234, loss_inpainting=0.000474
+2024-06-12 03:25:27 >>  
+Image: lion_resize, mask: markwith  alpha=1.4, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=33.347313
+ssim_destroyed=0.000000, ssim_inpainting=0.955253
+loss_destroyed=0.041261, loss_inpainting=0.000463
+2024-06-12 03:25:39 >>  
+Image: lion_resize, mask: markwith  alpha=1.4, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=33.487560
+ssim_destroyed=0.000000, ssim_inpainting=0.956185
+loss_destroyed=0.041289, loss_inpainting=0.000448
+2024-06-12 03:25:51 >>  
+Image: lion_resize, mask: markwith  alpha=1.4, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=33.606533
+ssim_destroyed=0.000000, ssim_inpainting=0.957004
+loss_destroyed=0.041313, loss_inpainting=0.000436
+2024-06-12 03:26:04 >>  
+Image: lion_resize, mask: markwith  alpha=1.4, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=33.637394
+ssim_destroyed=0.000000, ssim_inpainting=0.957312
+loss_destroyed=0.041330, loss_inpainting=0.000433
+2024-06-12 03:26:16 >>  
+Image: lion_resize, mask: markwith  alpha=1.4, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=33.447350
+ssim_destroyed=0.000000, ssim_inpainting=0.955829
+loss_destroyed=0.041337, loss_inpainting=0.000452
+2024-06-12 03:26:28 >>  
+Image: lion_resize, mask: markwith  alpha=1.4, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=32.810932
+ssim_destroyed=0.000000, ssim_inpainting=0.949821
+loss_destroyed=0.041323, loss_inpainting=0.000523
+2024-06-12 03:26:40 >>  
+Image: lion_resize, mask: markwith  alpha=1.4, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=31.668098
+ssim_destroyed=0.000000, ssim_inpainting=0.939262
+loss_destroyed=0.041302, loss_inpainting=0.000681
+2024-06-12 03:26:50 >>  
+Image: lion_resize, mask: markwith  alpha=1.5, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=33.017227
+ssim_destroyed=0.000000, ssim_inpainting=0.953008
+loss_destroyed=0.041204, loss_inpainting=0.000499
+2024-06-12 03:27:00 >>  
+Image: lion_resize, mask: markwith  alpha=1.5, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=33.350307
+ssim_destroyed=0.000000, ssim_inpainting=0.954776
+loss_destroyed=0.041244, loss_inpainting=0.000462
+2024-06-12 03:27:10 >>  
+Image: lion_resize, mask: markwith  alpha=1.5, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=33.314209
+ssim_destroyed=0.000000, ssim_inpainting=0.955057
+loss_destroyed=0.041284, loss_inpainting=0.000466
+2024-06-12 03:27:20 >>  
+Image: lion_resize, mask: markwith  alpha=1.5, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=33.330345
+ssim_destroyed=0.000000, ssim_inpainting=0.955189
+loss_destroyed=0.041315, loss_inpainting=0.000464
+2024-06-12 03:27:30 >>  
+Image: lion_resize, mask: markwith  alpha=1.5, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=33.432003
+ssim_destroyed=0.000000, ssim_inpainting=0.955820
+loss_destroyed=0.041343, loss_inpainting=0.000454
+2024-06-12 03:27:40 >>  
+Image: lion_resize, mask: markwith  alpha=1.5, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=33.550842
+ssim_destroyed=0.000000, ssim_inpainting=0.956611
+loss_destroyed=0.041369, loss_inpainting=0.000441
+2024-06-12 03:27:49 >>  
+Image: lion_resize, mask: markwith  alpha=1.5, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=33.580807
+ssim_destroyed=0.000000, ssim_inpainting=0.956984
+loss_destroyed=0.041379, loss_inpainting=0.000438
+2024-06-12 03:27:59 >>  
+Image: lion_resize, mask: markwith  alpha=1.5, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=33.375416
+ssim_destroyed=0.000000, ssim_inpainting=0.955726
+loss_destroyed=0.041382, loss_inpainting=0.000460
+2024-06-12 03:28:09 >>  
+Image: lion_resize, mask: markwith  alpha=1.5, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=32.660587
+ssim_destroyed=0.000000, ssim_inpainting=0.949410
+loss_destroyed=0.041387, loss_inpainting=0.000542
+2024-06-12 03:28:19 >>  
+Image: lion_resize, mask: markwith  alpha=1.5, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=31.359802
+ssim_destroyed=0.000000, ssim_inpainting=0.937949
+loss_destroyed=0.041370, loss_inpainting=0.000731
+2024-06-12 03:28:29 >>  
+Image: lion_resize, mask: markwith  alpha=1.5, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=29.737577
+ssim_destroyed=0.000000, ssim_inpainting=0.923823
+loss_destroyed=0.041357, loss_inpainting=0.001062
+2024-06-12 03:28:37 >>  
+Image: lion_resize, mask: markwith  alpha=1.6, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=33.086754
+ssim_destroyed=0.000000, ssim_inpainting=0.953640
+loss_destroyed=0.041308, loss_inpainting=0.000491
+2024-06-12 03:28:45 >>  
+Image: lion_resize, mask: markwith  alpha=1.6, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=33.351490
+ssim_destroyed=0.000000, ssim_inpainting=0.955155
+loss_destroyed=0.041350, loss_inpainting=0.000462
+2024-06-12 03:28:53 >>  
+Image: lion_resize, mask: markwith  alpha=1.6, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=33.376404
+ssim_destroyed=0.000000, ssim_inpainting=0.955507
+loss_destroyed=0.041388, loss_inpainting=0.000460
+2024-06-12 03:29:01 >>  
+Image: lion_resize, mask: markwith  alpha=1.6, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=33.401390
+ssim_destroyed=0.000000, ssim_inpainting=0.955666
+loss_destroyed=0.041417, loss_inpainting=0.000457
+2024-06-12 03:29:09 >>  
+Image: lion_resize, mask: markwith  alpha=1.6, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=33.477428
+ssim_destroyed=0.000000, ssim_inpainting=0.956130
+loss_destroyed=0.041443, loss_inpainting=0.000449
+2024-06-12 03:29:17 >>  
+Image: lion_resize, mask: markwith  alpha=1.6, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=33.459160
+ssim_destroyed=0.000000, ssim_inpainting=0.956376
+loss_destroyed=0.041457, loss_inpainting=0.000451
+2024-06-12 03:29:25 >>  
+Image: lion_resize, mask: markwith  alpha=1.6, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=33.127453
+ssim_destroyed=0.000000, ssim_inpainting=0.954478
+loss_destroyed=0.041459, loss_inpainting=0.000487
+2024-06-12 03:29:33 >>  
+Image: lion_resize, mask: markwith  alpha=1.6, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=32.115025
+ssim_destroyed=0.000000, ssim_inpainting=0.946235
+loss_destroyed=0.041466, loss_inpainting=0.000614
+2024-06-12 03:29:41 >>  
+Image: lion_resize, mask: markwith  alpha=1.6, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=30.473204
+ssim_destroyed=0.000000, ssim_inpainting=0.932716
+loss_destroyed=0.041467, loss_inpainting=0.000897
+2024-06-12 03:29:49 >>  
+Image: lion_resize, mask: markwith  alpha=1.6, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=28.626152
+ssim_destroyed=0.000000, ssim_inpainting=0.916602
+loss_destroyed=0.041460, loss_inpainting=0.001372
+2024-06-12 03:29:57 >>  
+Image: lion_resize, mask: markwith  alpha=1.6, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=26.884281
+ssim_destroyed=0.000000, ssim_inpainting=0.899910
+loss_destroyed=0.041458, loss_inpainting=0.002049
+2024-06-12 03:30:03 >>  
+Image: lion_resize, mask: markwith  alpha=1.7, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=33.310772
+ssim_destroyed=0.000000, ssim_inpainting=0.954844
+loss_destroyed=0.041433, loss_inpainting=0.000467
+2024-06-12 03:30:10 >>  
+Image: lion_resize, mask: markwith  alpha=1.7, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=33.455090
+ssim_destroyed=0.000000, ssim_inpainting=0.955839
+loss_destroyed=0.041476, loss_inpainting=0.000451
+2024-06-12 03:30:16 >>  
+Image: lion_resize, mask: markwith  alpha=1.7, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=33.412952
+ssim_destroyed=0.000000, ssim_inpainting=0.955795
+loss_destroyed=0.041508, loss_inpainting=0.000456
+2024-06-12 03:30:22 >>  
+Image: lion_resize, mask: markwith  alpha=1.7, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=33.355087
+ssim_destroyed=0.000000, ssim_inpainting=0.955557
+loss_destroyed=0.041537, loss_inpainting=0.000462
+2024-06-12 03:30:28 >>  
+Image: lion_resize, mask: markwith  alpha=1.7, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=33.155159
+ssim_destroyed=0.000000, ssim_inpainting=0.955155
+loss_destroyed=0.041560, loss_inpainting=0.000484
+2024-06-12 03:30:35 >>  
+Image: lion_resize, mask: markwith  alpha=1.7, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=32.359104
+ssim_destroyed=0.000000, ssim_inpainting=0.949778
+loss_destroyed=0.041564, loss_inpainting=0.000581
+2024-06-12 03:30:41 >>  
+Image: lion_resize, mask: markwith  alpha=1.7, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=30.640713
+ssim_destroyed=0.000000, ssim_inpainting=0.937208
+loss_destroyed=0.041572, loss_inpainting=0.000863
+2024-06-12 03:30:47 >>  
+Image: lion_resize, mask: markwith  alpha=1.7, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=28.518774
+ssim_destroyed=0.000000, ssim_inpainting=0.919934
+loss_destroyed=0.041580, loss_inpainting=0.001406
+2024-06-12 03:30:54 >>  
+Image: lion_resize, mask: markwith  alpha=1.7, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=26.516190
+ssim_destroyed=0.000000, ssim_inpainting=0.900729
+loss_destroyed=0.041585, loss_inpainting=0.002230
+2024-06-12 03:31:00 >>  
+Image: lion_resize, mask: markwith  alpha=1.7, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=24.791897
+ssim_destroyed=0.000000, ssim_inpainting=0.882085
+loss_destroyed=0.041589, loss_inpainting=0.003317
+2024-06-12 03:31:06 >>  
+Image: lion_resize, mask: markwith  alpha=1.7, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=23.344915
+ssim_destroyed=0.000000, ssim_inpainting=0.865005
+loss_destroyed=0.041596, loss_inpainting=0.004629
+2024-06-12 03:31:11 >>  
+Image: lion_resize, mask: markwith  alpha=1.8, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=33.478878
+ssim_destroyed=0.000000, ssim_inpainting=0.955836
+loss_destroyed=0.041580, loss_inpainting=0.000449
+2024-06-12 03:31:16 >>  
+Image: lion_resize, mask: markwith  alpha=1.8, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=33.324207
+ssim_destroyed=0.000000, ssim_inpainting=0.955611
+loss_destroyed=0.041621, loss_inpainting=0.000465
+2024-06-12 03:31:21 >>  
+Image: lion_resize, mask: markwith  alpha=1.8, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=32.918606
+ssim_destroyed=0.000000, ssim_inpainting=0.954210
+loss_destroyed=0.041649, loss_inpainting=0.000511
+2024-06-12 03:31:26 >>  
+Image: lion_resize, mask: markwith  alpha=1.8, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=31.838276
+ssim_destroyed=0.000000, ssim_inpainting=0.947920
+loss_destroyed=0.041675, loss_inpainting=0.000655
+2024-06-12 03:31:30 >>  
+Image: lion_resize, mask: markwith  alpha=1.8, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=29.674007
+ssim_destroyed=0.000000, ssim_inpainting=0.933743
+loss_destroyed=0.041689, loss_inpainting=0.001078
+2024-06-12 03:31:35 >>  
+Image: lion_resize, mask: markwith  alpha=1.8, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=27.137098
+ssim_destroyed=0.000000, ssim_inpainting=0.913424
+loss_destroyed=0.041699, loss_inpainting=0.001933
+2024-06-12 03:31:40 >>  
+Image: lion_resize, mask: markwith  alpha=1.8, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=24.869413
+ssim_destroyed=0.000000, ssim_inpainting=0.890224
+loss_destroyed=0.041708, loss_inpainting=0.003259
+2024-06-12 03:31:45 >>  
+Image: lion_resize, mask: markwith  alpha=1.8, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=23.181725
+ssim_destroyed=0.000000, ssim_inpainting=0.868600
+loss_destroyed=0.041721, loss_inpainting=0.004806
+2024-06-12 03:31:50 >>  
+Image: lion_resize, mask: markwith  alpha=1.8, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=21.930431
+ssim_destroyed=0.000000, ssim_inpainting=0.847783
+loss_destroyed=0.041730, loss_inpainting=0.006411
+2024-06-12 03:31:55 >>  
+Image: lion_resize, mask: markwith  alpha=1.8, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=20.858093
+ssim_destroyed=0.000000, ssim_inpainting=0.830092
+loss_destroyed=0.041740, loss_inpainting=0.008207
+2024-06-12 03:32:00 >>  
+Image: lion_resize, mask: markwith  alpha=1.8, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=19.973629
+ssim_destroyed=0.000000, ssim_inpainting=0.816042
+loss_destroyed=0.041751, loss_inpainting=0.010061
+2024-06-12 03:32:03 >>  
+Image: lion_resize, mask: markwith  alpha=1.9, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=31.417835
+ssim_destroyed=0.000000, ssim_inpainting=0.947495
+loss_destroyed=0.041753, loss_inpainting=0.000721
+2024-06-12 03:32:07 >>  
+Image: lion_resize, mask: markwith  alpha=1.9, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=28.608688
+ssim_destroyed=0.000000, ssim_inpainting=0.930821
+loss_destroyed=0.041782, loss_inpainting=0.001378
+2024-06-12 03:32:11 >>  
+Image: lion_resize, mask: markwith  alpha=1.9, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=25.535309
+ssim_destroyed=0.000000, ssim_inpainting=0.905902
+loss_destroyed=0.041805, loss_inpainting=0.002796
+2024-06-12 03:32:15 >>  
+Image: lion_resize, mask: markwith  alpha=1.9, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=23.178303
+ssim_destroyed=0.000000, ssim_inpainting=0.874730
+loss_destroyed=0.041823, loss_inpainting=0.004810
+2024-06-12 03:32:18 >>  
+Image: lion_resize, mask: markwith  alpha=1.9, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=21.366802
+ssim_destroyed=0.000000, ssim_inpainting=0.847087
+loss_destroyed=0.041834, loss_inpainting=0.007300
+2024-06-12 03:32:22 >>  
+Image: lion_resize, mask: markwith  alpha=1.9, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=20.026115
+ssim_destroyed=0.000000, ssim_inpainting=0.825624
+loss_destroyed=0.041844, loss_inpainting=0.009940
+2024-06-12 03:32:26 >>  
+Image: lion_resize, mask: markwith  alpha=1.9, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=19.005690
+ssim_destroyed=0.000000, ssim_inpainting=0.808694
+loss_destroyed=0.041854, loss_inpainting=0.012573
+2024-06-12 03:32:30 >>  
+Image: lion_resize, mask: markwith  alpha=1.9, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=18.237453
+ssim_destroyed=0.000000, ssim_inpainting=0.794450
+loss_destroyed=0.041864, loss_inpainting=0.015006
+2024-06-12 03:32:33 >>  
+Image: lion_resize, mask: markwith  alpha=1.9, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=17.604832
+ssim_destroyed=0.000000, ssim_inpainting=0.784173
+loss_destroyed=0.041873, loss_inpainting=0.017359
+2024-06-12 03:32:37 >>  
+Image: lion_resize, mask: markwith  alpha=1.9, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=17.056978
+ssim_destroyed=0.000000, ssim_inpainting=0.776718
+loss_destroyed=0.041881, loss_inpainting=0.019693
+2024-06-12 03:32:41 >>  
+Image: lion_resize, mask: markwith  alpha=1.9, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=16.601637
+ssim_destroyed=0.000000, ssim_inpainting=0.770501
+loss_destroyed=0.041889, loss_inpainting=0.021869
+2024-06-12 03:32:43 >>  
+Image: lion_resize, mask: markwith  alpha=1.999999999, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=13.772560
+ssim_destroyed=0.000000, ssim_inpainting=0.736378
+loss_destroyed=0.041951, loss_inpainting=0.041951
+2024-06-12 03:32:45 >>  
+Image: lion_resize, mask: markwith  alpha=1.999999999, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=13.772560
+ssim_destroyed=0.000000, ssim_inpainting=0.736378
+loss_destroyed=0.041951, loss_inpainting=0.041951
+2024-06-12 03:32:48 >>  
+Image: lion_resize, mask: markwith  alpha=1.999999999, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=13.772560
+ssim_destroyed=0.000000, ssim_inpainting=0.736378
+loss_destroyed=0.041951, loss_inpainting=0.041951
+2024-06-12 03:32:50 >>  
+Image: lion_resize, mask: markwith  alpha=1.999999999, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=13.772560
+ssim_destroyed=0.000000, ssim_inpainting=0.736378
+loss_destroyed=0.041951, loss_inpainting=0.041951
+2024-06-12 03:32:52 >>  
+Image: lion_resize, mask: markwith  alpha=1.999999999, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=13.772560
+ssim_destroyed=0.000000, ssim_inpainting=0.736378
+loss_destroyed=0.041951, loss_inpainting=0.041951
+2024-06-12 03:32:55 >>  
+Image: lion_resize, mask: markwith  alpha=1.999999999, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=13.772560
+ssim_destroyed=0.000000, ssim_inpainting=0.736378
+loss_destroyed=0.041951, loss_inpainting=0.041951
+2024-06-12 03:32:58 >>  
+Image: lion_resize, mask: markwith  alpha=1.999999999, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=13.772560
+ssim_destroyed=0.000000, ssim_inpainting=0.736378
+loss_destroyed=0.041951, loss_inpainting=0.041951
+2024-06-12 03:33:01 >>  
+Image: lion_resize, mask: markwith  alpha=1.999999999, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=13.772560
+ssim_destroyed=0.000000, ssim_inpainting=0.736378
+loss_destroyed=0.041951, loss_inpainting=0.041951
+2024-06-12 03:33:03 >>  
+Image: lion_resize, mask: markwith  alpha=1.999999999, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=13.772560
+ssim_destroyed=0.000000, ssim_inpainting=0.736378
+loss_destroyed=0.041951, loss_inpainting=0.041951
+2024-06-12 03:33:05 >>  
+Image: lion_resize, mask: markwith  alpha=1.999999999, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=13.772560
+ssim_destroyed=0.000000, ssim_inpainting=0.736378
+loss_destroyed=0.041951, loss_inpainting=0.041951
+2024-06-12 03:33:07 >>  
+Image: lion_resize, mask: markwith  alpha=1.999999999, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=13.772560
+ssim_destroyed=0.000000, ssim_inpainting=0.736378
+loss_destroyed=0.041951, loss_inpainting=0.041951
+2024-06-12 03:33:13 >>  
+Image: lion_resize, mask: randomwith  alpha=1e-09, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=7.923862
+ssim_destroyed=0.000000, ssim_inpainting=0.082586
+loss_destroyed=0.161292, loss_inpainting=0.161292
+2024-06-12 03:33:15 >>  
+Image: lion_resize, mask: randomwith  alpha=1e-09, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=7.923862
+ssim_destroyed=0.000000, ssim_inpainting=0.082586
+loss_destroyed=0.161292, loss_inpainting=0.161292
+2024-06-12 03:33:18 >>  
+Image: lion_resize, mask: randomwith  alpha=1e-09, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=7.923862
+ssim_destroyed=0.000000, ssim_inpainting=0.082586
+loss_destroyed=0.161292, loss_inpainting=0.161292
+2024-06-12 03:33:21 >>  
+Image: lion_resize, mask: randomwith  alpha=1e-09, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=7.923862
+ssim_destroyed=0.000000, ssim_inpainting=0.082586
+loss_destroyed=0.161292, loss_inpainting=0.161292
+2024-06-12 03:33:23 >>  
+Image: lion_resize, mask: randomwith  alpha=1e-09, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=7.923862
+ssim_destroyed=0.000000, ssim_inpainting=0.082586
+loss_destroyed=0.161292, loss_inpainting=0.161292
+2024-06-12 03:33:25 >>  
+Image: lion_resize, mask: randomwith  alpha=1e-09, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=7.923862
+ssim_destroyed=0.000000, ssim_inpainting=0.082586
+loss_destroyed=0.161292, loss_inpainting=0.161292
+2024-06-12 03:33:27 >>  
+Image: lion_resize, mask: randomwith  alpha=1e-09, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=7.923862
+ssim_destroyed=0.000000, ssim_inpainting=0.082586
+loss_destroyed=0.161292, loss_inpainting=0.161292
+2024-06-12 03:33:30 >>  
+Image: lion_resize, mask: randomwith  alpha=1e-09, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=7.923862
+ssim_destroyed=0.000000, ssim_inpainting=0.082586
+loss_destroyed=0.161292, loss_inpainting=0.161292
+2024-06-12 03:33:33 >>  
+Image: lion_resize, mask: randomwith  alpha=1e-09, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=7.923862
+ssim_destroyed=0.000000, ssim_inpainting=0.082586
+loss_destroyed=0.161292, loss_inpainting=0.161292
+2024-06-12 03:33:36 >>  
+Image: lion_resize, mask: randomwith  alpha=1e-09, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=7.923862
+ssim_destroyed=0.000000, ssim_inpainting=0.082586
+loss_destroyed=0.161292, loss_inpainting=0.161292
+2024-06-12 03:33:38 >>  
+Image: lion_resize, mask: randomwith  alpha=1e-09, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=7.923862
+ssim_destroyed=0.000000, ssim_inpainting=0.082586
+loss_destroyed=0.161292, loss_inpainting=0.161292
+2024-06-12 03:36:12 >>  
+Image: lion_resize, mask: randomwith  alpha=0.1, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=24.027752
+ssim_destroyed=0.000000, ssim_inpainting=0.689698
+loss_destroyed=0.159272, loss_inpainting=0.003956
+2024-06-12 03:38:46 >>  
+Image: lion_resize, mask: randomwith  alpha=0.1, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=23.970156
+ssim_destroyed=0.000000, ssim_inpainting=0.685824
+loss_destroyed=0.159501, loss_inpainting=0.004009
+2024-06-12 03:41:20 >>  
+Image: lion_resize, mask: randomwith  alpha=0.1, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=24.113152
+ssim_destroyed=0.000000, ssim_inpainting=0.697183
+loss_destroyed=0.159715, loss_inpainting=0.003879
+2024-06-12 03:43:54 >>  
+Image: lion_resize, mask: randomwith  alpha=0.1, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=24.442036
+ssim_destroyed=0.000000, ssim_inpainting=0.715742
+loss_destroyed=0.159909, loss_inpainting=0.003596
+2024-06-12 03:46:27 >>  
+Image: lion_resize, mask: randomwith  alpha=0.1, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=24.848558
+ssim_destroyed=0.000000, ssim_inpainting=0.734492
+loss_destroyed=0.160085, loss_inpainting=0.003274
+2024-06-12 03:49:01 >>  
+Image: lion_resize, mask: randomwith  alpha=0.1, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=25.298416
+ssim_destroyed=0.000000, ssim_inpainting=0.751588
+loss_destroyed=0.160242, loss_inpainting=0.002952
+2024-06-12 03:51:35 >>  
+Image: lion_resize, mask: randomwith  alpha=0.1, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=25.745678
+ssim_destroyed=0.000000, ssim_inpainting=0.765645
+loss_destroyed=0.160382, loss_inpainting=0.002663
+2024-06-12 03:54:08 >>  
+Image: lion_resize, mask: randomwith  alpha=0.1, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=25.890137
+ssim_destroyed=0.000000, ssim_inpainting=0.766135
+loss_destroyed=0.160504, loss_inpainting=0.002576
+2024-06-12 03:56:42 >>  
+Image: lion_resize, mask: randomwith  alpha=0.1, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=24.841423
+ssim_destroyed=0.000000, ssim_inpainting=0.714171
+loss_destroyed=0.160612, loss_inpainting=0.003280
+2024-06-12 03:59:16 >>  
+Image: lion_resize, mask: randomwith  alpha=0.1, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=22.613430
+ssim_destroyed=0.000000, ssim_inpainting=0.616909
+loss_destroyed=0.160706, loss_inpainting=0.005478
+2024-06-12 04:01:50 >>  
+Image: lion_resize, mask: randomwith  alpha=0.1, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=20.245850
+ssim_destroyed=0.000000, ssim_inpainting=0.512119
+loss_destroyed=0.160788, loss_inpainting=0.009450
+2024-06-12 04:02:37 >>  
+Image: lion_resize, mask: randomwith  alpha=0.2, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=24.476810
+ssim_destroyed=0.000000, ssim_inpainting=0.708816
+loss_destroyed=0.157756, loss_inpainting=0.003567
+2024-06-12 04:03:24 >>  
+Image: lion_resize, mask: randomwith  alpha=0.2, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=24.364449
+ssim_destroyed=0.000000, ssim_inpainting=0.701086
+loss_destroyed=0.157975, loss_inpainting=0.003661
+2024-06-12 04:04:11 >>  
+Image: lion_resize, mask: randomwith  alpha=0.2, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=24.499496
+ssim_destroyed=0.000000, ssim_inpainting=0.712265
+loss_destroyed=0.158200, loss_inpainting=0.003549
+2024-06-12 04:04:58 >>  
+Image: lion_resize, mask: randomwith  alpha=0.2, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=24.871078
+ssim_destroyed=0.000000, ssim_inpainting=0.732425
+loss_destroyed=0.158424, loss_inpainting=0.003258
+2024-06-12 04:05:46 >>  
+Image: lion_resize, mask: randomwith  alpha=0.2, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=25.306042
+ssim_destroyed=0.000000, ssim_inpainting=0.752063
+loss_destroyed=0.158643, loss_inpainting=0.002947
+2024-06-12 04:06:33 >>  
+Image: lion_resize, mask: randomwith  alpha=0.2, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=25.745878
+ssim_destroyed=0.000000, ssim_inpainting=0.769380
+loss_destroyed=0.158853, loss_inpainting=0.002663
+2024-06-12 04:07:20 >>  
+Image: lion_resize, mask: randomwith  alpha=0.2, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=26.167213
+ssim_destroyed=0.000000, ssim_inpainting=0.784243
+loss_destroyed=0.159053, loss_inpainting=0.002417
+2024-06-12 04:08:07 >>  
+Image: lion_resize, mask: randomwith  alpha=0.2, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=26.559706
+ssim_destroyed=0.000000, ssim_inpainting=0.796869
+loss_destroyed=0.159242, loss_inpainting=0.002208
+2024-06-12 04:08:54 >>  
+Image: lion_resize, mask: randomwith  alpha=0.2, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=26.918369
+ssim_destroyed=0.000000, ssim_inpainting=0.807471
+loss_destroyed=0.159419, loss_inpainting=0.002033
+2024-06-12 04:09:42 >>  
+Image: lion_resize, mask: randomwith  alpha=0.2, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=27.234203
+ssim_destroyed=0.000000, ssim_inpainting=0.815954
+loss_destroyed=0.159584, loss_inpainting=0.001891
+2024-06-12 04:10:29 >>  
+Image: lion_resize, mask: randomwith  alpha=0.2, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=27.462461
+ssim_destroyed=0.000000, ssim_inpainting=0.820443
+loss_destroyed=0.159736, loss_inpainting=0.001794
+2024-06-12 04:14:12 >>  
+Image: lion_resize, mask: randomwith  alpha=0.3, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=25.292820
+ssim_destroyed=0.000000, ssim_inpainting=0.744845
+loss_destroyed=0.156741, loss_inpainting=0.002956
+2024-06-12 04:17:54 >>  
+Image: lion_resize, mask: randomwith  alpha=0.3, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=25.143272
+ssim_destroyed=0.000000, ssim_inpainting=0.735511
+loss_destroyed=0.156912, loss_inpainting=0.003060
+2024-06-12 04:21:37 >>  
+Image: lion_resize, mask: randomwith  alpha=0.3, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=25.269373
+ssim_destroyed=0.000000, ssim_inpainting=0.746168
+loss_destroyed=0.157103, loss_inpainting=0.002972
+2024-06-12 04:25:20 >>  
+Image: lion_resize, mask: randomwith  alpha=0.3, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=25.658581
+ssim_destroyed=0.000000, ssim_inpainting=0.765388
+loss_destroyed=0.157306, loss_inpainting=0.002717
+2024-06-12 04:29:02 >>  
+Image: lion_resize, mask: randomwith  alpha=0.3, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=26.103889
+ssim_destroyed=0.000000, ssim_inpainting=0.783327
+loss_destroyed=0.157514, loss_inpainting=0.002453
+2024-06-12 04:32:45 >>  
+Image: lion_resize, mask: randomwith  alpha=0.3, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=26.541248
+ssim_destroyed=0.000000, ssim_inpainting=0.798613
+loss_destroyed=0.157724, loss_inpainting=0.002218
+2024-06-12 04:36:28 >>  
+Image: lion_resize, mask: randomwith  alpha=0.3, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=26.950386
+ssim_destroyed=0.000000, ssim_inpainting=0.811426
+loss_destroyed=0.157932, loss_inpainting=0.002018
+2024-06-12 04:40:11 >>  
+Image: lion_resize, mask: randomwith  alpha=0.3, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=27.324451
+ssim_destroyed=0.000000, ssim_inpainting=0.822144
+loss_destroyed=0.158135, loss_inpainting=0.001852
+2024-06-12 04:43:53 >>  
+Image: lion_resize, mask: randomwith  alpha=0.3, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=27.661858
+ssim_destroyed=0.000000, ssim_inpainting=0.831125
+loss_destroyed=0.158332, loss_inpainting=0.001713
+2024-06-12 04:47:36 >>  
+Image: lion_resize, mask: randomwith  alpha=0.3, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=27.962845
+ssim_destroyed=0.000000, ssim_inpainting=0.838651
+loss_destroyed=0.158521, loss_inpainting=0.001599
+2024-06-12 04:51:19 >>  
+Image: lion_resize, mask: randomwith  alpha=0.3, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=28.227310
+ssim_destroyed=0.000000, ssim_inpainting=0.844900
+loss_destroyed=0.158702, loss_inpainting=0.001504
+2024-06-12 04:54:21 >>  
+Image: lion_resize, mask: randomwith  alpha=0.4, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=26.124207
+ssim_destroyed=0.000000, ssim_inpainting=0.778651
+loss_destroyed=0.156018, loss_inpainting=0.002441
+2024-06-12 04:57:22 >>  
+Image: lion_resize, mask: randomwith  alpha=0.4, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=25.952845
+ssim_destroyed=0.000000, ssim_inpainting=0.769572
+loss_destroyed=0.156139, loss_inpainting=0.002539
+2024-06-12 05:00:24 >>  
+Image: lion_resize, mask: randomwith  alpha=0.4, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=26.063719
+ssim_destroyed=0.000000, ssim_inpainting=0.778789
+loss_destroyed=0.156288, loss_inpainting=0.002475
+2024-06-12 05:03:26 >>  
+Image: lion_resize, mask: randomwith  alpha=0.4, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=26.447060
+ssim_destroyed=0.000000, ssim_inpainting=0.795406
+loss_destroyed=0.156458, loss_inpainting=0.002266
+2024-06-12 05:06:27 >>  
+Image: lion_resize, mask: randomwith  alpha=0.4, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=26.880991
+ssim_destroyed=0.000000, ssim_inpainting=0.810642
+loss_destroyed=0.156640, loss_inpainting=0.002051
+2024-06-12 05:09:29 >>  
+Image: lion_resize, mask: randomwith  alpha=0.4, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=27.297886
+ssim_destroyed=0.000000, ssim_inpainting=0.823390
+loss_destroyed=0.156831, loss_inpainting=0.001863
+2024-06-12 05:12:31 >>  
+Image: lion_resize, mask: randomwith  alpha=0.4, p= 1.6
+psnr_destroyed=0.000000, psnr_inpainting=27.680756
+ssim_destroyed=0.000000, ssim_inpainting=0.833934
+loss_destroyed=0.157026, loss_inpainting=0.001706
+2024-06-12 05:15:33 >>  
+Image: lion_resize, mask: randomwith  alpha=0.4, p= 1.7
+psnr_destroyed=0.000000, psnr_inpainting=28.025768
+ssim_destroyed=0.000000, ssim_inpainting=0.842681
+loss_destroyed=0.157222, loss_inpainting=0.001576
+2024-06-12 05:18:34 >>  
+Image: lion_resize, mask: randomwith  alpha=0.4, p= 1.8
+psnr_destroyed=0.000000, psnr_inpainting=28.333178
+ssim_destroyed=0.000000, ssim_inpainting=0.849967
+loss_destroyed=0.157417, loss_inpainting=0.001468
+2024-06-12 05:21:36 >>  
+Image: lion_resize, mask: randomwith  alpha=0.4, p= 1.9
+psnr_destroyed=0.000000, psnr_inpainting=28.604364
+ssim_destroyed=0.000000, ssim_inpainting=0.856052
+loss_destroyed=0.157608, loss_inpainting=0.001379
+2024-06-12 05:24:38 >>  
+Image: lion_resize, mask: randomwith  alpha=0.4, p= 1.999999999
+psnr_destroyed=0.000000, psnr_inpainting=28.840979
+ssim_destroyed=0.000000, ssim_inpainting=0.861133
+loss_destroyed=0.157796, loss_inpainting=0.001306
+2024-06-12 05:26:54 >>  
+Image: lion_resize, mask: randomwith  alpha=0.5, p= 1.000000001
+psnr_destroyed=0.000000, psnr_inpainting=26.890759
+ssim_destroyed=0.000000, ssim_inpainting=0.806267
+loss_destroyed=0.155478, loss_inpainting=0.002046
+2024-06-12 05:29:10 >>  
+Image: lion_resize, mask: randomwith  alpha=0.5, p= 1.1
+psnr_destroyed=0.000000, psnr_inpainting=26.715124
+ssim_destroyed=0.000000, ssim_inpainting=0.799094
+loss_destroyed=0.155553, loss_inpainting=0.002131
+2024-06-12 05:31:27 >>  
+Image: lion_resize, mask: randomwith  alpha=0.5, p= 1.2
+psnr_destroyed=0.000000, psnr_inpainting=26.808064
+ssim_destroyed=0.000000, ssim_inpainting=0.806182
+loss_destroyed=0.155663, loss_inpainting=0.002085
+2024-06-12 05:33:43 >>  
+Image: lion_resize, mask: randomwith  alpha=0.5, p= 1.3
+psnr_destroyed=0.000000, psnr_inpainting=27.164764
+ssim_destroyed=0.000000, ssim_inpainting=0.819497
+loss_destroyed=0.155797, loss_inpainting=0.001921
+2024-06-12 05:35:59 >>  
+Image: lion_resize, mask: randomwith  alpha=0.5, p= 1.4
+psnr_destroyed=0.000000, psnr_inpainting=27.570282
+ssim_destroyed=0.000000, ssim_inpainting=0.831889
+loss_destroyed=0.155950, loss_inpainting=0.001750
+2024-06-12 05:38:15 >>  
+Image: lion_resize, mask: randomwith  alpha=0.5, p= 1.5
+psnr_destroyed=0.000000, psnr_inpainting=27.954521
+ssim_destroyed=0.000000, ssim_inpainting=0.842241
+loss_destroyed=0.156116, loss_inpainting=0.001602
